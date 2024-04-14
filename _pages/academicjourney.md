@@ -39,17 +39,17 @@ Education
 
 Relevant Courses & Projects
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
+* EECS 281: Data Structures & Algorithms
+  * Letterman Path-finding Algorithm using Stacks and Queues
+  * Minemap Path-finding Algorithm using Priority Queues
+  * SQL Implementation using Hashmaps and Ordered Maps
+|  ![FPGA](/images/FPGA.jpg) |  ![FPGA](/images/FPGA2.jpg)  |  ![FPGA](/images/FPGA3.jpg)  |
+* EECS 270: Logic Design
+  * Four Function Calculator using
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
+* EECS 215: Circuits Design & Analysis
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
