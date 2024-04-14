@@ -49,6 +49,8 @@ I enjoy working in a team and work on a project with a group of people. 👥
 
 For more info
 ------
-Feel free to reach out to me if you would like to know more about me
+Feel free to reach out to me if you would like to know more about me!
+
 Email - [ycpoon@umich.edu](mailto:ycpoon@umich.edu)
+
 Linkedin - [Yan Cheng Poon](https://www.linkedin.com/in/yan-cheng-poon/)
