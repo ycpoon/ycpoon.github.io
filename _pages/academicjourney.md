@@ -7,16 +7,25 @@ redirect_from:
   - /academicjourney
 ---
 
-{% include base_path %}
 
 Education
 ======
-**University of Michigan - Ann Arbor**                                                    May 2025
+**University of Michigan - Ann Arbor**, May 2025
+
 *Bachelor of Science in Engineering - Computer Engineering*
-- Relevant Courses: Logic Design, Data Structures & Algortihm, Circuits Analysis, VLSI
+
 - CGPA: 3.86, Dean's List, University Honors
+- Relevant Courses: Logic Design, Data Structures & Algortihm, Circuits Analysis, VLSI
 - Involvement: University of Michigan Solar Car Team, IEEE UMich, Michigan Hackers, Tau Epsilon Kappa (Professional Technology Fraternity)
-- F
+- Focused and Specialized Field: Embedded Systems, Microsystems, Digital Systems Design, Chips Design
+
+**Taylor's University**, May 2023
+
+*American Degree Transfer Program*
+
+- CGPA: 3.84, Dean's List, Best Engineering Student Honor
+- Relevant Courses: Calculus 3, Physics 1 & 2, C++ Programming
+- Involvement: Agents of Tech, Taylor's University Student Council, Student Union 
 
 
 Work experience
