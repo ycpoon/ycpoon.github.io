@@ -11,7 +11,12 @@ redirect_from:
 
 Education
 ======
-**University of Michigan - Ann Arbor**
+**University of Michigan - Ann Arbor**                                                    May 2025
+*Bachelor of Science in Engineering - Computer Engineering*
+- Relevant Courses: Logic Design, Data Structures & Algortihm, Circuits Analysis, VLSI
+- CGPA: 3.86, Dean's List, University Honors
+- Involvement: University of Michigan Solar Car Team, IEEE UMich, Michigan Hackers, Tau Epsilon Kappa (Professional Technology Fraternity)
+- F
 
 
 Work experience
