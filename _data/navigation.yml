@@ -3,8 +3,8 @@ main:
   - title: "Academic Journey"
     url: /academicjourney/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Experiences"
+    url: /experiences/    
 
   - title: "Teaching"
     url: /teaching/    
@@ -15,8 +15,6 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  - title: "1-page Resume"
+    url: /resume/
     
-  - title: "Guide"
-    url: /markdown/
