@@ -19,6 +19,7 @@ I have several years of internship and working experience from the University of
 
 I am currently searching for internship opportunities to further advance my engineering knowledge and gain more practical experience in the field.
 
+
 My Passion
 ======
 
@@ -26,27 +27,28 @@ Born in the 2000s,  I have been blessed to witness the advancement of technology
 
 I have always been passionate about **tech**. I significantly enjoy **building devices** and **playing around with Arduino**. One of my proudest projects is a $80 computer that I built using simple Rasberry Pi as an initiative to provide underprivileged children with access to computers.
 
-<div><b><i>My favorite Arduino kit 👇     Incoming Autonomous Drone Project👇</i></b></div>
-<p align="center">
-    <img src="/images/arduinokit.jpg" alt="Arduino" width="200"/>
-    <img src="/images/drone.jpg" alt="Drone" width="200"/>
-</p>
-
 | ***My favorite Arduino kit*** 👇  | ***Incoming Autonomous Drone Project*** 👇 | 
 |:-----------------------:|:-----------------------:|
 |      ![Arduino Kit](/images/arduinokit.jpg)      |      ![Drone Project](/images/drone.jpg)     |
 
-Some Fun Facts About Me
+
+Some More Facts About Me
 ======
-I am a Malaysian. 🇲🇾
+I am a Malaysian 🇲🇾 residing in the United States 🇺🇸 for university studies.
+
+I can speak 4 different languages:
+*English, Chinese, Malay, Cantonese*
 
 Hobbies outside of tech:
 - Playing Basketball 🏀
 - Watching sports 📺
 - Diving 🤿
 
+I enjoy working in a team and work on a project with a group of people. 👥
 
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Feel free to reach out to me if you would like to know more about me
+Email - [ycpoon@umich.edu](mailto:ycpoon@umich.edu)
+Linkedin - [Yan Cheng Poon](https://www.linkedin.com/in/yan-cheng-poon/)
