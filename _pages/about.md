@@ -28,7 +28,7 @@ I have always been passionate about **tech**. I significantly enjoy **building d
 
 
 ***My favorite Arduino kit*** 👇 &nbsp; ***Incoming Autonomous Drone Project*** 👇
-![Arduino Kit](/images/arduinokit.jpg){width="300px"} &nbsp; ![Drone Project](/images/drone.jpg){width="500px"}
+![Arduino Kit](/images/arduinokit.jpg){: width="300px"} &nbsp; ![Drone Project](/images/drone.jpg){: width="500px"}
 
 Some Fun Facts About Me
 ======
