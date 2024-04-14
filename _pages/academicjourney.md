@@ -43,11 +43,15 @@ Relevant Courses & Projects
   * Letterman Path-finding Algorithm using Stacks and Queues
   * Minemap Path-finding Algorithm using Priority Queues
   * SQL Implementation using Hashmaps and Ordered Maps
-|  ![FPGA](/images/FPGA.jpg) |  ![FPGA](/images/FPGA2.jpg)  |  ![FPGA](/images/FPGA3.jpg)  |
+
+|  ![FPGA](/images/FPGA.png) |  ![FPGA](/images/FPGA2.png)  |  ![FPGA](/images/FPGA3.png)  |
+
 * EECS 270: Logic Design
-  * Four Function Calculator using
+  * Four Function Calculator using ALtera FPGA programming
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
+
+|  ![FPGA](/images/FPGA.png) |  ![FPGA](/images/FPGA2.png)  |  ![FPGA](/images/FPGA3.png)  |
 
 * EECS 215: Circuits Design & Analysis
   * Github University
