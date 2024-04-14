@@ -7,6 +7,9 @@ redirect_from:
   - /academicjourney
 ---
 
+&nbsp;
+&nbsp;
+
 
 Education
 ======
@@ -19,18 +22,22 @@ Education
 - Relevant Courses: Logic Design, Data Structures & Algortihm, Circuits Analysis, VLSI
 - Involvement: University of Michigan Solar Car Team, IEEE UMich, Michigan Hackers, Tau Epsilon Kappa (Professional Technology Fraternity)
 - Focused and Specialized Field: Embedded Systems, Microsystems, Digital Systems Design, Chips Design
+
 &nbsp;
-&nbsp;  
+&nbsp; 
+
      
 **Taylor's University**, May 2023  
 *American Degree Transfer Program*  
 - CGPA: 3.84, Dean's List, Best Engineering Student Honor
 - Relevant Courses: Calculus 3, Physics 1 & 2, C++ Programming
 - Involvement: Agents of Tech, Taylor's University Student Council, Student Union   
+
 &nbsp;
 &nbsp;
 
-Work experience
+
+Relevant Courses & Projects
 ======
 * Spring 2024: Academic Pages Collaborator
   * Github University
