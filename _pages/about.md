@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-![Michigan](/images/michigan.jpg){: .align-right width="300px"}
+![Michigan](/images/michigan.jpg){: .align-right width="200px"}
 I am a 3rd year Computer Engineering student at the University of Michigan-Ann Arbor. 
 
 I am focused and specialized in 
@@ -24,11 +24,11 @@ My Passion
 
 Born in the 2000s,  I have been blessed to witness the advancement of technology from Nokia phones to iPhones. I always wonder, how did Bell invent the first-ever telephone? How did Steve Jobs design the first-ever iPhone? And, how does it lead us to today, where we have phones with hundreds of functions, all in that tiny device? These questions that have been lingering around my head are what drove me to pursue the major of **computer engineering**.
 
-I have always been passionate about tech. I significantly enjoy building devices and playing around with Arduino. One of my proudest projects is a $80 computer that I built using simple Rasberry Pi as an initiative to provide underprivileged children with access to computers.
+I have always been passionate about **tech**. I significantly enjoy **building devices** and **playing around with Arduino**. One of my proudest projects is a $80 computer that I built using simple Rasberry Pi as an initiative to provide underprivileged children with access to computers.
 
-My favorite Arduino kit 👇                      Incoming Autonomous Drone Project 👇
+***My favorite Arduino kit*** 👇                        ***Incoming Autonomous Drone Project*** 👇
 ![Arduino Kit](/images/arduinokit.jpg){: .align-left width="300px"}
-![Drone Project](/images/drone.jpg){: .align-right width="300px"}
+![Drone Project](/images/drone.jpg){: .align-right width="500px"}
 
 
 Some Fun Facts About Me
