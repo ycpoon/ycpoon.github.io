@@ -39,52 +39,52 @@ Education
 
 Relevant Courses & Projects
 ======
-* EECS 281: Data Structures & Algorithms
+
+------------------------------- 
+
+* **EECS 281: Data Structures & Algorithms**
   * Letterman Path-finding Algorithm using Stacks and Queues
   * Minemap Path-finding Algorithm using Priority Queues
   * SQL Implementation using Hashmaps and Ordered Maps
 
 |  ![FPGA](/images/FPGA.png) |  ![FPGA](/images/FPGA2.png)  |  ![FPGA](/images/FPGA3.png)  |
 
-* EECS 270: Logic Design
-  * Four Function Calculator using ALtera FPGA programming
-  * Duties included: Merging pull requests
+* **EECS 270: Logic Design**
+  * Four Function Calculator using Altera FPGA programming
+  * Traffic Light Controller using Sequential Design
   * Supervisor: Professor Hub
 
 |  ![FPGA](/images/FPGA.png) |  ![FPGA](/images/FPGA2.png)  |  ![FPGA](/images/FPGA3.png)  |
 
-* EECS 215: Circuits Design & Analysis
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* **EECS 215: Circuits Design & Analysis**
+  * Waveform Generator to Measure Voltage 
+  * RLC Circuits & Op-Amps Circuits
+  * Powering Audio Transmitter with Rheostat
+
+|  ![circuits](/images/cir1.jpg) |  ![circuits](/images/cir2.jpg)  |  ![circuits](/images/cir3.jpg)  |
+
+* **EECS 280: Programming and Intro to Data Structures**
+  * Euchre Game  
+  * Posts Classifier Machine Learning Model
+  * Seam-Carving Algorithm
+
+* **EECS 201: Computer Science Pragmatics**
+  * Built and customize my own bash shell
+  * Pig-Latin Translation Program
+  * Created my own python library
+
+&nbsp;
+&nbsp;
+
   
 Skills
 ======
+
+------------------------------- 
+
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
