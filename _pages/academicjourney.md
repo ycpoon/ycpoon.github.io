@@ -7,9 +7,10 @@ redirect_from:
   - /academicjourney
 ---
 
-<div></div>
+
 Education
 ======
+    
 **University of Michigan - Ann Arbor**, May 2025
 
 *Bachelor of Science in Engineering - Computer Engineering*
@@ -19,7 +20,8 @@ Education
 - Involvement: University of Michigan Solar Car Team, IEEE UMich, Michigan Hackers, Tau Epsilon Kappa (Professional Technology Fraternity)
 - Focused and Specialized Field: Embedded Systems, Microsystems, Digital Systems Design, Chips Design
 
-<div></div>
+
+       
 **Taylor's University**, May 2023
 
 *American Degree Transfer Program*
