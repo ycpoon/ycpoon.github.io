@@ -26,9 +26,15 @@ Born in the 2000s,  I have been blessed to witness the advancement of technology
 
 I have always been passionate about **tech**. I significantly enjoy **building devices** and **playing around with Arduino**. One of my proudest projects is a $80 computer that I built using simple Rasberry Pi as an initiative to provide underprivileged children with access to computers.
 
+<div><b><i>My favorite Arduino kit 👇     Incoming Autonomous Drone Project👇</i></b></div>
+<p align="center">
+    <img src="/images/arduinokit.jpg" alt="Arduino" width="200"/>
+    <img src="/images/drone.jpg" alt="Drone" width="200"/>
+</p>
 
-***My favorite Arduino kit*** 👇 &nbsp; ***Incoming Autonomous Drone Project*** 👇
-![Arduino Kit](/images/arduinokit.jpg){: width="300px"} &nbsp; ![Drone Project](/images/drone.jpg){: width="500px"}
+| ***My favorite Arduino kit*** 👇  | ***Incoming Autonomous Drone Project*** 👇 | 
+|:-----------------------:|:-----------------------:|
+|      ![Arduino Kit](/images/arduinokit.jpg)      |      ![Drone Project](/images/drone.jpg)     |
 
 Some Fun Facts About Me
 ======
