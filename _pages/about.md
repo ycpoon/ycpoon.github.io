@@ -28,18 +28,15 @@ I have always been passionate about **tech**. I significantly enjoy **building d
 
 
 
-
+<div>
 ***My favorite Arduino kit*** 👉  
 ![Arduino Kit](/images/arduinokit.jpg){: .align-right width="300px"}
+</div>
 
-
-
-
-
-
+<div>
 ***Incoming Autonomous Drone Project*** 👉
 ![Drone Project](/images/drone.jpg){: .align-right width="500px"}
-
+</div>
 
 
 
