@@ -50,6 +50,7 @@ Completed Projects
 - A mobile application aimed to increase work & study motivation amidst the pandemic through tracking and gamifying the work & study process
 - Features of the Application: Work/Study Tracker & Timer, Leaderboard and Gamified Work/Study Tracker to motivate good competition among friends, Courses Listings to expand knowledge
 - *Tech Stack* - XML, Gradle
+- Achievements: Malaysian Student Technology Week 2021 Hackathon - Top 6 Finalist
 - GitHub Repo: [Socius](https://github.com/ycpoon/Socius)
 
 |  ![S1](/images/socius1.png){: width="300px"} |  ![S2](/images/socius2.png){: width="300px"}|  ![S3](/images/socius3.png){: width="300px"}  |
@@ -74,3 +75,18 @@ Work in Progress Projects
 | ![drone](/images/drone.jpg){: width="500px"} |
 |:-----------------------:|
 | ***Quadcopter Parts*** |
+
+&nbsp;
+&nbsp;
+
+Archived Past Projects
+======
+
+------------------------------- 
+
+**Saunea 3000**
+- A device that collects outer sound energy and convert sound energy to usable electrical energy.
+- The aim of the project is to make a device that can harvest energy from noise pollution and convert it to electrical energy, opening up the possibility of using sound energy as a source of clean energy.
+- Developed the model of the device using fundamentals of piezoelectricity to create electrical charge under mechanical stress.
+- Achievements: Kuala Lumpur Engineering Science Fair (KLESF) Finalist among 100+ groups
+- Reports Published: [Physics Report](/files/physics-project.pdf)
