@@ -17,7 +17,7 @@ Work Experiences
 
 **University of Michigan Solar Car Team**, Aug 2023 to Present  
 *Microsystems and Firmware Engineer* 
-![SC](/images/sclogo.png){: .align-right width="200px"} 
+![SC](/images/sclogo.png){: .align-right width="350px"} 
 - Designed the schematics and layout for a PCB that controls the car’s headlights, stop lights, and turn signals with Altium.
 - Led in redesigning the dashboard PCB to integrate Battery Management System (BMS) controls to the dashboard. 
 - Assisted in the software and hardware integration of the car’s sensors with the GPIO pins of the main MCU.
