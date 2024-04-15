@@ -80,8 +80,9 @@ Work Experiences
 *Dr. Ng Eng Hui, Senior Lecturer I, enghui.ng@taylors.edu.my*  
 *Dr. Yvonne Kong Yeo Lee, Senior Lecturer I, kong.yeolee@taylors.edu.my*  
 
-***Calculus Tutor***
-![pass](/images/pass.jpg){: .align-right width="500px"}
+| ![pass](/images/pass.jpg){: width="500px"} |
+|:-----------------------:|
+| ***Calculus Tutor Session*** |
 
 &nbsp;
 &nbsp;
@@ -103,11 +104,18 @@ Leadership Experiences
 
 **Agents of Tech**, Oct 2022 to Oct 2023  
 *President*  
-![Taylors](/images/aot.png){: .align-right width="300px"} 
+![Taylors](/images/aot.png){: .align-right width="250px"} 
 - Led in curating tech workshops and training sessions on topics such as React and Arduino for over 200 like-minded club members.
 - Hosted the biggest hackathon in college’s history with 200+ participants and cash prizes amounting to more than $7k.
 - Secured sponsorships amounting to $25k from 7 different tech companies and partnerships with Intel, Google, and Samsung.
 - Certificates: [Agents of Tech](/files/AoT.pdf)
 
 *References: Gregory Sinnappan, Student Development, gregory.sinnappan@taylors.edu.my, +6016 2369600*
+
+|  ![hack](/images/hackathon.jpeg){: width="300px"} |  ![Myself](/images/presenting.jpg){: width="300px"}|  ![Poster](/images/poster.jpeg){: width="300px"}  |
+|:-----------------------:|:-----------------------:|:-----------------------:|
+| ***Hackathon Hosted*** | ***Emcee Experience*** | ***Events Organized*** | 
+
+&nbsp;
+&nbsp;
 
