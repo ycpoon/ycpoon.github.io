@@ -18,8 +18,8 @@ Completed Projects
 **$80 Computer Initiative**
 - A project to build cheap computers under the cost of $80 as an initiative to provide underpriviledge children access to computers
 - How did we built it?
-> 1. We first purchased and used [Rasberry Pi 4 Model B](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/) as the computer's main CPU.
-> 2. We later bought second-hand monitors, microphones, keyboards, mouse, and speakers to integrate it with the Rasberry Pi computer.
+> 1. We first purchased and used [Raspberry Pi 4 Model B](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/) as the computer's main CPU.
+> 2. We later bought second-hand monitors, microphones, keyboards, mouse, and speakers to integrate it with the Raspberry Pi computer.
 > 3. To make the computer compatible with daily-use applications, we installed [Chromium](https://www.chromium.org/chromium-projects/), which is a free open-source OS available on the internet, to the computer.
 > 4. Packaging all of it together, we have a fully functional $80 computer that is capable of running basic applications such as Word, Excel, and even access the internet.
 - Amount of Computers Built and Donated: 4
@@ -33,6 +33,10 @@ Completed Projects
 &nbsp;
 &nbsp;
 
+**RoboChef**
+- A web application that receives an image of any food, then identifies the food and its ingredient, and finally compile a list of recipes that shares the same ingredients as the food in the image given
+- Benefits of the Application: Identify any image and provide recipes instantly, provide multiple recipe options, help students decide meals easily, fast & easy
+- GitHub Repo: 
 
 
 Work in Progress Projects
