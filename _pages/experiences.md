@@ -23,23 +23,28 @@ Work Experiences
 - Assisted in the software and hardware integration of the car’s sensors with the GPIO pins of the main MCU.
 - Analyzed and rewrote the firmware code for the car’s light and brake system to increase the response time by ~120%
 - Developed a RTOS-based firmware that handles interrupts and schedules tasks for the MCU based on specific priorities.
+*References: Jeffrey Yang, UMSCT Microsystems Lead, yangje@umich.edu*
 
-|  ![myself](/images/myself.JPG){: width="200px"} |  ![Altium](/images/altium.png){: width="200px"}|  ![Firmware](/images/firmware.jpg){: width="200px"}  | ![STM](/images/stm.jpg){: width="200px"} |
+|  ![myself](/images/myself.JPG){: width="200px"} |  ![Altium](/images/altium.jpg){: width="200px"}|  ![Firmware](/images/firmware.jpg){: width="200px"}  | ![STM](/images/stm.jpg){: width="200px"} |
 |:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | ***Job Appointment*** | ***PCB Schematics*** | ***Firmware*** | ***STM32 Testing*** |
 
 &nbsp;
 &nbsp; 
 
-![Aero](/images/aerodyne.jpeg){: .align-right width="350px"}    
-**Aerodyne Group**, Jan 2023 to Mar 2023
+![Aero](/images/aerodyne.jpg){: .align-right width="350px"}    
+**Aerodyne Group**, Jan 2023 to Mar 2023  
 *Tech Research Intern*  
 - Contributed to securing a $5 million Unmanned Aircraft System (UAS) application development project.
 - Worked with the project team on the prototype and pseudocode design of a UAS Traffic Management application.
 - Assisted in designing the schematics and layout for a GPS and metrics tracker PCB to enable remote metrics tracking.
 - Assisted in implementing infra-red, LiDAR sensors to drones by using Arduino and Embedded C programming.
 - Performed research & analysis into emerging drone and chip technologies to fit clients’ needs.
+*References: Jamie Barker, Future Tech Research Analyst, jamie.barker@aerodyne.ai, +6011 56208630*
   
+|  ![3D](/images/3dmodel.jpg){: width="300px"} |  ![Meeting](/images/meeting.jpeg){: width="300px"}|  ![Group](/images/aerodyne.jpg){: width="300px"}  |
+|:-----------------------:|:-----------------------:|:-----------------------:|
+| ***3D Modeling*** | ***Company Meeting*** | ***Company Photo*** | 
 
 &nbsp;
 &nbsp;
