@@ -24,19 +24,22 @@ Work Experiences
 - Analyzed and rewrote the firmware code for the car’s light and brake system to increase the response time by ~120%
 - Developed a RTOS-based firmware that handles interrupts and schedules tasks for the MCU based on specific priorities.
 
-|  ![myself](/images/myself.jpg) |  ![Altium](/images/altium.png)  |  ![Firmware](/images/firmware.jpg)  | ![STM](/images/stm.jpg) |
+|  ![myself](/images/myself.JPG) |  ![Altium](/images/altium.png)  |  ![Firmware](/images/firmware.jpg)  | ![STM](/images/stm.jpg) |
 |:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | ***Job Appointment*** | ***PCB Schematics*** | ***Firmware*** | ***STM32 Testing*** |
 
 &nbsp;
 &nbsp; 
 
-     
-**Taylor's University**, May 2023  
-*American Degree Transfer Program*  
-- CGPA: 3.84, Dean's List, Best Engineering Student Honor
-- Relevant Courses: Calculus 3, Physics 1 & 2, C++ Programming
-- Involvement: Agents of Tech, Taylor's University Student Council, Student Union   
+![Aero](/images/aerodyne.jpeg){: .align-right width="350px"}    
+**Aerodyne Group**, Jan 2023 to Mar 2023
+*Tech Research Intern*  
+- Contributed to securing a $5 million Unmanned Aircraft System (UAS) application development project.
+- Worked with the project team on the prototype and pseudocode design of a UAS Traffic Management application.
+- Assisted in designing the schematics and layout for a GPS and metrics tracker PCB to enable remote metrics tracking.
+- Assisted in implementing infra-red, LiDAR sensors to drones by using Arduino and Embedded C programming.
+- Performed research & analysis into emerging drone and chip technologies to fit clients’ needs.
+  
 
 &nbsp;
 &nbsp;
