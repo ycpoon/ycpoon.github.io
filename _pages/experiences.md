@@ -50,7 +50,7 @@ Work Experiences
   
 **Aerodyne Group**, Jan 2023 to Mar 2023  
 *Tech Research Intern*  
-![Aero](/images/aerodyne.jpg){: .align-right width="350px"}  
+![Aero](/images/aerodyne.jpg){: .align-right width="320px"}  
 - Contributed to securing a $5 million Unmanned Aircraft System (UAS) application development project.
 - Worked with the project team on the prototype and pseudocode design of a UAS Traffic Management application.
 - Assisted in designing the schematics and layout for a GPS and metrics tracker PCB to enable remote metrics tracking.
@@ -66,7 +66,6 @@ Work Experiences
 &nbsp;
 &nbsp;
 
-![Taylors](/images/taylors.png){: .align-right width="350px"}  
 **Taylor's University**, Jan 2022 to Dec 2022  
 *Calculus 1 & Physics 1 Teaching Assistant*  
 ![Taylors](/images/taylors.png){: .align-right width="350px"} 
@@ -79,7 +78,8 @@ Work Experiences
 *Dr. Ng Eng Hui, Senior Lecturer I, enghui.ng@taylors.edu.my*  
 *Dr. Yvonne Kong Yeo Lee, Senior Lecturer I, kong.yeolee@taylors.edu.my*  
 
-![pass](/images/pass.jpg)
+![pass](/images/pass.jpg){: width="500px"}
+
 ***Calculus Tutor***
 
 &nbsp;
@@ -94,4 +94,17 @@ Work Experiences
 &nbsp;
 &nbsp;
 
+
+Leadership Experiences
+======
+
+-----------------------------
+
+**Agents of Tech**, Oct 2022 to Oct 2023  
+*President*  
+![Taylors](/images/taylors.png){: .align-right width="350px"} 
+- Hosted tutoring sessions, discussion sessions, and office hours for 150+ students enrolled in Calculus 1 and Physics 1.
+- Assisted professors in planning course contents/schedules, designing homework, and grading students’ works.   
+- Implemented tailored academic support strategies resulting in the transformation of 8 students from initial ‘Fail’ grade to ‘A’.
+- Certificates: [Calculus 1](/files/Cal1.pdf) and [Physics 1](/files/Physics1.pdf) 
 
