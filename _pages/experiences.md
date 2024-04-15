@@ -24,6 +24,9 @@ Work Experiences
 - Analyzed and rewrote the firmware code for the car’s light and brake system to increase the response time by ~120%
 - Developed a RTOS-based firmware that handles interrupts and schedules tasks for the MCU based on specific priorities.
 
+|  ![myself](/images/myself.jpg) |  ![Altium](/images/altium.png)  |  ![Firmware](/images/firmware.jpg)  | ![STM](/images/stm.jpg) |
+|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| ***Job Appointment*** | ***PCB Schematics*** | ***Firmware*** | ***STM32 Testing*** |
 
 &nbsp;
 &nbsp; 
