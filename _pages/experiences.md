@@ -17,7 +17,7 @@ Work Experiences
 
 **Michigan Hackers**, Jan 2024 to Present  
 *Embedded Systems Team Co-Lead* 
-![MH](/images/mhackers.jpg){: .align-right width="275px"} 
+![MH](/images/mhackers.jpg){: .align-right width="250px"} 
 - Led a team of 20 in the development of a semester-based embedded systems project to be showcased to 200+ MHackers’ members.
 - Reviewed and provided feedback for 50+ embedded systems project designs, ensuring quality standards and optimal functionality.
 - Curated 8 hack nights and 3 workshops tailored for MHackers’ members, fostering knowledge in embedded systems.
@@ -118,4 +118,33 @@ Leadership Experiences
 
 &nbsp;
 &nbsp;
+
+**International Council of Malaysian Scholars**, Sept 2022 to Sept 2023  
+*National Executive Director - Malaysia*  
+- Led a board of 15 directors and a chapter of approximately 60 associates to execute events, flagships, and workshops.
+- Managed external stakeholder relations with local industry partners and sponsors such as Sunway, Axiata, and Maybank.
+
+&nbsp;
+&nbsp;
+
+**Young Malaysian Engineers**, Oct 2021 to Oct 2022  
+*Executive Coordinator and Director of Finance and Sponsorship*  
+- Led in organizing the largest student-led technology conference in Malaysia - Malaysian Students' Technology Week 2022 (MSTW), involving 22 events, 32 professional speakers, 5 sponsors, and approximately $30K worth of budget.
+- Generated $20K sponsorship fund for the club and event from companies such as Dyson, Shell, PwC
+
+&nbsp;
+&nbsp;
+
+**Taylor's Unversity Student Council**, Nov 2021 to Sept 2022  
+*Committee Member of Campus Welfare Department*  
+- Compiled more than 100 feedback responses by students to be brought up to the school management. 
+- Liaised with the school management to discuss on students’ feedbacks and complaints.
+- Project Manager for Student Development August 2022 – Be Your Own Boss.
+
+&nbsp;
+&nbsp;
+
+
+
+
 
