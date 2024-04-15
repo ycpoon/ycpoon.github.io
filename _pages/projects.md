@@ -34,9 +34,30 @@ Completed Projects
 &nbsp;
 
 **RoboChef**
-- A web application that receives an image of any food, then identifies the food and its ingredient, and finally compile a list of recipes that shares the same ingredients as the food in the image given
+- A web application that receives an image (as an URL) of any food, then identifies the food and its ingredient, and finally compile a list of recipes that shares the same ingredients as the food in the image given
 - Benefits of the Application: Identify any image and provide recipes instantly, provide multiple recipe options, help students decide meals easily, fast & easy
-- GitHub Repo: 
+- *Front-End* - HTML, Javascript, CSS ; *APIs* - [Clarifai](https://www.clarifai.com/), [Edamam](https://www.edamam.com/)
+- GitHub Repo: [RoboChef](https://github.com/ycpoon/RoboChef)
+
+|  ![R1](/images/robochef1.png){: width="500px"} |  ![R2](/images/robochef2.png){: width="500px"}|  ![R3](/images/robochef3.png){: width="200px"}  |
+|:-----------------------:|:-----------------------:|:-----------------------:|
+| ***Image URL input prompt*** | ***Recipe Output*** | ***ML Predictions*** |  
+
+&nbsp;
+&nbsp;
+
+**Socius**
+- A mobile application aimed to increase work & study motivation amidst the pandemic through tracking and gamifying the work & study process
+- Features of the Application: Work/Study Tracker & Timer, Leaderboard and Gamified Work/Study Tracker to motivate good competition among friends, Courses Listings to expand knowledge
+- *Tech Stack* - XML, Gradle
+- GitHub Repo: [Socius](https://github.com/ycpoon/Socius)
+
+|  ![S1](/images/socius1.png){: width="300px"} |  ![S2](/images/socius2.png){: width="300px"}|  ![S3](/images/socius3.png){: width="300px"}  |
+|:-----------------------:|:-----------------------:|:-----------------------:|
+| ***Login & Home Page*** | ***Timer Tracker & Leaderboard*** | ***Course Listings*** |  
+
+&nbsp;
+&nbsp;
 
 
 Work in Progress Projects
