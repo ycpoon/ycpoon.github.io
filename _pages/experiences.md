@@ -42,9 +42,23 @@ Work Experiences
 - Performed research & analysis into emerging drone and chip technologies to fit clients’ needs.
 *References: Jamie Barker, Future Tech Research Analyst, jamie.barker@aerodyne.ai, +6011 56208630*
   
-|  ![3D](/images/3dmodel.jpg){: width="300px"} |  ![Meeting](/images/meeting.jpeg){: width="300px"}|  ![Group](/images/aerodyne.jpg){: width="300px"}  |
+|  ![3D](/images/3dmodel.jpg){: width="300px"} |  ![Meeting](/images/meeting.jpeg){: width="300px"}|  ![Group](/images/group.jpg){: width="300px"}  |
 |:-----------------------:|:-----------------------:|:-----------------------:|
 | ***3D Modeling*** | ***Company Meeting*** | ***Company Photo*** | 
 
 &nbsp;
 &nbsp;
+
+![Taylors](/images/taylors.png){: .align-right width="300px"}  
+**Taylor's University**, Jan 2022 to Dec 2022  
+*Calculus 1 & Physics 1 Teaching Assistant*  
+- Hosted tutoring sessions, discussion sessions, and office hours for 150+ students enrolled in Calculus 1 and Physics 1.
+- Assisted professors in planning course contents/schedules, designing homework, and grading students’ works.   
+- Implemented tailored academic support strategies resulting in the transformation of 8 students from initial ‘Fail’ grade to ‘A’.
+*References:*  
+*Dr. Ng Eng Hui, Senior Lecturer I, enghui.ng@taylors.edu.my*  
+*Dr. Yvonne Kong Yeo Lee, Senior Lecturer I, kong.yeolee@taylors.edu.my*  
+
+&nbsp;
+&nbsp;
+
