@@ -17,11 +17,13 @@ Work Experiences
 
 **Michigan Hackers**, Jan 2024 to Present  
 *Embedded Systems Team Co-Lead* 
-![MH](/images/mhackers.jpg){: .align-right width="300px"} 
+![MH](/images/mhackers.jpg){: .align-right width="275px"} 
 - Led a team of 20 in the development of a semester-based embedded systems project to be showcased to 200+ MHackers’ members.
 - Reviewed and provided feedback for 50+ embedded systems project designs, ensuring quality standards and optimal functionality.
 - Curated 8 hack nights and 3 workshops tailored for MHackers’ members, fostering knowledge in embedded systems.
 - Built a random LED roulette game (LED lights up in random order and eventually stopping at one spot) using Arduino 
+
+*References: Anisha Aggarwal, MHackers President, anishaag@umich.edu*
 
 |  ![Roul](/images/roulette.jpg){: width="300px"} |  ![Meeting](/images/mhmeeting.jpg){: width="300px"}|  ![Group](/images/mass.jpeg){: width="300px"}  |
 |:-----------------------:|:-----------------------:|:-----------------------:|
@@ -68,7 +70,7 @@ Work Experiences
 
 **Taylor's University**, Jan 2022 to Dec 2022  
 *Calculus 1 & Physics 1 Teaching Assistant*  
-![Taylors](/images/taylors.png){: .align-right width="350px"} 
+![Taylors](/images/taylors.png){: .align-right width="300px"} 
 - Hosted tutoring sessions, discussion sessions, and office hours for 150+ students enrolled in Calculus 1 and Physics 1.
 - Assisted professors in planning course contents/schedules, designing homework, and grading students’ works.   
 - Implemented tailored academic support strategies resulting in the transformation of 8 students from initial ‘Fail’ grade to ‘A’.
@@ -78,9 +80,8 @@ Work Experiences
 *Dr. Ng Eng Hui, Senior Lecturer I, enghui.ng@taylors.edu.my*  
 *Dr. Yvonne Kong Yeo Lee, Senior Lecturer I, kong.yeolee@taylors.edu.my*  
 
-![pass](/images/pass.jpg){: width="500px"}
-
 ***Calculus Tutor***
+![pass](/images/pass.jpg){: .align-right width="500px"}
 
 &nbsp;
 &nbsp;
@@ -102,9 +103,11 @@ Leadership Experiences
 
 **Agents of Tech**, Oct 2022 to Oct 2023  
 *President*  
-![Taylors](/images/taylors.png){: .align-right width="350px"} 
-- Hosted tutoring sessions, discussion sessions, and office hours for 150+ students enrolled in Calculus 1 and Physics 1.
-- Assisted professors in planning course contents/schedules, designing homework, and grading students’ works.   
-- Implemented tailored academic support strategies resulting in the transformation of 8 students from initial ‘Fail’ grade to ‘A’.
-- Certificates: [Calculus 1](/files/Cal1.pdf) and [Physics 1](/files/Physics1.pdf) 
+![Taylors](/images/aot.png){: .align-right width="300px"} 
+- Led in curating tech workshops and training sessions on topics such as React and Arduino for over 200 like-minded club members.
+- Hosted the biggest hackathon in college’s history with 200+ participants and cash prizes amounting to more than $7k.
+- Secured sponsorships amounting to $25k from 7 different tech companies and partnerships with Intel, Google, and Samsung.
+- Certificates: [Agents of Tech](/files/AoT.pdf)
+
+*References: Gregory Sinnappan, Student Development, gregory.sinnappan@taylors.edu.my, +6016 2369600*
 
