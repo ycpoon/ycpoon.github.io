@@ -40,10 +40,11 @@ Frameworks & Applications
 Others
 ======
 
-I am also familiar with:
+**I am also familiar with:**
 - **IDEs:** VS Code, Quartus, STM32Cube
 - **Engineering Softwares:** Altium, Waveform Generator, ModelSim, SolidWorks
 
-Notable Soft Skills:  
-*Fast-Learner, Problem-Solver, Leader, Determined, Organized, Team Player, Curious & Motivated*
+**Notable Soft Skills:**  
+- *Fast-Learner, 
+- *Problem-Solver, Leader, Determined, Organized, Team Player, Curious & Motivated*
 

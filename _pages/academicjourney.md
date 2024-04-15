@@ -76,4 +76,9 @@ Relevant Courses & Projects
 &nbsp;
 &nbsp;
 
-  
+
+Honors & Awards
+======
+
+------------------------------- 
+

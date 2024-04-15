@@ -13,7 +13,7 @@ I am a 3rd year Computer Engineering student at the University of Michigan-Ann A
 I am focused and specialized in 
 - *Embedded Systems* 📲
 - *VLSI & Chips Design* 🖥️
-- *Low-Level VHDL Programming* 🧑‍💻
+- *Low-Level Verilog HDL Programming* 🧑‍💻
 
 I have several years of internship and working experience from the University of Michigan Solar Car Team and Aerodyne Group, working in firmware engineering roles and tech research roles. Academically, I have achieved a 3.86 GPA from the University of Michigan, completing high-level computer engineering courses including Intro to VLSI, Logic Design, Circuit Analysis, Data Structures and Algorithms, and many more.
 
@@ -38,10 +38,11 @@ I have always been passionate about **tech**. I significantly enjoy **building d
 
 Some More Facts About Me
 ======
+
 I am a Malaysian 🇲🇾 residing in the United States 🇺🇸 for university studies.
 
-I can speak 4 different languages:
-*English, Chinese, Malay, Cantonese*
+I can speak 4 different languages:  
+***English, Chinese, Malay, Cantonese***
 
 Hobbies outside of tech:
 - Playing Basketball 🏀
