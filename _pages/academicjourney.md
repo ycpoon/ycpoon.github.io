@@ -54,8 +54,8 @@ Relevant Courses & Projects
   * Traffic Light Controller using the concept of Finite States Machine
   * Implemented an UpDown Counter using Squential Design
 
-| ***Altera FPGA Projects with Verilog*** | 
-|:-----------------------:|
+|   | ***Altera FPGA Projects with Verilog*** |    |
+|:-----------------------:|:-----------------------:|:-----------------------:|
 |  ![FPGA](/images/FPGA.png) |  ![FPGA](/images/FPGA2.png)  |  ![FPGA](/images/FPGA3.png)  |
 
 * **EECS 215: Circuits Design & Analysis**
@@ -63,8 +63,8 @@ Relevant Courses & Projects
   * RLC Circuits & Op-Amps Circuits
   * Powering Audio Transmitter with Rheostat
 
-| ***Circuits & Waveform Generator*** | 
-|:-----------------------:|
+|   | ***Circuits & Waveform Generator*** |   |
+|:-----------------------:|:-----------------------:|:-----------------------:|
 |  ![circuits](/images/cir1.jpg) |  ![circuits](/images/cir2.jpg)  |  ![circuits](/images/cir3.jpg)  |
 
 * **EECS 280: Programming and Intro to Data Structures**
