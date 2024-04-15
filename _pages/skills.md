@@ -31,3 +31,19 @@ Other Languages (Scripting, Markup, Hardware Description)
 Frameworks & Applications
 ======
 
+<script src="https://cdn.commoninja.com/sdk/latest/commonninja.js" defer></script>
+<div class="commonninja_component pid-04d34b14-0637-4f2e-8633-c642c8c9e510"></div>
+
+&nbsp;
+&nbsp;
+
+Others
+======
+
+I am also familiar with:
+- **IDEs:** VS Code, Quartus, STM32Cube
+- **Engineering Softwares:** Altium, Waveform Generator, ModelSim, SolidWorks
+
+Notable Soft Skills:  
+*Fast-Learner, Problem-Solver, Leader, Determined, Organized, Team Player, Curious & Motivated*
+
