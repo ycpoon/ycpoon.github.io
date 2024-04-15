@@ -55,6 +55,7 @@ Work Experiences
 - Hosted tutoring sessions, discussion sessions, and office hours for 150+ students enrolled in Calculus 1 and Physics 1.
 - Assisted professors in planning course contents/schedules, designing homework, and grading students’ works.   
 - Implemented tailored academic support strategies resulting in the transformation of 8 students from initial ‘Fail’ grade to ‘A’.
+- Certificates: [Calculus 1](/files/Cal1.pdf) and [Physics 1](/files/Physics1.pdf)
 *References:*  
 *Dr. Ng Eng Hui, Senior Lecturer I, enghui.ng@taylors.edu.my*  
 *Dr. Yvonne Kong Yeo Lee, Senior Lecturer I, kong.yeolee@taylors.edu.my*  
