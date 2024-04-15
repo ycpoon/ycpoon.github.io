@@ -17,9 +17,18 @@ Work Experiences
 
 **Michigan Hackers**, Jan 2024 to Present  
 *Embedded Systems Team Co-Lead* 
-![SC](/images/sclogo.png){: .align-right width="350px"} 
-- Designed the schematics and layout for a PCB that controls the car’s headlights, stop lights, and turn signals with Altium.
-- Led in redesigning the dashboard PCB to integrate Battery Management System (BMS) controls to the dashboard.
+![MH](/images/mhackers.jpg){: .align-right width="300px"} 
+- Led a team of 20 in the development of a semester-based embedded systems project to be showcased to 200+ MHackers’ members.
+- Reviewed and provided feedback for 50+ embedded systems project designs, ensuring quality standards and optimal functionality.
+- Curated 8 hack nights and 3 workshops tailored for MHackers’ members, fostering knowledge in embedded systems.
+- Built a random LED roulette game (LED lights up in random order and eventually stopping at one spot) using Arduino 
+
+|  ![Roul](/images/roulette.jpg){: width="300px"} |  ![Meeting](/images/mhmeeting.jpg){: width="300px"}|  ![Group](/images/mass.jpeg){: width="300px"}  |
+|:-----------------------:|:-----------------------:|:-----------------------:|
+| ***LED Roulette Game*** | ***Team Meeting*** | ***Club Activity*** | 
+
+&nbsp;
+&nbsp; 
 
 **University of Michigan Solar Car Team**, Aug 2023 to Present  
 *Microsystems and Firmware Engineer* 
