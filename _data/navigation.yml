@@ -9,8 +9,8 @@ main:
   - title: "Personal Projects"
     url: /projects/    
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Skills"
+    url: /skills/
     
   - title: "1-page Resume"
     url: /files/Resume.pdf

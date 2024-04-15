@@ -19,6 +19,8 @@ I have several years of internship and working experience from the University of
 
 I am currently searching for internship opportunities to further advance my engineering knowledge and gain more practical experience in the field.
 
+&nbsp;
+&nbsp;
 
 My Passion
 ======
@@ -31,6 +33,8 @@ I have always been passionate about **tech**. I significantly enjoy **building d
 |:-----------------------:|:-----------------------:|
 |      ![Arduino Kit](/images/arduinokit.jpg)      |      ![Drone Project](/images/drone.jpg)     |
 
+&nbsp;
+&nbsp;
 
 Some More Facts About Me
 ======
@@ -46,6 +50,8 @@ Hobbies outside of tech:
 
 I enjoy working in a team and work on a project with a group of people. 👥
 
+&nbsp;
+&nbsp;
 
 For more info
 ------
