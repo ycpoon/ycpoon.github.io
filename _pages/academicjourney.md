@@ -51,9 +51,11 @@ Relevant Courses & Projects
 
 * **EECS 270: Logic Design**
   * Four Function Calculator using Altera FPGA programming
-  * Traffic Light Controller using Sequential Design
-  * Supervisor: Professor Hub
+  * Traffic Light Controller using the concept of Finite States Machine
+  * Implemented an UpDown Counter using Squential Design
 
+| ***Altera FPGA Projects with Verilog*** | 
+|:-----------------------:|
 |  ![FPGA](/images/FPGA.png) |  ![FPGA](/images/FPGA2.png)  |  ![FPGA](/images/FPGA3.png)  |
 
 * **EECS 215: Circuits Design & Analysis**
@@ -61,6 +63,8 @@ Relevant Courses & Projects
   * RLC Circuits & Op-Amps Circuits
   * Powering Audio Transmitter with Rheostat
 
+| ***Circuits & Waveform Generator*** | 
+|:-----------------------:|
 |  ![circuits](/images/cir1.jpg) |  ![circuits](/images/cir2.jpg)  |  ![circuits](/images/cir3.jpg)  |
 
 * **EECS 280: Programming and Intro to Data Structures**
@@ -72,6 +76,10 @@ Relevant Courses & Projects
   * Built and customize my own bash shell
   * Pig-Latin Translation Program
   * Created my own python library
+
+| ***Customized Shell*** | ***Customized Shell Functions*** | ***Pig-Latinfy Program*** | 
+|:-----------------------:|:-----------------------:|:-----------------------:|
+|  ![2011](/images/2012.PNG){: width="450px"} |  ![2012](/images/2011.PNG){: width="450px"}   |  ![2013](/images/2013.png){: width="300px"}   |
 
 &nbsp;
 &nbsp;
