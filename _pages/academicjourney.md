@@ -20,7 +20,8 @@ Education
 *Bachelor of Science in Engineering - Computer Engineering*  
 - CGPA: 3.86, Dean's List, University Honors
 - Relevant Courses: Logic Design, Data Structures & Algortihm, Circuits Analysis, VLSI
-- Involvement: University of Michigan Solar Car Team, IEEE UMich, Michigan Hackers, Tau Epsilon Kappa (Professional Technology Fraternity)
+- Representation: Engineering Honors Program, Michigan Engineering Transfer Student Leader,Computer Engineering Ambassador
+- Clubs: University of Michigan Solar Car Team, IEEE UMich, Michigan Hackers, Tau Epsilon Kappa (Professional Technology Fraternity)
 - Focused and Specialized Field: Embedded Systems, Microsystems, Digital Systems Design, Chips Design
 
 &nbsp;
@@ -54,6 +55,8 @@ Relevant Courses & Projects
   * Traffic Light Controller using the concept of Finite States Machine
   * Implemented an UpDown Counter using Squential Design
 
+| ***Altera FPGA Programming*** 👇 |
+
 |  ![FPGA](/images/FPGA.png) |  ![FPGA](/images/FPGA2.png)  |  ![FPGA](/images/FPGA3.png)  |
 
 * **EECS 215: Circuits Design & Analysis**
@@ -61,7 +64,7 @@ Relevant Courses & Projects
   * RLC Circuits & Op-Amps Circuits
   * Powering Audio Transmitter with Rheostat
 
-| ***Circuits & Waveform Generator*** | 
+| ***Circuits & Waveform Generator*** 👇 | 
 
 |  ![circuits](/images/cir1.jpg) |  ![circuits](/images/cir2.jpg)  |  ![circuits](/images/cir3.jpg)  |
 
@@ -88,3 +91,22 @@ Honors & Awards
 
 ------------------------------- 
 
+* **University Honors & Dean's List**, Dec 2023
+  * Awarded by University of Michigan - Ann Arbor
+  * For achieving 3.5 CGPA on an academic semester
+
+* **Best Engineering Student Honoree - Class of 2022**, Dec 2022
+  * Awarded by Taylor's University
+  * For achieving the best CGPA on a minimum of 50 units of credit in the Engineering major category
+
+* **Dean's List**, Every Semester
+  * Awarded by Taylor's University
+  * For achieving 3.5 CGPA on an academic semester
+
+* **Taylor's Excellence Award**, Aug 2021
+  * Awarded scholarships by Taylor's University
+  * For achieving exceptional high school grades
+
+* **Malaysian Student Technology Week 2021 Hackathon - Top 6**, Aug 2021
+  * Awarded by Young Malaysian Engineers
+  * For finishing the hackathon as a top 6 finalist among 30+ groups for the nationwide MSTW hackathon
