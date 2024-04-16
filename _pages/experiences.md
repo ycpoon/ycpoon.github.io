@@ -145,6 +145,37 @@ Leadership Experiences
 &nbsp;
 
 
+Professional Activities & Conferences Leadership
+======
+
+-----------------------------
+
+**Malaysian Students' Technology Week**, Oct 2022  
+*Executive Coordinator*  
+- Lead role in organising the largest student-led technology conference in Malaysia.
+- Led an organising committee of 50 members to prepare and execute the event that involved 32 professional speakers and more than 500 participants from UK and MY. 
+- Secured $35k sponsorship fund from Bank Islam, Gamuda, KidoCode, TalentCorp, and EcoWorld.
+
+&nbsp;
+&nbsp;
+
+**Taylor’s University Student Development Aug ’22 – Be Your Own Boss**, Aug 2021
+*Project Manager*
+- Organised an event to equip undergraduates with fundamental knowledge of entrepreneurship.
+- Invited 4 entrepreneurs who have won prestigious awards such as Forbes 30 under 30 and Entrepreneur of The Year as the guest speakers of the event.
+- Received more than 130 registrations for the event.  
+
+&nbsp;
+&nbsp;
+
+**Taylor's Lakeside Model United Nations 2022 International**, Aug 2021
+*Associate of Committee Affairs*
+- Part of the organising committee of one of the largest MUN conference in Malaysia.
+- In charge of the event logistics and people management of the event.
+- Assist in handling 14 chairs and more than 200 delegates.
+
+
+
 
 
 
