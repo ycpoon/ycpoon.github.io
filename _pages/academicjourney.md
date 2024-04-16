@@ -49,7 +49,9 @@ Relevant Courses & Projects 🖥️
   * Minemap Path-finding Algorithm using Priority Queues
   * SQL Implementation using Hashmaps and Ordered Maps
 
-|  ![FPGA](/images/FPGA.png) |  ![FPGA](/images/FPGA2.png)  |  ![FPGA](/images/FPGA3.png)  |
+| ***SQL Implementation*** | ***Mine Escape Route Finder Program*** | ***Letterman Morphing Program*** | 
+|:-----------------------:|:-----------------------:|:-----------------------:|
+|  ![sql](/images/sql.png){: width="400px"} |  ![ME](/images/mineescape.png){: width="400px"}   |  ![letter](/images/letterman.png){: width="400px"} |
 
 * **EECS 270: Logic Design**
   * Four Function Calculator using Altera FPGA programming
@@ -73,6 +75,10 @@ Relevant Courses & Projects 🖥️
   * Euchre Game  
   * Posts Classifier Machine Learning Model
   * Seam-Carving Algorithm
+
+| ***Euchre Game with AI*** | ***Machine Learning Post Classifier*** | ***Image Resizer Program*** | 
+|:-----------------------:|:-----------------------:|:-----------------------:|
+|  ![Euch](/images/euchre.png){: width="400px"} |  ![ML](/images/ml.png){: width="400px"}   |  ![CV](/images/cv.png){: width="400px"} |
 
 * **EECS 201: Computer Science Pragmatics**
   * Built and customize my own bash shell
