@@ -51,7 +51,10 @@ Relevant Courses & Projects 🖥️
 
 | ***SQL Implementation*** | ***Mine Escape Route Finder Program*** | ***Letterman Morphing Program*** | 
 |:-----------------------:|:-----------------------:|:-----------------------:|
-|  ![sql](/images/sql.png){: width="400px"} |  ![ME](/images/mineescape.png){: width="400px"}   |  ![letter](/images/letterman.png){: width="400px"} |
+|  ![sql](/images/sql.png){: width="400px"} |  ![ME](/images/mineescape.png){: width="350px"}   |  ![letter](/images/letterman.png){: width="450px"} |
+
+&nbsp;
+&nbsp;
 
 * **EECS 270: Logic Design**
   * Four Function Calculator using Altera FPGA programming
@@ -62,6 +65,9 @@ Relevant Courses & Projects 🖥️
 
 |  ![FPGA](/images/FPGA.png) |  ![FPGA](/images/FPGA2.png)  |  ![FPGA](/images/FPGA3.png)  |
 
+&nbsp;
+&nbsp;
+
 * **EECS 215: Circuits Design & Analysis**
   * Waveform Generator to Measure Voltage 
   * RLC Circuits & Op-Amps Circuits
@@ -71,6 +77,9 @@ Relevant Courses & Projects 🖥️
 
 |  ![circuits](/images/cir1.jpg) |  ![circuits](/images/cir2.jpg)  |  ![circuits](/images/cir3.jpg)  |
 
+&nbsp;
+&nbsp;
+
 * **EECS 280: Programming and Intro to Data Structures**
   * Euchre Game  
   * Posts Classifier Machine Learning Model
@@ -78,7 +87,10 @@ Relevant Courses & Projects 🖥️
 
 | ***Euchre Game with AI*** | ***Machine Learning Post Classifier*** | ***Image Resizer Program*** | 
 |:-----------------------:|:-----------------------:|:-----------------------:|
-|  ![Euch](/images/euchre.png){: width="400px"} |  ![ML](/images/ml.png){: width="400px"}   |  ![CV](/images/cv.png){: width="400px"} |
+|  ![Euch](/images/euchre.png){: width="350px"} |  ![ML](/images/ml.png){: width="400px"}   |  ![CV](/images/cv.png){: width="450px"} |
+
+&nbsp;
+&nbsp;
 
 * **EECS 201: Computer Science Pragmatics**
   * Built and customize my own bash shell
@@ -87,7 +99,7 @@ Relevant Courses & Projects 🖥️
 
 | ***Customized Shell*** | ***Customized Shell Functions*** | ***Pig-Latinfy Program*** | 
 |:-----------------------:|:-----------------------:|:-----------------------:|
-|  ![2011](/images/2012.PNG){: width="450px"} |  ![2012](/images/2011.PNG){: width="450px"}   |  ![2013](/images/2013.png){: width="300px"}   |
+|  ![2011](/images/2012.PNG){: width="450px"} |  ![2012](/images/2011.PNG){: width="375px"}   |  ![2013](/images/2013.png){: width="375px"}   |
 
 &nbsp;
 &nbsp;
