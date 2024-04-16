@@ -45,6 +45,12 @@ Others
 - **Engineering Softwares:** Altium, Waveform Generator, ModelSim, SolidWorks
 
 **Notable Soft Skills:**  
-- *Fast-Learner, 
-- *Problem-Solver, Leader, Determined, Organized, Team Player, Curious & Motivated*
+- *Fast-Learner* 
+- *Problem-Solver*
+- *Leader* 
+- *Determined* 
+- *Organized* 
+- *Team Player*
+- *Curious* 
+- *Motivated*
 

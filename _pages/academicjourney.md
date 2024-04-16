@@ -11,7 +11,7 @@ redirect_from:
 &nbsp;
 
 
-Education
+Education 🎓
 ======
 
 -------------------------------  
@@ -39,7 +39,7 @@ Education
 &nbsp;
 
 
-Relevant Courses & Projects
+Relevant Courses & Projects 🖥️
 ======
 
 ------------------------------- 
@@ -87,7 +87,7 @@ Relevant Courses & Projects
 &nbsp;
 
 
-Honors & Awards
+Honors & Awards 🏅
 ======
 
 ------------------------------- 

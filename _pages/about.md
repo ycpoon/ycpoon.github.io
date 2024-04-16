@@ -22,7 +22,7 @@ I am currently searching for internship opportunities to further advance my engi
 &nbsp;
 &nbsp;
 
-My Passion
+My Passion 🔥
 ======
 
 Born in the 2000s,  I have been blessed to witness the advancement of technology from Nokia phones to iPhones. I always wonder, how did Bell invent the first-ever telephone? How did Steve Jobs design the first-ever iPhone? And, how does it lead us to today, where we have phones with hundreds of functions, all in that tiny device? These questions that have been lingering around my head are what drove me to pursue the major of **computer engineering**.
@@ -36,7 +36,7 @@ I have always been passionate about **tech**. I significantly enjoy **building d
 &nbsp;
 &nbsp;
 
-Some More Facts About Me
+Some More Facts About Me 🚀
 ======
 
 I am a Malaysian 🇲🇾 residing in the United States 🇺🇸 for university studies.
@@ -54,7 +54,7 @@ I enjoy working in a team and work on a project with a group of people. 👥
 &nbsp;
 &nbsp;
 
-For more info
+For more info 📞
 ------
 Feel free to reach out to me if you would like to know more about me!
 

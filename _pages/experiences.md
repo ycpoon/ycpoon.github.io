@@ -10,7 +10,7 @@ redirect_from:
 &nbsp;
 &nbsp;
 
-Work Experiences
+Work Experiences 💼
 ======
 
 ------------------------------- 
@@ -97,7 +97,7 @@ Work Experiences
 &nbsp;
 
 
-Leadership Experiences
+Leadership Experiences 🧑‍💼
 ======
 
 -----------------------------
@@ -145,7 +145,7 @@ Leadership Experiences
 &nbsp;
 
 
-Professional Activities & Conferences Leadership
+Professional Activities & Conferences Leadership 👔
 ======
 
 -----------------------------
@@ -159,7 +159,7 @@ Professional Activities & Conferences Leadership
 &nbsp;
 &nbsp;
 
-**Taylor’s University Student Development Aug ’22 – Be Your Own Boss**, Aug 2021
+**Taylor’s University Student Development Aug ’22 – Be Your Own Boss**, Aug 2021  
 *Project Manager*
 - Organised an event to equip undergraduates with fundamental knowledge of entrepreneurship.
 - Invited 4 entrepreneurs who have won prestigious awards such as Forbes 30 under 30 and Entrepreneur of The Year as the guest speakers of the event.
@@ -168,7 +168,7 @@ Professional Activities & Conferences Leadership
 &nbsp;
 &nbsp;
 
-**Taylor's Lakeside Model United Nations 2022 International**, Aug 2021
+**Taylor's Lakeside Model United Nations 2022 International**, Aug 2021  
 *Associate of Committee Affairs*
 - Part of the organising committee of one of the largest MUN conference in Malaysia.
 - In charge of the event logistics and people management of the event.

@@ -10,7 +10,7 @@ redirect_from:
 &nbsp;
 &nbsp;
 
-Completed Projects
+Completed Projects ✅
 ======
 
 ------------------------------- 
@@ -61,7 +61,7 @@ Completed Projects
 &nbsp;
 
 
-Work in Progress Projects
+Work in Progress Projects ⚠️
 ======
 
 ------------------------------- 
@@ -79,7 +79,7 @@ Work in Progress Projects
 &nbsp;
 &nbsp;
 
-Archived Past Projects
+Archived Past Projects ☑️
 ======
 
 ------------------------------- 
