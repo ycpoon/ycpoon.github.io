@@ -124,6 +124,10 @@ Leadership Experiences 🧑‍💼
 - Led a board of 15 directors and a chapter of approximately 60 associates to execute events, flagships, and workshops.
 - Managed external stakeholder relations with local industry partners and sponsors such as Sunway, Axiata, and Maybank.
 
+|  ![ICMS1](/images/icms1.png){: width="400px"} |  ![ICMS2](/images/allphoto.jpg){: width="400px"}|  ![ICMS3](/images/icmsp.jpg){: width="400px"}  |
+|:-----------------------:|:-----------------------:|:-----------------------:|
+| ***ICMS Committee Lineup*** | ***ICMS Team Photo*** | ***Chapter Director Presentation*** | 
+
 &nbsp;
 &nbsp;
 

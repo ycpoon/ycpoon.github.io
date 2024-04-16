@@ -39,14 +39,14 @@ Education 🎓
 &nbsp;
 
 
-Relevant Courses & Projects 🖥️
+Relevant Course Projects 🖥️
 ======
 
 ------------------------------- 
 
 * **EECS 281: Data Structures & Algorithms**
-  * Letterman Path-finding Algorithm using Stacks and Queues
-  * Minemap Path-finding Algorithm using Priority Queues
+  * Letterman Words Morphing Algorithm using Stacks and Queues
+  * Minemap Escape Route Finding Algorithm using Priority Queues
   * SQL Implementation using Hashmaps and Ordered Maps
 
 | ***SQL Implementation*** | ***Mine Escape Route Finder Program*** | ***Letterman Morphing Program*** | 
@@ -81,8 +81,8 @@ Relevant Courses & Projects 🖥️
 &nbsp;
 
 * **EECS 280: Programming and Intro to Data Structures**
-  * Euchre Game  
-  * Posts Classifier Machine Learning Model
+  * Euchre Card Game Program with in-built AI Opponent
+  * Posts Classifier Machine Learning Program that takes in training data and predicts post classifications
   * Seam-Carving Algorithm
 
 | ***Euchre Game with AI*** | ***Machine Learning Post Classifier*** | ***Image Resizer Program*** | 
