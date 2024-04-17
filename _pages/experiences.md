@@ -108,7 +108,7 @@ Leadership Experiences 🧑‍💼
 - Led in curating tech workshops and training sessions on topics such as React and Arduino for over 200 like-minded club members.
 - Hosted the biggest hackathon in college’s history with 200+ participants and cash prizes amounting to more than $7k.
 - Secured sponsorships amounting to $25k from 7 different tech companies and partnerships with Intel, Google, and Samsung.
-- Certificates: [Agents of Tech](/files/AoT.pdf)
+- Certificates: [Agents of Tech](/files/AoT.pdf), Appointment: [IG Post](https://www.instagram.com/p/ClbPMMUpJHh/?img_index=2)
 
 *References: Gregory Sinnappan, Student Development, gregory.sinnappan@taylors.edu.my, +6016 2369600*
 
@@ -135,6 +135,7 @@ Leadership Experiences 🧑‍💼
 *Executive Coordinator and Director of Finance and Sponsorship*  
 - Led in organizing the largest student-led technology conference in Malaysia - Malaysian Students' Technology Week 2022 (MSTW), involving 22 events, 32 professional speakers, 5 sponsors, and approximately $30K worth of budget.
 - Generated $20K sponsorship fund for the club and event from companies such as Dyson, Shell, PwC
+- Appointment: [Finance & Sponsorship Director](https://www.instagram.com/p/CXiv31qvmd3/) & [Executive Coordinator](https://www.instagram.com/p/CdxzezPvTQB/)
 
 |  ![F&S](/images/F&S.jpg){: width="500px"} |  ![EC](/images/EC.jpg){: width="500px"}|
 |:-----------------------:|:-----------------------:|
@@ -148,6 +149,7 @@ Leadership Experiences 🧑‍💼
 - Compiled more than 100 feedback responses by students to be brought up to the school management. 
 - Liaised with the school management to discuss on students’ feedbacks and complaints.
 - Project Manager for Student Development August 2022 – Be Your Own Boss.
+- Appointment: [IG Post](https://www.instagram.com/p/CZjfLAJvarZ/)
 
 |  ![TUSC](/images/tusc.jpg){: width="300px"} |  ![CW](/images/CW.jpg){: width="450px"}|  ![Event](/images/physical.HEIC){: width="450px"}  |
 |:-----------------------:|:-----------------------:|:-----------------------:|
