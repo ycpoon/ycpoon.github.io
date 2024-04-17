@@ -151,7 +151,7 @@ Leadership Experiences 🧑‍💼
 - Project Manager for Student Development August 2022 – Be Your Own Boss.
 - Appointment: [IG Post](https://www.instagram.com/p/CZjfLAJvarZ/)
 
-|  ![TUSC](/images/tusc.jpg){: width="300px"} |  ![CW](/images/CW.jpg){: width="450px"}|  ![Event](/images/physical.HEIC){: width="450px"}  |
+|  ![TUSC](/images/tusc.jpg){: width="300px"} |  ![CW](/images/CW.jpg){: width="450px"}|  ![Event](/images/physical.jpg){: width="450px"}  |
 |:-----------------------:|:-----------------------:|:-----------------------:|
 | ***TUSC Lineup*** | ***Team Photoshoot*** | ***Physical Event*** |
 
