@@ -44,6 +44,9 @@ Others
 - **IDEs:** VS Code, Quartus, STM32Cube
 - **Engineering Softwares:** Altium, Waveform Generator, ModelSim, SolidWorks
 
+&nbsp;
+&nbsp;
+
 **Notable Soft Skills:**  
 - *Fast-Learner* 
 - *Problem-Solver*
