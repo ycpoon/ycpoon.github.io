@@ -44,6 +44,18 @@ Relevant Course Projects 🖥️
 
 ------------------------------- 
 
+* **EECS 270: Logic Design**
+  * Four Function Calculator on Altera using RTL Design with Verilog
+  * Traffic Light Controller using the concept of Finite States Machine
+  * Implemented an UpDown Counter using Squential Design
+
+| ***Altera FPGA Programming*** 👇 |
+
+|  ![FPGA](/images/FPGA.png) |  ![FPGA](/images/FPGA2.png)  |  ![FPGA](/images/FPGA3.png)  |
+
+&nbsp;
+&nbsp;
+
 * **EECS 281: Data Structures & Algorithms**
   * Letterman Words Morphing Algorithm using Stacks and Queues
   * Minemap Escape Route Finding Algorithm using Priority Queues
@@ -56,17 +68,6 @@ Relevant Course Projects 🖥️
 &nbsp;
 &nbsp;
 
-* **EECS 270: Logic Design**
-  * Four Function Calculator on Altera using RTL Design with Verilog
-  * Traffic Light Controller using the concept of Finite States Machine
-  * Implemented an UpDown Counter using Squential Design
-
-| ***Altera FPGA Programming*** 👇 |
-
-|  ![FPGA](/images/FPGA.png) |  ![FPGA](/images/FPGA2.png)  |  ![FPGA](/images/FPGA3.png)  |
-
-&nbsp;
-&nbsp;
 
 * **EECS 215: Circuits Design & Analysis**
   * Waveform Generator to Measure Voltage 
