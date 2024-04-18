@@ -57,7 +57,7 @@ Relevant Course Projects 🖥️
 &nbsp;
 
 * **EECS 270: Logic Design**
-  * Four Function Calculator using Altera FPGA programming
+  * Four Function Calculator on Altera using RTL Design with Verilog
   * Traffic Light Controller using the concept of Finite States Machine
   * Implemented an UpDown Counter using Squential Design
 
