@@ -38,7 +38,7 @@ Work Experiences 💼
 - Designed the schematics and layout for a PCB that controls the car’s headlights, stop lights, and turn signals with Altium.
 - Led in redesigning the dashboard PCB to integrate Battery Management System (BMS) controls to the dashboard. 
 - Assisted in the software and hardware integration of the car’s sensors with the GPIO pins of the main MCU.
-- Analyzed and rewrote the firmware code for the car’s light and brake system to increase the response time by ~120%
+- Analyzed and rewrote the firmware code for the car’s light and brake system to increase the response rate by ~120%
 - Developed a RTOS-based firmware that handles interrupts and schedules tasks for the MCU based on specific priorities.  
 
 *References: Jeffrey Yang, UMSCT Microsystems Lead, yangje@umich.edu*
