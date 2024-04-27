@@ -45,9 +45,9 @@ Relevant Course Projects 🖥️
 ------------------------------- 
 
 * **EECS 270: Logic Design**
-  * Four Function Calculator on Altera using RTL Design with Verilog
-  * Traffic Light Controller using the concept of Finite States Machine
-  * Implemented an UpDown Counter using Squential Design
+  * Four Function Calculator on Altera using RTL Design with Verilog (implemented Booth Multiplier, Carry Lookahead Adder, Quotient Divisor)
+  * Sensor-Integrated Traffic Light Controller using Verilog Sequential Design and the concept of Finite States Machine
+  * Implemented an UpDown Counter using Sequential Design
 
 | ***Altera FPGA Programming*** 👇 |
 
