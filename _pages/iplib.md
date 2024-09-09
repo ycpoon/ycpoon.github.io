@@ -1,5 +1,11 @@
-IP Library
-==========
+---
+layout: archive
+title: "IP Library"
+permalink: /iplib/
+author_profile: true
+redirect_from:
+  - /iplib
+---
 
 Asynchronous & Synchronous FIFO Design
 https://www.edaplayground.com/x/FrxZ
