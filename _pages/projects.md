@@ -30,6 +30,9 @@ Completed Projects ✅
 - IP cores reworked including High Latency Asynchronous FIFO, AXI4-Stream Interconnect, Configurable BRAM, Integer Square Root, Four Function Calculator modules.
 - [Access the Full Library Here](https://ycpoon.github.io/iplib/)
 
+&nbsp;
+&nbsp;
+
 **$80 Computer Initiative**
 - A project to build cheap computers under the cost of $80 as an initiative to provide underpriviledge children access to computers
 - How did we built it?
