@@ -7,6 +7,9 @@ redirect_from:
   - /iplib
 ---
 
+**RISC-V 5 Stage Pipeline Processor**
+- https://github.com/ycpoon/RISCV_5_Stage_Pipeline
+
 **Asynchronous & Synchronous FIFO Design**
 - https://www.edaplayground.com/x/FrxZ
 
