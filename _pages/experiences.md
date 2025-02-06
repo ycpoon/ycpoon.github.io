@@ -18,7 +18,7 @@ Work Experiences 💼
 &nbsp;
 &nbsp; 
 
-**Efinix Inc**, May 2024 - Aug 2024
+**Efinix Inc**, May 2024 - Aug 2024  
 *Design Verification & Post Silicon Validation Engineering Intern*
 - Contributed to the development of the test program for Efinix's Ti375C529 Configurable PLL Duty Cycle Distortion (DCD) IP, involved in the full process including defining test methodologies, implementing RTL designs, running simulations on Cadence Xcelium and QuestaSim, simulation debugging, and VCD conversion to Advantest V39000 tester format.
 - Researched and designed a low latency March C variant with 100% coverage in most fault models for Efinix’s Memory BIST design.
