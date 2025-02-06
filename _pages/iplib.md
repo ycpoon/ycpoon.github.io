@@ -8,10 +8,10 @@ redirect_from:
 ---
 
 
-**RISC-V 5 Stage Pipeline Processor**
+**RISC-V 5 Stage Pipelined Processor**
 - An in-order 5 stage pipeline that supports a subset of RISC-V instructions
 - Supports hazard management and data forwarding for optimal CPI
-- [Access Github Repo Here](https://github.com/ycpoon/RISCV_5_Stage_Pipeline)
+- [Access Github Repo Here](https://github.com/ycpoon/RISCV_5_Stage_Pipelined_Processor)
 
 **Asynchronous & Synchronous FIFO Design**
 - [Access IP Design Here](https://www.edaplayground.com/x/FrxZ)
