@@ -11,12 +11,12 @@ redirect_from:
 I am a 3rd year Computer Engineering student at the University of Michigan-Ann Arbor. 
 
 I am focused and specialized in 
-- *Embedded Systems* 📲
-- *VLSI & Chip Design* 🖥️
+- *Computer Architecture* 📲
 - *Digital System & Logic Design* 🧠
-- *Low-Level Verilog HDL Programming* 🧑‍💻
+- *VLSI & Chip Design* 🖥️
+- *Verilog/SystemVerilog/VHDL* 🧑‍💻
 
-I have several years of internship and working experience from the University of Michigan Solar Car Team and Aerodyne Group, working in firmware engineering roles and tech research roles. Academically, I have achieved a 3.86 GPA from the University of Michigan, completing high-level computer engineering courses including Intro to VLSI, Logic Design, Circuit Analysis, Data Structures and Algorithms, and many more.
+I have several years of internship and working experience from the University of Michigan Solar Car Team and Aerodyne Group, working in firmware engineering roles and tech research roles. Academically, I have achieved a 3.64 GPA from the University of Michigan, completing high-level computer engineering courses including Computer Architecture, Integrated Circuits & VLSI, GPU Programming, Logic Design, Circuit Analysis, Data Structures and Algorithms, and many more.
 
 I am currently searching for internship opportunities to further advance my engineering knowledge and gain more practical experience in the field.
 
