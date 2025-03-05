@@ -16,7 +16,7 @@ I am focused and specialized in
 - *VLSI & Chip Design* 🖥️
 - *Verilog/SystemVerilog/VHDL* 🧑‍💻
 
-I have several years of internship and working experience from the University of Michigan Solar Car Team and Aerodyne Group, working in firmware engineering roles and tech research roles. Academically, I have achieved a 3.64 GPA from the University of Michigan, completing high-level computer engineering courses including Computer Architecture, Integrated Circuits & VLSI, GPU Programming, Logic Design, Circuit Analysis, Data Structures and Algorithms, and many more.
+I have several years of internship and working experience from the Efinix Inc, University of Michigan Solar Car Team and Aerodyne Group, working in RTL design verification, post-silicon validation, firmware engineering roles and tech research roles. Academically, I have achieved a 3.69 GPA over my tertiary education, completing high-level computer engineering courses including Computer Architecture, Integrated Circuits & VLSI, GPU Programming, Logic Design, Circuit Analysis, Data Structures and Algorithms, and many more.
 
 I am currently searching for internship opportunities to further advance my engineering knowledge and gain more practical experience in the field.
 

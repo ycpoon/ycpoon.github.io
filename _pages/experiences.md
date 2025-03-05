@@ -20,16 +20,25 @@ Work Experiences 💼
 
 **Efinix Inc**, May 2024 - Aug 2024  
 *Design Verification & Post Silicon Validation Engineering Intern*
+![EF_logo](/images/efinix_logo.png){: .align-right width="350px"} 
 - Contributed to the development of the test program for Efinix's Ti375C529 Configurable PLL Duty Cycle Distortion (DCD) IP, involved in the full process including defining test methodologies, implementing RTL designs, running simulations on Cadence Xcelium and QuestaSim, simulation debugging, and VCD conversion to Advantest V39000 tester format.
 - Researched and designed a low latency March C variant with 100% coverage in most fault models for Efinix’s Memory BIST design.
 - Developed Python/Perl scripts automating GPIO assignments and coverage analysis, increasing efficiency of test runs by ~150%
 - Gained hands-on experience in JTAG-based debugging, scan insertions, ATPG, & fault simulation using Cadence First Encounter tool
 - Collaborated with Design Verification in the testing and verification of Efinix’s RISC-V Core and Triple Speed Ethernet MAC Core, assisted in refining UVM testbenches for Efinix’s EdgeVision image processing module and speed verification of Ethernet IP.
 
+*References: Nen Wei Ng, Engineering & Operations Director at Efinix Inc., nwng@efinixinc.com*
+
+|  ![EF_self](/images/efinix_team.jpeg){: width="300px"} |  ![EF_proto](/images/efinix_prototyping.jpeg){: width="300px"}|  ![EF_team](/images/efinix_team.jpeg){: width="300px"}  | 
+|:-----------------------:|:-----------------------:|:-----------------------:|
+| ***Selfie at Efinix*** | ***FPGA EdgeVision Testing*** | ***Farewell Dinner with Team*** | 
+
+
+
 &nbsp;
 &nbsp;
 
-**University of Michigan Solar Car Team**, Aug 2023 to Present  
+**University of Michigan Solar Car Team**, Aug 2023 to Aug 2024
 *Microsystems and Firmware Engineer* 
 ![SC](/images/sclogo.png){: .align-right width="350px"} 
 - Designed the schematics and layout for a PCB that controls the car’s headlights, stop lights, and turn signals with Altium.
