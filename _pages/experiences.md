@@ -18,7 +18,7 @@ Work Experiences 💼
 &nbsp;
 &nbsp; 
 
-**Efinix Inc**, May 2024 - Aug 2024  
+**Efinix Inc.**, May 2024 - Aug 2024  
 *Design Verification & Post Silicon Validation Engineering Intern*
 ![EF_logo](/images/efinix_logo.png){: .align-right width="350px"} 
 - Contributed to the development of the test program for Efinix's Ti375C529 Configurable PLL Duty Cycle Distortion (DCD) IP, involved in the full process including defining test methodologies, implementing RTL designs, running simulations on Cadence Xcelium and QuestaSim, simulation debugging, and VCD conversion to Advantest V39000 tester format.
@@ -29,16 +29,15 @@ Work Experiences 💼
 
 *References: Nen Wei Ng, Engineering & Operations Director at Efinix Inc., nwng@efinixinc.com*
 
-|  ![EF_self](/images/efinix_team.jpeg){: width="300px"} |  ![EF_proto](/images/efinix_prototyping.jpeg){: width="300px"}|  ![EF_team](/images/efinix_team.jpeg){: width="300px"}  | 
+|  ![EF_self](/images/efinix_selfie.jpeg){: width="300px"} |  ![EF_proto](/images/efinix_prototyping.jpeg){: width="300px"}|  ![EF_team](/images/efinix_team.jpeg){: width="300px"}  | 
 |:-----------------------:|:-----------------------:|:-----------------------:|
 | ***Selfie at Efinix*** | ***FPGA EdgeVision Testing*** | ***Farewell Dinner with Team*** | 
 
 
-
 &nbsp;
 &nbsp;
 
-**University of Michigan Solar Car Team**, Aug 2023 to Aug 2024
+**University of Michigan Solar Car Team**, Aug 2023 to Aug 2024  
 *Microsystems and Firmware Engineer* 
 ![SC](/images/sclogo.png){: .align-right width="350px"} 
 - Designed the schematics and layout for a PCB that controls the car’s headlights, stop lights, and turn signals with Altium.

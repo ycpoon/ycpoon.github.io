@@ -19,11 +19,11 @@ Education 🎓
 **University of Michigan - Ann Arbor**, May 2025  
 *Bachelor of Science in Engineering - Computer Engineering* 
 ![UM](/images/umich.png){: .align-right width="300px"}  
-- ***CGPA: 3.64***, Dean's List, University Honors
-- ***Relevant Courses:*** Logic Design, Data Structures & Algortihm, Circuits Analysis, VLSI
+- ***CGPA: 3.69***, Dean's List, University Honors
+- ***Relevant Courses:*** Computer Architecture, Logic Design, Integrated Circuits, GPU Programming, Data Structures & Algorithm, Circuit Analysis
 - ***Representation:*** Engineering Honors Program, Michigan Engineering Transfer Student Leader, Computer Engineering Ambassador
 - ***Clubs:*** University of Michigan Solar Car Team, IEEE UMich, Michigan Hackers, Tau Epsilon Kappa (Professional Technology Fraternity)
-- ***Focused and Specialized Field:*** Embedded Systems, Microsystems, Digital Systems Design, Chips Design
+- ***Focused and Specialized Field:*** Computer Architecture & VLSI
 
 &nbsp;
 &nbsp; 
