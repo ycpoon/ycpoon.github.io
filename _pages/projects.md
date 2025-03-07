@@ -22,6 +22,10 @@ Completed Projects ✅
 - The processor is designed and built in SystemVerilog, synthesizable with Synopsis Design Compiler
 - [Access Github Repo Here](https://github.com/ycpoon/RISCV_5_Stage_Pipelined_Processor)
 
+| ![5-stage](/images/five_stage.png){: width="500px"} |
+|:-----------------------:|
+| ***Five Stage Pipeline Processor*** |
+
 &nbsp;
 &nbsp;
 

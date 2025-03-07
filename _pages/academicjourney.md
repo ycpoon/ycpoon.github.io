@@ -44,15 +44,20 @@ Relevant Course Projects 🖥️
 
 ------------------------------- 
 
+* **In Progress - EECS 470: Computer Architecture**
+  * Currently working on a MIPS R10K Style Out of Order Processor with early tag Broadcasting, Early Branch Resolution, Advanced Branch Predictor, Load/Store Queue, High Performance Caches, and others.
+
+  &nbsp;
+&nbsp;
 
 * **EECS 312: Digital Integrated Circuits**
   * High Speed 8-bit Ripple Carry Adder using Dual-Rail Dynamic Logic Variant Implementation using Cadence Virtuoso
   * Energy Efficient 8-bit Ripple Carry Adder using Pass Transistor Logic and Transmission Gate Logic Hybrid
-  - Reports Published: [312 Report](/files/312_report.pdf)
+  * Reports Published: [312 Report](/files/312_report.pdf)
   * Physical Layout of Logic Blocks such as Mux, D Flip-Flop, XOR gate, Latches
 
 | ***Cadence Virtuoso*** | ***Schematic Drawing*** | ***Waveform Generated*** |
-
+|:-----------------------:|:-----------------------:|:-----------------------:|
 |  ![vir](/images/312_vir.png) |  ![sch](/images/312_sch.PNG)  |  ![wave](/images/312_wave.jpg)  |
 
 &nbsp;

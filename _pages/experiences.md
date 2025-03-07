@@ -37,7 +37,7 @@ Work Experiences 💼
 &nbsp;
 &nbsp;
 
-**University of Michigan CSE DEpartment**, Aug 2024 - Present  
+**University of Michigan CSE Department**, Aug 2024 - Present  
 *EECS 270: Logic Design Instructional Aide (Teaching Assistant)*
 ![UM_CSE](/images/cse.png){: .align-right width="300px"}
 - Responsible in leading weekly lab sessions, guiding students on RTL design projects in the course, and grading students' designs.
