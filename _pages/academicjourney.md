@@ -44,6 +44,20 @@ Relevant Course Projects 🖥️
 
 ------------------------------- 
 
+
+* **EECS 312: Digital Integrated Circuits**
+  * High Speed 8-bit Ripple Carry Adder using Dual-Rail Dynamic Logic Variant Implementation using Cadence Virtuoso
+  * Energy Efficient 8-bit Ripple Carry Adder using Pass Transistor Logic and Transmission Gate Logic Hybrid
+  - Reports Published: [312 Report](/files/312_report.pdf)
+  * Physical Layout of Logic Blocks such as Mux, D Flip-Flop, XOR gate, Latches
+
+| ***Cadence Virtuoso*** | ***Schematic Drawing*** | ***Waveform Generated*** |
+
+|  ![vir](/images/312_vir.png) |  ![sch](/images/312_sch.PNG)  |  ![wave](/images/312_wave.jpg)  |
+
+&nbsp;
+&nbsp;
+
 * **EECS 270: Logic Design**
   * Four Function Calculator on Altera using RTL Design with Verilog (implemented Booth Multiplier, Carry Lookahead Adder, Quotient Divisor)
   * Sensor-Integrated Traffic Light Controller using Verilog Sequential Design and the concept of Finite States Machine

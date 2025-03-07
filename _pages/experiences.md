@@ -37,6 +37,16 @@ Work Experiences 💼
 &nbsp;
 &nbsp;
 
+**University of Michigan CSE DEpartment**, Aug 2024 - Present  
+*EECS 270: Logic Design Instructional Aide (Teaching Assistant)*
+![UM_CSE](/images/cse.png){: .align-right width="300px"}
+- Responsible in leading weekly lab sessions, guiding students on RTL design projects in the course, and grading students' designs.
+- Supporting the development of the course's Autograder, mainly responsible for structuring test cases using UVM frameworks to verify students' digital designs more systematically and provide students with automated and accurate feedback on buggy designs.
+- Wrote several bash scripts automating RTL design testing and grading for 200+ students. 
+
+&nbsp;
+&nbsp;
+
 **University of Michigan Solar Car Team**, Aug 2023 to Aug 2024  
 *Microsystems and Firmware Engineer* 
 ![SC](/images/sclogo.png){: .align-right width="350px"} 
