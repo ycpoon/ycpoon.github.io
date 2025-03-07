@@ -20,7 +20,7 @@ Work Experiences 💼
 
 **Efinix Inc.**, May 2024 - Aug 2024  
 *Design Verification & Post Silicon Validation Engineering Intern*
-![EF_logo](/images/efinix_logo.png){: .align-right width="350px"} 
+![EF_logo](/images/efinix__logo.jpeg){: .align-right width="350px"} 
 - Contributed to the development of the test program for Efinix's Ti375C529 Configurable PLL Duty Cycle Distortion (DCD) IP, involved in the full process including defining test methodologies, implementing RTL designs, running simulations on Cadence Xcelium and QuestaSim, simulation debugging, and VCD conversion to Advantest V39000 tester format.
 - Researched and designed a low latency March C variant with 100% coverage in most fault models for Efinix’s Memory BIST design.
 - Developed Python/Perl scripts automating GPIO assignments and coverage analysis, increasing efficiency of test runs by ~150%
@@ -29,7 +29,7 @@ Work Experiences 💼
 
 *References: Nen Wei Ng, Engineering & Operations Director at Efinix Inc., nwng@efinixinc.com*
 
-|  ![EF_self](/images/efinix_selfie.jpeg){: width="300px"} |  ![EF_proto](/images/efinix_prototyping.jpeg){: width="300px"}|  ![EF_team](/images/efinix_team.jpeg){: width="300px"}  | 
+|  ![EF_self](/images/efinix_selfie.jpeg){: width="400px"} |  ![EF_proto](/images/efinix_prototyping.jpeg){: width="350px"}|  ![EF_team](/images/efinix_team.jpeg){: width="350px"}  | 
 |:-----------------------:|:-----------------------:|:-----------------------:|
 | ***Selfie at Efinix*** | ***FPGA EdgeVision Testing*** | ***Farewell Dinner with Team*** | 
 
@@ -43,6 +43,8 @@ Work Experiences 💼
 - Responsible in leading weekly lab sessions, guiding students on RTL design projects in the course, and grading students' designs.
 - Supporting the development of the course's Autograder, mainly responsible for structuring test cases using UVM frameworks to verify students' digital designs more systematically and provide students with automated and accurate feedback on buggy designs.
 - Wrote several bash scripts automating RTL design testing and grading for 200+ students. 
+
+*References: Karem Sakallah, Professor of EECS UMich, karem@umich.edu*
 
 &nbsp;
 &nbsp;
