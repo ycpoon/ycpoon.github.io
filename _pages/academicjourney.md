@@ -58,7 +58,7 @@ Relevant Course Projects 🖥️
 
 | ***Cadence Virtuoso*** | ***Schematic Drawing*** | ***Waveform Generated*** |
 |:-----------------------:|:-----------------------:|:-----------------------:|
-|  ![vir](/images/312_vir.png) |  ![sch](/images/312_sch.PNG)  |  ![wave](/images/312_wave.jpg)  |
+|  ![vir](/images/312_vir.png){: width="400px"} |  ![sch](/images/312_sch.PNG){: width="400px"}  |  ![wave](/images/312_wave.jpg){: width="400px"}  |
 
 &nbsp;
 &nbsp;
