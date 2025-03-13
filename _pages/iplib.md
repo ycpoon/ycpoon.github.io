@@ -21,11 +21,6 @@ redirect_from:
 
 &nbsp;
 
-**Improved BRAM Design**
-- [Access IP Design Here](https://www.edaplayground.com/x/YFYf)
-
-&nbsp;
-
 **Reduced Latency Memory BIST Design**
 - [Access IP Design Here](https://www.edaplayground.com/x/Fr6S)
 
@@ -33,3 +28,21 @@ redirect_from:
 
 **AXI Stream Interconnect**
 - [Access IP Design Here](https://www.edaplayground.com/x/DkCF)
+
+&nbsp;
+
+**Highly Efficient Parameterizable Priority Selector IP**
+- [Access IP Design Here](https://www.edaplayground.com/x/RFmL)
+
+&nbsp;
+
+**Integer Square Root & Multiplication IP**
+- [Access IP Design Here](https://www.edaplayground.com/x/WVQt)
+
+&nbsp;
+
+**Improved BRAM Design**
+- [Access IP Design Here](https://www.edaplayground.com/x/YFYf)
+
+&nbsp;
+
