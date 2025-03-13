@@ -46,3 +46,9 @@ redirect_from:
 
 &nbsp;
 
+**Arithmetic Four Function Calculator**
+- [Access IP Design Here](https://www.edaplayground.com/x/EyBY)
+
+&nbsp;
+
+
