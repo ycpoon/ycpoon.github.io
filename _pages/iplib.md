@@ -66,13 +66,13 @@ redirect_from:
 
 **Reduced Latency Memory BIST Design**
 - An efficient March C variant algorithm for MBIST testing, with full coverage in SAF, SOF, TF, AF, and inter-word CF
-- [Access IP Design Here](https://www.edaplayground.com/x/Fr6S)
+- View Design on EDA Playground: [https://www.edaplayground.com/x/Fr6S](https://www.edaplayground.com/x/Fr6S)
 
 &nbsp;
 
 **Improved BRAM Wrapper Design**
 - Scalable Read and Write BRAM Wrapper with backpressuring logic
-- [Access IP Design Here](https://www.edaplayground.com/x/YFYf)
+- View Design on EDA Playground: [https://www.edaplayground.com/x/YFYf](https://www.edaplayground.com/x/YFYf)
 
 &nbsp;
 
