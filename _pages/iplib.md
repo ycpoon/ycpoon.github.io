@@ -9,45 +9,70 @@ redirect_from:
 
 &nbsp;
 
+**Simple UVM Framework on ALU**
+- An attempt to learn UVM frameworks
+- View Design on EDA Playground: [https://www.edaplayground.com/x/JY_y](https://www.edaplayground.com/x/JY_y)
+
+&nbsp;
+
 **RISC-V 5 Stage Pipelined Processor**
-- An in-order 5 stage pipeline that supports a subset of RISC-V instructions
+- An in-order 5 stage pipeline that supports a RV32 subset of RISC-V instructions
 - Supports hazard management and data forwarding for optimal CPI
-- [Access Github Repo Here](https://github.com/ycpoon/RISCV_5_Stage_Pipelined_Processor)
+- Visual debugger written in C for CPU debugging and verification
+- Full documentation and code provided in GitHub: [https://github.com/ycpoon/RISCV_5_Stage_Pipelined_Processor](https://github.com/ycpoon/RISCV_5_Stage_Pipelined_Processor)
 
 &nbsp;
 
 **Asynchronous & Synchronous FIFO Design**
-- [Access IP Design Here](https://www.edaplayground.com/x/FrxZ)
+- FIFO design with various additional features, ie. parameterizable read/write size, additional FIFO flags, datacount tracking
+- Clock Domain Crossing with Two Flop Synchronizer and Gray/Binary Code Conversion for Asynchronous FIFO
+- Full documentation and code provided in GitHub: [https://github.com/ycpoon/FIFO_Asynchronous_Synchronous](https://github.com/ycpoon/FIFO_Asynchronous_Synchronous)
+- View Design on EDA Playground: [https://www.edaplayground.com/x/FrxZ](https://www.edaplayground.com/x/FrxZ)
 
 &nbsp;
 
-**Reduced Latency Memory BIST Design**
-- [Access IP Design Here](https://www.edaplayground.com/x/Fr6S)
-
-&nbsp;
-
-**AXI Stream Interconnect**
-- [Access IP Design Here](https://www.edaplayground.com/x/DkCF)
+**AXI4-Stream Interconnect FIFO**
+- AXI4-Stream Interconnect FIFO IP manages traffic on AXI4-Stream interfaces where it allows multiple AXI masters connect to multiple AXI slaves
+- This IP also implements a MSB-LSB alternating priority selector for its arbitration logic when multiple masters are writing into one slave.
+- Each slave has one FIFO buffer with backpressuring logic which slave port read from and master write to.
+- Full documentation and code provided in GitHub: [https://github.com/ycpoon/AXI4-Stream_Interconnect_FIFO](https://github.com/ycpoon/AXI4-Stream_Interconnect_FIFO)
+- View Design on EDA Playground: [https://www.edaplayground.com/x/DkCF](https://www.edaplayground.com/x/DkCF)
 
 &nbsp;
 
 **Highly Efficient Parameterizable Priority Selector IP**
-- [Access IP Design Here](https://www.edaplayground.com/x/RFmL)
+- An efficient multi-grant priority selector with parametrizable width and request grants
+- Three different prioritization scheme: MSB-LSB alternating scheme, MSB prioritization, LSB prioritization
+- Full documentation and code provided in GitHub: [https://github.com/ycpoon/Efficient_Priority_Selector](https://github.com/ycpoon/Efficient_Priority_Selector)
+- View Design on EDA Playground: [https://www.edaplayground.com/x/RFmL](https://www.edaplayground.com/x/RFmL)
 
 &nbsp;
 
 **Integer Square Root & Multiplication IP**
-- [Access IP Design Here](https://www.edaplayground.com/x/WVQt)
-
-&nbsp;
-
-**Improved BRAM Design**
-- [Access IP Design Here](https://www.edaplayground.com/x/YFYf)
+- 64-bit integer square root (ISR) IP that uses the pipelined multpication IP 
+- Comprehensive testing framework completed on ISR module and Pipelined Multiplication Module
+- Full documentation and code provided in GitHub: [https://github.com/ycpoon/Integer_Square_Root_w_Pipelined_Mult](https://github.com/ycpoon/Integer_Square_Root_w_Pipelined_Mult)
+- View Design on EDA Playground: [https://www.edaplayground.com/x/WVQt](https://www.edaplayground.com/x/WVQt)
 
 &nbsp;
 
 **Arithmetic Four Function Calculator**
-- [Access IP Design Here](https://www.edaplayground.com/x/EyBY)
+- Sequential Four Function Calculator (Add, Sub, Multiply, Divde) that efficiently utilizes FSM, Ripple Carry Adder, Booth Multiplier Algorithm, Quotient Divider
+- Full comprehensive testing framework implemented for the calculator
+- Full documentation and code provided in GitHub: [https://github.com/ycpoon/Seq_Arithmetic_Calculator](https://github.com/ycpoon/Seq_Arithmetic_Calculator)
+- View Design on EDA Playground: [https://www.edaplayground.com/x/EyBY](https://www.edaplayground.com/x/EyBY)
+
+&nbsp;
+
+**Reduced Latency Memory BIST Design**
+- An efficient March C variant algorithm for MBIST testing, with full coverage in SAF, SOF, TF, AF, and inter-word CF
+- [Access IP Design Here](https://www.edaplayground.com/x/Fr6S)
+
+&nbsp;
+
+**Improved BRAM Wrapper Design**
+- Scalable Read and Write BRAM Wrapper with backpressuring logic
+- [Access IP Design Here](https://www.edaplayground.com/x/YFYf)
 
 &nbsp;
 
