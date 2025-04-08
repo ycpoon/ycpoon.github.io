@@ -17,7 +17,7 @@ Completed Projects ✅
 
 **SystemVerilog IP Core Library**
 - A project aimed to redesign various common IP cores in SystemVerilog for additional features and/or latency & performance improvements
-- IP cores reworked including High Latency Asynchronous FIFO, AXI4-Stream Interconnect, Configurable BRAM, Integer Square Root, Four Function Calculator modules.
+- IP cores reworked including High Latency Asynchronous FIFO, AXI4-Stream Interconnect, Efficient Priority Selector, Integer Square Root, Four Function Calculator modules.
 - Access the full library here: [https://ycpoon.github.io/iplib/](https://ycpoon.github.io/iplib/)
 
 &nbsp;
