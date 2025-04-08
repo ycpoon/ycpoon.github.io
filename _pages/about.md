@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: " Hi, I'm Yan Cheng "YC"! 👋"
+title: " Hi, I'm Yan Cheng (YC)! 👋"
 author_profile: true
 redirect_from: 
   - /about/

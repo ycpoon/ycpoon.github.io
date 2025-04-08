@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "YanCheng's Homepage"
 title_separator          : "-"
-name                     : &name "Yan Cheng "YC" Poon"
+name                     : &name "Yan Cheng (YC) Poon"
 description              : &description "Personal Description"
 url                      : https://ycpoon.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "ycpoon/ycpoon.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Yan Cheng Poon"
+  name             : "Yan Cheng (YC) Poon"
   pronouns         : # example: "she/her"  
   bio              : "Computer Engineering BSE"
   location         : "United States/Malaysia"
