@@ -8,9 +8,6 @@ main:
 
   - title: "Personal Projects"
     url: /projects/    
-
-  - title: "SystemVerilog IP Core Project"
-    url: /iplib/   
         
   - title: "Skills"
     url: /skills/

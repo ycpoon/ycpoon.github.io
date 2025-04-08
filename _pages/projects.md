@@ -15,24 +15,23 @@ Completed Projects ✅
 
 ------------------------------- 
 
+**SystemVerilog IP Core Library**
+- A project aimed to redesign various common IP cores in SystemVerilog for additional features and/or latency & performance improvements
+- IP cores reworked including High Latency Asynchronous FIFO, AXI4-Stream Interconnect, Configurable BRAM, Integer Square Root, Four Function Calculator modules.
+- Access the full library here: [https://ycpoon.github.io/iplib/](https://ycpoon.github.io/iplib/)
+
+&nbsp;
+&nbsp;
 
 **RISC-V 5 Stage Pipeline Processor**
 - A project to build a simple 5-stage in-order pipelined processor that supports a major subset of RISC-V instructions.
 - This project incorporates structural, control, data hazard management as well as data forwarding capabilities for optimal in-order CPI
 - The processor is designed and built in SystemVerilog, synthesizable with Synopsis Design Compiler
-- [Access Github Repo Here](https://github.com/ycpoon/RISCV_5_Stage_Pipelined_Processor)
+- Full documentation and code provided in GitHub: [https://github.com/ycpoon/RISCV_5_Stage_Pipelined_Processor](https://github.com/ycpoon/RISCV_5_Stage_Pipelined_Processor)
 
 | ![5-stage](/images/five_stage.png){: width="500px"} |
 |:-----------------------:|
 | ***Five Stage Pipeline Processor*** |
-
-&nbsp;
-&nbsp;
-
-**IP Core Library**
-- A project aimed to redesign various common IP cores in SystemVerilog for additional features and/or latency & performance improvements
-- IP cores reworked including High Latency Asynchronous FIFO, AXI4-Stream Interconnect, Configurable BRAM, Integer Square Root, Four Function Calculator modules.
-- [Access the Full Library Here](https://ycpoon.github.io/iplib/)
 
 &nbsp;
 &nbsp;
