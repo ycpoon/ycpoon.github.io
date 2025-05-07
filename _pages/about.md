@@ -49,7 +49,6 @@ Hobbies outside of tech:
 - Diving 🤿 *(I am a licensed open water diver)*
 
 
-
 &nbsp;
 &nbsp;
 

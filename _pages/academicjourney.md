@@ -44,11 +44,30 @@ Relevant Course Projects 🖥️
 
 ------------------------------- 
 
-* **In Progress - EECS 470: Computer Architecture**
-  * Successfully designed a MIPS R10K Style Out of Order Processor 
-  * with Early tag Broadcasting, Early Branch Resolution, Advanced Branch Predictor, Load/Store Queue, High Performance Caches, and others.
+* **EECS 470: Computer Architecture**
+  * A 32-bit MIPS R10K Style Out of Order Processor that supports the RV32I subset of RISC-V ISA.
+  * Implemented various advanced features including N-way Superscalar Width, Early Tag Broadcasting, Early Branch Resolution, Advanced Branch Predictor, Load/Store Queue for Load-Store Forwarding, Non-Blocking Caches, Victim Caches, Banked Cache, Prefetcher Logic and others.
+  * Averaged a CPI of ~1.4 on general assembly programs, achieved a clock period of 7.8ns (best performing in the class)
+  * Final Project Report: ![470 Project Report](/files/470finalreport.pdf)
+  * *Due to course policy reasons, I am unable to share the git repo publicly, please contact me if you are interested in looking through the code, I am happy to share*
 
-  &nbsp;
+| ***Processor Architecture*** | ***Synthesized RTL Design*** | ***Processor Analysis*** |
+|:-----------------------:|:-----------------------:|:-----------------------:|
+|  ![arch](/images/470diagram.png){: width="400px"} |  ![syn](/images/470synthesis.png){: width="400px"}  |  ![ana](/images/470analysis.png){: width="400px"}  |
+
+&nbsp;
+&nbsp;
+
+* **EECS 270: Logic Design**
+  * Four Function Calculator RTL Design on Altera DE2-115 FPGA (implemented Booth Multiplier, Carry Lookahead Adder, Quotient Divisor)
+  * Sensor-Integrated Traffic Light Controller using Sequential Design and the Finite States Machine concepts
+  * Implemented an UpDown Counter using Sequential Design
+
+| ***Altera FPGA Programming*** 👇 |
+
+|  ![FPGA](/images/FPGA.png) |  ![FPGA](/images/FPGA2.png)  |  ![FPGA](/images/FPGA3.png)  |
+
+&nbsp;
 &nbsp;
 
 * **EECS 312: Digital Integrated Circuits**
@@ -60,18 +79,6 @@ Relevant Course Projects 🖥️
 | ***Cadence Virtuoso*** | ***Schematic Drawing*** | ***Waveform Generated*** |
 |:-----------------------:|:-----------------------:|:-----------------------:|
 |  ![vir](/images/312_vir.png){: width="400px"} |  ![sch](/images/312_sch.PNG){: width="400px"}  |  ![wave](/images/312_wave.jpg){: width="400px"}  |
-
-&nbsp;
-&nbsp;
-
-* **EECS 270: Logic Design**
-  * Four Function Calculator on Altera using RTL Design with Verilog (implemented Booth Multiplier, Carry Lookahead Adder, Quotient Divisor)
-  * Sensor-Integrated Traffic Light Controller using Verilog Sequential Design and the concept of Finite States Machine
-  * Implemented an UpDown Counter using Sequential Design
-
-| ***Altera FPGA Programming*** 👇 |
-
-|  ![FPGA](/images/FPGA.png) |  ![FPGA](/images/FPGA2.png)  |  ![FPGA](/images/FPGA3.png)  |
 
 &nbsp;
 &nbsp;
