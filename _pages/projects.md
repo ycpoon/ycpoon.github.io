@@ -30,9 +30,9 @@ Completed Projects ✅
 - Final Project Report: [470 Project Report](/files/470finalreport.pdf)
 - *Due to course policy reasons, I am unable to share the git repo publicly, please contact me if you are interested in looking through the code, I am happy to share*
 
-| ***Processor Architecture*** | ***Synthesized RTL Design*** | ***Processor Analysis*** |
-|:-----------------------:|:-----------------------:|:-----------------------:|
 |  ![arch](/images/470diagram.png){: width="450px"} |  ![syn](/images/470synthesis.png){: width="300px"}  |  ![ana](/images/470analysis.png){: width="450px"}  |
+|:-----------------------:|:-----------------------:|:-----------------------:|
+| ***Processor Architecture*** | ***Synthesized RTL Design*** | ***Processor Analysis*** |
 
 &nbsp;
 &nbsp;
