@@ -45,9 +45,9 @@ Relevant Course Projects 🖥️
 ------------------------------- 
 
 * **EECS 470: Computer Architecture**
-  * A 32-bit MIPS R10K Style Out of Order Processor that supports the RV32I subset of RISC-V ISA.
+  * Designed a 32-bit MIPS R10K Style Out of Order Processor that supports the RV32I subset of RISC-V ISA.
   * Implemented various advanced features including N-way Superscalar Width, Early Tag Broadcasting, Early Branch Resolution, Tournament Branch Predictor, Load/Store Queue for Load-Store Forwarding, Non-Blocking Caches, Victim Caches, Banked Cache, Prefetcher Logic and others.
-  * Averaged a CPI of ~1.4 on general assembly programs, achieved a clock period of 7.8ns (best performing in the class)
+  * Averaged a CPI of ~1.4 on general assembly programs, achieved a clock period of 7.8ns
   * Final Project Report: [470 Project Report](/files/470finalreport.pdf)
   * *Due to course policy reasons, I am unable to share the git repo publicly, please contact me if you are interested in looking through the code, I am happy to share*
 
@@ -59,8 +59,8 @@ Relevant Course Projects 🖥️
 &nbsp;
 
 * **EECS 270: Logic Design**
-  * Four Function Calculator RTL Design on Altera DE2-115 FPGA (implemented Booth Multiplier, Carry Lookahead Adder, Quotient Divisor)
-  * Sensor-Integrated Traffic Light Controller using Sequential Design and the Finite States Machine concepts
+  * Developed a Four Function Calculator RTL Design on Altera DE2-115 FPGA (implemented Booth Multiplier, Carry Lookahead Adder, Quotient Divisor)
+  * Designed a Sensor-Integrated Traffic Light Controller using Sequential Design and the Finite States Machine concepts
   * Implemented an UpDown Counter using Sequential Design
 
 | ***Altera FPGA Programming*** 👇 |
@@ -71,10 +71,11 @@ Relevant Course Projects 🖥️
 &nbsp;
 
 * **EECS 312: Digital Integrated Circuits**
-  * High Speed 8-bit Ripple Carry Adder using Dual-Rail Dynamic Logic Variant Implementation using Cadence Virtuoso
-  * Energy Efficient 8-bit Ripple Carry Adder using Pass Transistor Logic and Transmission Gate Logic Hybrid
+  * Implemented a transistor-level design of a High Speed 8-bit Ripple Carry Adder using Dual-Rail Dynamic Logic Variant Implementation with Cadence Virtuoso
+  * Engineered a transistor-level design of a Energy Efficient 8-bit Ripple Carry Adder using Pass Transistor Logic and Transmission Gate Logic Hybrid
+  * Developed transistor-level designs of Muxes, D Flip Flops, XOR gate, and Latches
+  * Floorplanned, Placed and Routed the dual-mode adder architecture design, achieving timing closure at 1.51Mhz and reducing area by 20%
   * Reports Published: [312 Report](/files/312_report.pdf)
-  * Physical Layout of Logic Blocks such as Mux, D Flip-Flop, XOR gate, Latches
 
 | ***Cadence Virtuoso*** | ***Schematic Drawing*** | ***Waveform Generated*** |
 |:-----------------------:|:-----------------------:|:-----------------------:|
@@ -83,10 +84,26 @@ Relevant Course Projects 🖥️
 &nbsp;
 &nbsp;
 
+* **EECS 370: Computer Organization**
+  * Wrote a assembler program for converting assembly code to machine code object files
+  * Wrote a linker program for linking object files and libraries to create executables for processors
+
+&nbsp;
+&nbsp;
+
+* **EECS 471: Parallel Programming with GPU**
+  * Rewrote and optimize CUDA code for a custom PyTorch operator, implementing the convolution layer for the CNN
+  * Reduced execution time of the convolution layer by ~500% through optimizing the code to take full advantage of the GPU architecture
+  * Reports Published: [471 Report](/files/471report.pdf)
+
+
+&nbsp;
+&nbsp;
+
 * **EECS 281: Data Structures & Algorithms**
-  * Letterman Words Morphing Algorithm using Stacks and Queues
-  * Minemap Escape Route Finding Algorithm using Priority Queues
-  * SQL Implementation using Hashmaps and Ordered Maps
+  * Developed a Letterman Words Morphing Algorithm using Stacks and Queues
+  * Designed a Minemap Escape Route Finding Algorithm using Priority Queues
+  * Implemented a simple SQL database using Hashmaps and Ordered Maps
 
 | ***SQL Implementation*** | ***Mine Escape Route Finder Program*** | ***Letterman Morphing Program*** | 
 |:-----------------------:|:-----------------------:|:-----------------------:|
@@ -97,9 +114,9 @@ Relevant Course Projects 🖥️
 
 
 * **EECS 215: Circuits Design & Analysis**
-  * Waveform Generator to Measure Voltage 
-  * RLC Circuits & Op-Amps Circuits
-  * Powering Audio Transmitter with Rheostat
+  * Used Waveform Generator to Measure Voltage 
+  * Built RLC Circuits & Op-Amps Circuits on breadboards
+  * Hands-on experience with powering Audio Transmitter with Rheostat
 
 | ***Circuits & Waveform Generator*** 👇 | 
 
@@ -109,9 +126,9 @@ Relevant Course Projects 🖥️
 &nbsp;
 
 * **EECS 280: Programming and Intro to Data Structures**
-  * Euchre Card Game Program with in-built AI Opponent
-  * Posts Classifier Machine Learning Program that takes in training data and predicts post classifications
-  * Seam-Carving Algorithm
+  * Developed Euchre Card Game Program with in-built AI Opponent
+  * Designed a Posts Classifier Machine Learning Program that takes in training data and predicts post classifications
+  * Implemented a Seam-Carving Algorithm
 
 | ***Euchre Game with AI*** | ***Machine Learning Post Classifier*** | ***Image Resizer Program*** | 
 |:-----------------------:|:-----------------------:|:-----------------------:|
@@ -121,8 +138,8 @@ Relevant Course Projects 🖥️
 &nbsp;
 
 * **EECS 201: Computer Science Pragmatics**
-  * Built and customize my own bash shell
-  * Pig-Latin Translation Program
+  * Built and customized my own bash shell
+  * Engineered a Pig-Latin Translation Program
   * Created my own python library
 
 | ***Customized Shell*** | ***Customized Shell Functions*** | ***Pig-Latinfy Program*** | 
