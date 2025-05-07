@@ -24,7 +24,7 @@ Work Experiences 💼
 - Contributed to the development of the test program for Efinix's Ti375C529 Configurable PLL Duty Cycle Distortion (DCD) IP, involved in the full process including defining test methodologies, implementing RTL designs, running simulations on Cadence Xcelium and QuestaSim, simulation debugging, and VCD conversion to Advantest V39000 tester format.
 - Researched and designed a low latency March C variant with 100% coverage in most fault models for Efinix’s Memory BIST design.
 - Developed Python/Perl scripts automating GPIO assignments and coverage analysis, increasing efficiency of test runs by ~150%
-- Gained hands-on experience in JTAG-based debugging, scan insertions, ATPG, & fault simulation using Cadence First Encounter tool
+- Gained hands-on experience in JTAG-based debugging, scan insertions, ATPG, & fault simulation using Synopsys TetraMax diagnostic tools
 - Collaborated with Design Verification in the testing and verification of Efinix’s RISC-V Core and Triple Speed Ethernet MAC Core, assisted in refining UVM testbenches for Efinix’s EdgeVision image processing module and speed verification of Ethernet IP.
 
 *References: Nen Wei Ng, Engineering & Operations Director at Efinix Inc., nwng@efinixinc.com*
@@ -44,7 +44,7 @@ Work Experiences 💼
 - Supporting the development of the course's Autograder, mainly responsible for structuring test cases using UVM frameworks to verify students' digital designs more systematically and provide students with automated and accurate feedback on buggy designs.
 - Wrote several bash scripts automating RTL design testing and grading for 200+ students. 
 
-*References: Karem Sakallah, Professor of EECS UMich, karem@umich.edu*
+*References: Karem Sakallah, Professor of CSE UMich, karem@umich.edu*
 
 &nbsp;
 &nbsp;
