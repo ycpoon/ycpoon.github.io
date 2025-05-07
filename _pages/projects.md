@@ -23,8 +23,18 @@ Completed Projects ✅
 &nbsp;
 &nbsp;
 
+**MIPS R10k Style Out-of-Order Processor**
+- Designed a 32-bit MIPS R10K Style Out of Order Processor that supports the RV32I subset of RISC-V ISA in SystemVerilog
+- Implemented various advanced features including N-way Superscalar Width, Early Tag Broadcasting, Early Branch Resolution, Tournament Branch Predictor, Load/Store Queue for Load-Store Forwarding, Non-Blocking Caches, Victim Caches, Banked Cache, Prefetcher Logic and others.
+- Averaged a CPI of ~1.4 on general assembly programs, achieved a clock period of 7.8ns
+- Final Project Report: [470 Project Report](/files/470finalreport.pdf)
+- *Due to course policy reasons, I am unable to share the git repo publicly, please contact me if you are interested in looking through the code, I am happy to share*
+
+&nbsp;
+&nbsp;
+
 **RISC-V 5 Stage Pipeline Processor**
-- A project to build a simple 5-stage in-order pipelined processor that supports a major subset of RISC-V instructions.
+- A project to build a simple 5-stage in-order pipelined processor that supports the RV32I subset of RISC-V ISA
 - This project incorporates structural, control, data hazard management as well as data forwarding capabilities for optimal in-order CPI
 - The processor is designed and built in SystemVerilog, synthesizable with Synopsis Design Compiler
 - Full documentation and code provided in GitHub: [https://github.com/ycpoon/RISCV_5_Stage_Pipelined_Processor](https://github.com/ycpoon/RISCV_5_Stage_Pipelined_Processor)
