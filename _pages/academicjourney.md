@@ -53,7 +53,7 @@ Relevant Course Projects 🖥️
 
 | ***Processor Architecture*** | ***Synthesized RTL Design*** | ***Processor Analysis*** |
 |:-----------------------:|:-----------------------:|:-----------------------:|
-|  ![arch](/images/470diagram.png){: width="400px"} |  ![syn](/images/470synthesis.png){: width="400px"}  |  ![ana](/images/470analysis.png){: width="400px"}  |
+|  ![arch](/images/470diagram.png){: width="400px"} |  ![syn](/images/470synthesis.png){: width="300px"}  |  ![ana](/images/470analysis.png){: width="400px"}  |
 
 &nbsp;
 &nbsp;
