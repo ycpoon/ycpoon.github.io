@@ -20,7 +20,7 @@ Work Experiences 💼
 
 **Advanced Micro Devices (AMD)**, May 2025 - Present  
 *Silicon Design Engineering Intern - Design Verification*
-![AMD_logo](/images/amd-logo.jpeg){: .align-right width="350px"} 
+![AMD_logo](/images/amd-logo.png){: .align-right width="350px"} 
 -	Engaging in comprehensive verification flows for diverse USB IP blocks including eUSB2v2, USB4, and xHCI.
 -	Contributing to the development cycle of a xHCI system reset verification test, including designing test plans based on design specifications, writing UVM test sequences and SystemVerilog Assertion (SVA) checkers, debugging testcase failures, performing functional and code coverage analysis, and verifying waveform behavior against specification through Verdi.
 -	Assisted in refining UVM monitors by extracting protocol-layer data transaction packets, enabling more detailed debug printing.
