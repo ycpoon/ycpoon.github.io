@@ -18,6 +18,19 @@ Work Experiences 💼
 &nbsp;
 &nbsp; 
 
+**Advanced Micro Devices (AMD)**, May 2025 - Present  
+*Silicon Design Engineering Intern - Design Verification*
+![AMD_logo](/images/amd-logo.jpeg){: .align-right width="350px"} 
+-	Engaging in comprehensive verification flows for diverse USB IP blocks including eUSB2v2, USB4, and xHCI.
+-	Contributing to the development cycle of a xHCI system reset verification test, including designing test plans based on design specifications, writing UVM test sequences and SystemVerilog Assertion (SVA) checkers, debugging testcase failures, performing functional and code coverage analysis, and verifying waveform behavior against specification through Verdi.
+-	Assisted in refining UVM monitors by extracting protocol-layer data transaction packets, enabling more detailed debug printing.
+-	Developing a Python script for parsing post-simulation UVM logs and generating an interactive GUI centralized tracker for USB transactions, comprising of transfers queued in system memory, AXI reads/writes, protocol-level packet exchanges, and more. 
+
+*References: Chi Chiet Woo, Senior Manager of Silicon Design Engineering, ChiChiet.Woo@amd.com*
+
+&nbsp;
+&nbsp;
+
 **Efinix Inc.**, May 2024 - Aug 2024  
 *Post Silicon Validation & Design for Testability (DFT) Engineering Intern*
 ![EF_logo](/images/efinix__logo.jpeg){: .align-right width="350px"} 
