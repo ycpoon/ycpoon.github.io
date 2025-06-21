@@ -27,6 +27,7 @@ Completed Projects ✅
 - Designed and synthesized a 32-bit MIPS R10K Style Out of Order Processor that supports the RV32I subset of RISC-V ISA in SystemVerilog
 - Implemented various advanced features including N-way Superscalar Width, Early Tag Broadcasting, Early Branch Resolution, Tournament Branch Predictor, Load/Store Queue for Load-Store Forwarding, Non-Blocking Caches, Victim Caches, Banked Cache, Prefetcher Logic and others.
 - Averaged a CPI of ~1.4 on general assembly programs, achieved a clock period of 7.8ns
+-	Developed a comprehensive SystemVerilog Assertion (SVA) suite for verification of internal data structures and cache subsystems
 - Final Project Report: [470 Project Report](/files/470finalreport.pdf)
 - *Due to course policy reasons, I am unable to share the git repo publicly, please contact me if you are interested in looking through the code, I am more than happy to share.*
 
