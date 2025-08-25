@@ -21,12 +21,16 @@ Work Experiences 💼
 **Advanced Micro Devices (AMD)**, May 2025 - Present  
 *Silicon Design Engineering Intern - Design Verification*
 ![AMD_logo](/images/amd-logo.png){: .align-right width="350px"} 
--	Engaging in comprehensive verification flows for diverse USB IP blocks including eUSB2v2, USB4, and xHCI.
--	Contributing to the development cycle of a xHCI system reset verification test, including designing test plans based on design specifications, writing UVM test sequences and SystemVerilog Assertion (SVA) checkers, debugging testcase failures, performing functional and code coverage analysis, and verifying waveform behavior against specification through Verdi.
+-	Contributed to the verification flow of a USB xHCI sub-block device reset verification test, including designing test plans based on coverage plan and design specifications, writing UVM test sequences with constrained random sequence items, developing SystemVerilog Assertion (SVA) checkers, debugging testcase failures, performing functional and code coverage analysis, verifying waveform behavior against specification through Verdi, and deploying testcase to regression. 
 -	Assisted in refining UVM monitors by extracting protocol-layer data transaction packets, enabling more detailed debug printing.
--	Developing a Python script for parsing post-simulation UVM logs and generating an interactive GUI centralized tracker for USB transactions, comprising of transfers queued in system memory, AXI reads/writes, protocol-level packet exchanges, and more. 
+-	Developed a Python script for parsing post-simulation UVM logs and generating an interactive GUI centralized tracker for USB transactions, comprising of transfers queued in system memory, AXI interfacing, DMA reads/writes, protocol-level packet exchanges, and more. 
+- Refactored 1000+ lines of xHCI test sequence library by reorganizing general sequence classes to testcase-specific sequence classes and reconfiguring internal build scripts to support the new structure, improving test clarity and scalability for easier future debugging.
 
 *References: Chi Chiet Woo, Senior Manager of Silicon Design Engineering, ChiChiet.Woo@amd.com*
+
+|  ![AMD_first](/images/amd_first.jpeg){: width="300px"} |  ![AMD_last](/images/amd_last.jpeg){: width="400px"}|  ![AMD_proto](/images/fifo_org.drawio.png){: width="400px"}  | 
+|:-----------------------:|:-----------------------:|:-----------------------:|
+| ***First Day at AMD*** | ***Last Day with Mentors*** | ***Sample Prototype of Debug Tool Software Algorithm (Discarded)*** | 
 
 &nbsp;
 &nbsp;
