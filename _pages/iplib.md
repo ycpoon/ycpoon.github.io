@@ -31,6 +31,13 @@ redirect_from:
 
 &nbsp;
 
+**Multi-Grant Round Robin Arbiter**
+- A parameterizable multi-grant round robin arbitration logic block designed to provide grant access efficiently in round robin manner.
+- This IP implements an efficient MSB priority selector logic coupled with rotation logic to generate different arbitration scheme at every cycle.
+- Full documentation and code provided in GitHub: [https://github.com/ycpoon/Multi_Grant_Round_Robin_Arbiter](https://github.com/ycpoon/Multi_Grant_Round_Robin_Arbiter)
+
+&nbsp;
+
 **AXI4-Stream Interconnect FIFO**
 - AXI4-Stream Interconnect FIFO IP manages traffic on AXI4-Stream interfaces where it allows multiple AXI masters connect to multiple AXI slaves
 - This IP also implements a MSB-LSB alternating priority selector for its arbitration logic when multiple masters are writing into one slave.
