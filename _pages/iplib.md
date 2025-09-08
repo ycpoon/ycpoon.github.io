@@ -16,7 +16,7 @@ redirect_from:
 &nbsp;
 
 **RISC-V 5 Stage Pipelined Processor**
-- An in-order 5 stage pipeline that supports a RV32 subset of RISC-V instructions
+- An in-order 5 stage pipeline that supports a RV32I subset of RISC-V instructions
 - Supports hazard management and data forwarding for optimal CPI
 - Visual debugger written in C for CPU debugging and verification
 - Full documentation and code provided in GitHub: [https://github.com/ycpoon/RISCV_5_Stage_Pipelined_Processor](https://github.com/ycpoon/RISCV_5_Stage_Pipelined_Processor)
@@ -33,7 +33,7 @@ redirect_from:
 
 **Multi-Grant Round Robin Arbiter**
 - A parameterizable multi-grant round robin arbitration logic block designed to provide grant access efficiently in round robin manner.
-- This IP implements an efficient MSB priority selector logic coupled with rotation logic to generate different arbitration scheme at every cycle.
+- This IP block uses FSM to achieve round-robin effect, implementing efficient MSB priority selector logic coupled with rotation logic to generate different arbitration scheme at every cycle.
 - Full documentation and code provided in GitHub: [https://github.com/ycpoon/Multi_Grant_Round_Robin_Arbiter](https://github.com/ycpoon/Multi_Grant_Round_Robin_Arbiter)
 
 &nbsp;
