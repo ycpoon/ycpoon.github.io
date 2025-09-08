@@ -47,6 +47,12 @@ redirect_from:
 
 &nbsp;
 
+**Full-Duplex Ethernet MAC Core**
+- A naive implementation of a configurable Ethernet Media Access Control (MAC) core, designed in SystemVerilog for FPGA/ASIC implementation.
+- This MAC Core primarily handles the transmission of data between the host processor and the Ethernet network (including separate TX and RX FIFOs for backpressuring, CRC generation/checker, and RGMII interfacing to PHY).
+- It supports full-duplex mode over three speed modes: 10/100/1000 Mbps
+- Full documentation and code provided in GitHub: [https://github.com/ycpoon/Ethernet_MAC_Core](https://github.com/ycpoon/Ethernet_MAC_Core)
+
 **Highly Efficient Parameterizable Priority Selector IP**
 - An efficient multi-grant priority selector with parametrizable width and request grants
 - Three different prioritization scheme: MSB-LSB alternating scheme, MSB prioritization, LSB prioritization
