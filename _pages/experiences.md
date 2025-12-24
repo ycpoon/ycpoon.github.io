@@ -20,12 +20,13 @@ Work Experiences 💼
 
 **University of Michigan CSE Department**, Aug 2024 - Dec 2025  
 *EECS 270: Logic Design Instructional Aide (Teaching Assistant)*
-![UM_CSE](/images/cse.png){: .align-right width="300px"}
+![UM_CSE](/images/cse.png){: .align-right width="250px"}
 - Responsible in leading weekly lab sessions, guiding students on RTL design projects in the course, and grading students' designs.
 - Supporting the development of the course's Autograder, mainly responsible for structuring test cases using UVM frameworks to verify students' digital designs more systematically and provide students with automated and accurate feedback on buggy designs.
 - Wrote several bash scripts automating RTL design testing and grading for 200+ students. 
 
-*References: Saquib Razak, Professor of CSE UMich, razak@umich.edu;  Karem Sakallah, Professor of CSE UMich, karem@umich.edu*
+*References:*  
+*Saquib Razak, Professor of CSE UMich, razak@umich.edu;  Karem Sakallah, Professor of CSE UMich, karem@umich.edu*
 
 |  ![IA1](/images/IA.jpg){: width="400px"} |  ![IA2](/images/IA2.png){: width="400px"}|
 |:-----------------------:|:-----------------------:|
@@ -35,7 +36,7 @@ Work Experiences 💼
 &nbsp;
 
 **Advanced Micro Devices (AMD)**, May 2025 - Aug 2025  
-*Silicon Design Engineering Intern - Design Verification*
+*Silicon Design Engineering Intern - Design Verification*  
 ![AMD_logo](/images/amd-logo.png){: .align-right width="350px"} 
 -	Contributed to the verification flow of a USB xHCI sub-block device reset verification test, including designing test plans based on coverage plan and design specifications, writing UVM test sequences with constrained random sequence items, developing SystemVerilog Assertion (SVA) checkers, debugging testcase failures, performing functional and code coverage analysis, verifying waveform behavior against specification through Verdi, and deploying testcase to regression. 
 -	Assisted in refining UVM monitors by extracting protocol-layer data transaction packets, enabling more detailed debug printing.
@@ -44,7 +45,7 @@ Work Experiences 💼
 
 *References: Chi Chiet Woo, Senior Manager of Silicon Design Engineering, ChiChiet.Woo@amd.com*
 
-|  ![AMD_first](/images/amd_first.jpeg){: width="300px"} |  ![AMD_last](/images/amd_last.jpeg){: width="400px"}|  ![AMD_proto](/images/fifo_org.drawio.png){: width="400px"}  | 
+|  ![AMD_first](/images/amd_first.jpeg){: width="350px"} |  ![AMD_last](/images/amd_last.jpeg){: width="350px"}|  ![AMD_proto](/images/fifo_org.drawio.png){: width="400px"}  | 
 |:-----------------------:|:-----------------------:|:-----------------------:|
 | ***First Day at AMD*** | ***Last Day with Mentors*** | ***Sample Prototype of Debug Tool Software Algorithm (Discarded)*** | 
 
@@ -52,7 +53,7 @@ Work Experiences 💼
 &nbsp;
 
 **Efinix Inc.**, May 2024 - Aug 2024  
-*Post Silicon Validation & Design for Testability (DFT) Engineering Intern*
+*Post Silicon Validation & Design for Testability (DFT) Engineering Intern*  
 ![EF_logo](/images/efinix__logo.jpeg){: .align-right width="350px"} 
 - Contributed to the development of the test program for Efinix's Ti375C529 Configurable PLL Duty Cycle Distortion (DCD) IP, involved in the full process including defining test methodologies, implementing RTL designs, running simulations on Cadence Xcelium and QuestaSim, simulation debugging, and VCD conversion to Advantest V39000 tester format.
 - Researched and designed a low latency March C variant with 100% coverage in most fault models for Efinix’s Memory BIST design.
@@ -142,7 +143,7 @@ Leadership Experiences 🧑‍💼
 
 **Michigan Hackers**, Aug 2024 to Aug 2025  
 *President*  
-![TaylorsAOT](/images/aot.png){: .align-right width="250px"} 
+![MHackers](/images/mhackers.jpg){: .align-right width="250px"} 
 - Led a team of 20 in the development of a semester-based embedded systems project to be showcased to 200+ MHackers’ members.
 - Reviewed and provided feedback for 50+ embedded systems project designs, ensuring quality standards and optimal functionality.
 - Curated 15+ hack nights and 3 workshops tailored for MHackers’ members, fostering knowledge in embedded systems.
@@ -150,7 +151,7 @@ Leadership Experiences 🧑‍💼
 
 *References: Anisha Aggarwal, MHackers President, anishaag@umich.edu*
 
-|  ![Mhackers](/images/mhackers.jpg){: width="300px"} |  ![Roul](/images/roulette.jpg){: width="300px"} |  ![Car](/images/mhackers2.jpg){: width="300px"}  |
+|  ![Mhackers](/images/mhackers1.jpg){: width="300px"} |  ![Roul](/images/roulette.jpg){: width="300px"} |  ![Car](/images/mhackers2.jpg){: width="300px"}  |
 |:-----------------------:|:-----------------------:|:-----------------------:|
 | ***MHackers Demo Night*** | ***LED Roulette Game*** | ***Remote Controlled Car*** | 
 
