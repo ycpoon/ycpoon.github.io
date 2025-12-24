@@ -16,9 +16,25 @@ Work Experiences 💼
 ------------------------------- 
 
 &nbsp;
-&nbsp; 
+&nbsp;
 
-**Advanced Micro Devices (AMD)**, May 2025 - Present  
+**University of Michigan CSE Department**, Aug 2024 - Dec 2025  
+*EECS 270: Logic Design Instructional Aide (Teaching Assistant)*
+![UM_CSE](/images/cse.png){: .align-right width="300px"}
+- Responsible in leading weekly lab sessions, guiding students on RTL design projects in the course, and grading students' designs.
+- Supporting the development of the course's Autograder, mainly responsible for structuring test cases using UVM frameworks to verify students' digital designs more systematically and provide students with automated and accurate feedback on buggy designs.
+- Wrote several bash scripts automating RTL design testing and grading for 200+ students. 
+
+*References: Saquib Razak, Professor of CSE UMich, razak@umich.edu;  Karem Sakallah, Professor of CSE UMich, karem@umich.edu*
+
+|  ![IA1](/images/IA.jpg){: width="400px"} |  ![IA2](/images/IA2.png){: width="400px"}|
+|:-----------------------:|:-----------------------:|
+| ***Hosting my Lab Section*** | ***Course Staff Introduction*** |
+
+&nbsp;
+&nbsp;
+
+**Advanced Micro Devices (AMD)**, May 2025 - Aug 2025  
 *Silicon Design Engineering Intern - Design Verification*
 ![AMD_logo](/images/amd-logo.png){: .align-right width="350px"} 
 -	Contributed to the verification flow of a USB xHCI sub-block device reset verification test, including designing test plans based on coverage plan and design specifications, writing UVM test sequences with constrained random sequence items, developing SystemVerilog Assertion (SVA) checkers, debugging testcase failures, performing functional and code coverage analysis, verifying waveform behavior against specification through Verdi, and deploying testcase to regression. 
@@ -54,18 +70,6 @@ Work Experiences 💼
 &nbsp;
 &nbsp;
 
-**University of Michigan CSE Department**, Aug 2024 - Present  
-*EECS 270: Logic Design Instructional Aide (Teaching Assistant)*
-![UM_CSE](/images/cse.png){: .align-right width="300px"}
-- Responsible in leading weekly lab sessions, guiding students on RTL design projects in the course, and grading students' designs.
-- Supporting the development of the course's Autograder, mainly responsible for structuring test cases using UVM frameworks to verify students' digital designs more systematically and provide students with automated and accurate feedback on buggy designs.
-- Wrote several bash scripts automating RTL design testing and grading for 200+ students. 
-
-*References: Karem Sakallah, Professor of CSE UMich, karem@umich.edu*
-
-&nbsp;
-&nbsp;
-
 **University of Michigan Solar Car Team**, Aug 2023 to Aug 2024  
 *Microsystems and Firmware Engineer* 
 ![SC](/images/sclogo.png){: .align-right width="350px"} 
@@ -93,7 +97,7 @@ Work Experiences 💼
 - Assisted in implementing infra-red, LiDAR sensors to drones by using Arduino and Embedded C programming.
 - Performed research & analysis into emerging drone and chip technologies to fit clients’ needs. 
 
-*References: Jamie Barker, Future Tech Research Analyst, jamie.barker@aerodyne.ai, +6011 56208630*
+*References: Jamie Barker, Future Tech Research Analyst, jamie.barker@aerodyne.ai*
   
 |  ![3D](/images/3dmodel.jpg){: width="300px"} |  ![Meeting](/images/meeting.jpeg){: width="300px"}|  ![Group](/images/group.jpg){: width="300px"}  |
 |:-----------------------:|:-----------------------:|:-----------------------:|
@@ -136,6 +140,23 @@ Leadership Experiences 🧑‍💼
 
 -----------------------------
 
+**Michigan Hackers**, Aug 2024 to Aug 2025  
+*President*  
+![TaylorsAOT](/images/aot.png){: .align-right width="250px"} 
+- Led a team of 20 in the development of a semester-based embedded systems project to be showcased to 200+ MHackers’ members.
+- Reviewed and provided feedback for 50+ embedded systems project designs, ensuring quality standards and optimal functionality.
+- Curated 15+ hack nights and 3 workshops tailored for MHackers’ members, fostering knowledge in embedded systems.
+- Built a LED roulette game (LED lights up in random order and eventually stopping at one spot) and a [Remote Controlled Car](/files/RemoteCar.pdf) using Arduino 
+
+*References: Anisha Aggarwal, MHackers President, anishaag@umich.edu*
+
+|  ![Mhackers](/images/mhackers.jpg){: width="300px"} |  ![Roul](/images/roulette.jpg){: width="300px"} |  ![Car](/images/mhackers2.jpg){: width="300px"}  |
+|:-----------------------:|:-----------------------:|:-----------------------:|
+| ***MHackers Demo Night*** | ***LED Roulette Game*** | ***Remote Controlled Car*** | 
+
+&nbsp;
+&nbsp;
+
 **Agents of Tech**, Oct 2022 to Oct 2023  
 *President*  
 ![TaylorsAOT](/images/aot.png){: .align-right width="250px"} 
@@ -144,7 +165,7 @@ Leadership Experiences 🧑‍💼
 - Secured sponsorships amounting to $25k from 7 different tech companies and partnerships with Intel, Google, and Samsung.
 - Certificates: [Agents of Tech](/files/AoT.pdf), Appointment: [IG Post](https://www.instagram.com/p/ClbPMMUpJHh/?img_index=2)
 
-*References: Gregory Sinnappan, Student Development, gregory.sinnappan@taylors.edu.my, +6016 2369600*
+*References: Gregory Sinnappan, Student Development, gregory.sinnappan@taylors.edu.my*
 
 |  ![hack](/images/hackathon.jpeg){: width="300px"} |  ![Myself](/images/presenting.jpg){: width="300px"}|  ![Poster](/images/poster.jpeg){: width="300px"}  |
 |:-----------------------:|:-----------------------:|:-----------------------:|
