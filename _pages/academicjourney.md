@@ -70,7 +70,7 @@ Relevant Course Projects 🖥️
 
 | ***Architecture and Result Poster*** |
 |:-----------------------:|
-|  ![570arch](/images/570poster.jpg){: width="800px"} |
+|  ![570arch](/images/570poster.jpg){: width="700px"} |
 
 &nbsp;
 &nbsp;

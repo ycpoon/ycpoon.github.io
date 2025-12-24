@@ -7,8 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-![Apple](/images/apple-logo.png){: .align-right width="200px"}
+![Apple](/images/blk_apple_logo.jpg){: .align-right width="250px"}
+
 &nbsp;
+
 I am a CPU Design Verification engineer at Apple, working in Santa Clara, CA.
 
 Prior to Apple, I graduated from the University of Michigan, Ann Arbor with a Bachelor's degree in Computer Engineering. I have achieved a 3.71 GPA over my entire tertiary education, completing technical courses such as Computer Architecture, Parallel Computer Architecture, MicroArchitecture, Operating Systems, Integrated Circuits, GPU Programming, Logic Design (Verilog) and many more.  
@@ -20,7 +22,9 @@ Overall, I would describe my skillsets and experiences to be in the following do
 - *RTL Design and Verification* 🖥️
 - *Verilog/SystemVerilog/VHDL* 🧑‍💻
 - *FPGA/ASIC Logic Design* 🧠  
+
 &nbsp;
+
 Feel free to connect or reach out!
 
 &nbsp;
