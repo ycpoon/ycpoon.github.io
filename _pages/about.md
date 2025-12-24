@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+  
 ![Apple](/images/apple-logo.png){: .align-right width="200px"}
 I am a CPU Design Verification engineer at Apple, working in Santa Clara, CA.
 
@@ -19,7 +19,7 @@ Overall, I would describe my skillsets and experiences to be in the following do
 - *RTL Design and Verification* 🖥️
 - *Verilog/SystemVerilog/VHDL* 🧑‍💻
 - *FPGA/ASIC Logic Design* 🧠  
-
+  
 Feel free to connect or reach out!  
 
 &nbsp;
