@@ -18,7 +18,7 @@ Overall, I would describe my skillsets and experiences to be in the following do
 - *Computer Architecture* 📲
 - *RTL Design and Verification* 🖥️
 - *Verilog/SystemVerilog/VHDL* 🧑‍💻
-- *FPGA/ASIC Logic Design* 🧠
+- *FPGA/ASIC Logic Design* 🧠  
 
 Feel free to connect or reach out!  
 
