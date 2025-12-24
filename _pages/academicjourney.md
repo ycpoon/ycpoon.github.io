@@ -47,14 +47,30 @@ Relevant Course Projects 🖥️
 * **EECS 470: Computer Architecture**
   * Designed a 32-bit MIPS R10K Style Out of Order Processor that supports the RV32I subset of RISC-V ISA.
   * Implemented various advanced features including N-way Superscalar Width, Early Tag Broadcasting, Early Branch Resolution, Tournament Branch Predictor, Load/Store Queue for Load-Store Forwarding, Non-Blocking Caches, Victim Caches, Banked Cache, Prefetcher Logic and others.
-  * Averaged a CPI of ~1.4 on general assembly programs, achieved a clock period of 7.8ns
-  -	Developed a comprehensive SystemVerilog Assertion (SVA) suite for verification of internal data structures and cache subsystems
-  - Final Project Repo: [470 GitHub Repo](https://github.com/ycpoon/MIPS_R10K_RISCV_Processor)
+  * Averaged a CPI of ~1.4 on general assembly programs, achieved a clock period of 7.8ns.
+  *	Developed a comprehensive SystemVerilog Assertion (SVA) suite for verification of internal data structures and cache subsystems.
+  * Final Project Repo: [470 GitHub Repo](https://github.com/ycpoon/MIPS_R10K_RISCV_Processor)
   * Final Project Report: [470 Project Report](/files/470finalreport.pdf)
 
 | ***Processor Architecture*** | ***Synthesized RTL Design*** | ***Processor Analysis*** |
 |:-----------------------:|:-----------------------:|:-----------------------:|
 |  ![arch](/images/470diagram.png){: width="400px"} |  ![syn](/images/470synthesis.png){: width="300px"}  |  ![ana](/images/470analysis.png){: width="400px"}  |
+
+&nbsp;
+&nbsp;
+
+* **EECS 570: Parallel Computer Architecture**
+  * Designed a low power ASIC accelerator for the Flash Attention kernel used in modern transformers.
+  * Implemented the baseline [FLASH-D](https://arxiv.org/abs/2505.14201) architecture in SystemVerilog.
+  * Redesigned the [Fused ExpMul](https://arxiv.org/abs/2505.14314) architecture for fixed point 8-pit operations.
+  * Integrated the FLASH-D and Fused ExpMul architecture for our final Flash Attention accelerator architecture.
+  -	Developed a comprehensive suite of testbenches and C++ models for verification and PPA benchmarking.
+  - Final Project Repo: [570 GitHub Repo](https://github.com/dwvshep/A.U.R.A.---FlashAttention-ASIC-Accelerator)
+  * Final Project Report: [570 Project Report](/files/570report.pdf)
+
+| ***Architecture and Result Poster*** |
+|:-----------------------:|
+|  ![570arch](/images/570poster.jpg){: width="800px"} |
 
 &nbsp;
 &nbsp;
