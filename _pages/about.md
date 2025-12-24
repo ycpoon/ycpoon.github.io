@@ -7,18 +7,20 @@ redirect_from:
   - /about.html
 ---
 
-![Michigan](/images/michigan.jpg){: .align-right width="200px"}
-I am an incoming final year Computer Engineering student at the University of Michigan-Ann Arbor. 
+![Apple](/images/apple-logo.png){: .align-right width="200px"}
+I am a CPU Design Verification engineer at Apple, working in Santa Clara, CA.
 
-I am focused and specialized in 
+Prior to Apple, I graduated from the University of Michigan, Ann Arbor with a Bachelor's degree in Computer Engineering. I have achieved a 3.71 GPA over my entire tertiary education, completing technical courses such as Computer Architecture, Parallel Computer Architecture, MicroArchitecture, Operating Systems, Integrated Circuits, GPU Programming, Logic Design (Verilog) and many more.  
+
+Throughout my college years, I have had several internship and working experiences from AMD, Efinix Inc, and UMich, working in domains such as RTL design/verification, post-silicon validation, firmware engineering and tech research. I also have had the opportunity to work on many cool projects over my college years, including designing a MIPS R10000K based RISC-V Processor, redesigning a Flash Attention Accelerator, architecting a hardware accelerator for k Nearest Neighbour Search, designing a SystemVerilog IP core library, and many more (check out the Personal Projects tab).  
+
+Overall, I would describe my skillsets and experiences to be in the following domain:
 - *Computer Architecture* 📲
-- *Digital System & Logic Design* 🧠
-- *VLSI & Chip Design* 🖥️
+- *RTL Design and Verification* 🖥️
 - *Verilog/SystemVerilog/VHDL* 🧑‍💻
+- *FPGA/ASIC Logic Design* 🧠
 
-I have several years of internship and working experience from the AMD, Efinix Inc, and the University of Michigan, working in RTL design verification, post-silicon validation, firmware engineering roles and tech research roles. Academically, I have achieved a 3.72 GPA over my entire tertiary education, completing high-level computer engineering courses including Computer Architecture, Integrated Circuits & VLSI, GPU Programming, Logic Design, Circuit Analysis, Data Structures and Algorithms, and many more.
-
-I am currently searching for co-op and full-time opportunities to further advance my engineering knowledge and gain more practical experience in the field.
+Feel free to connect or reach out!  
 
 &nbsp;
 &nbsp;
@@ -38,7 +40,7 @@ Growing up, I was always fascinated by computers and technology, curious about h
 Some More Facts About Me 🚀
 ======
 
-I am a Malaysian 🇲🇾 residing in the United States 🇺🇸 for university studies.
+I am a Malaysian 🇲🇾.
 
 I can speak 4 different languages:  
 ***English, Chinese, Malay, Cantonese***
