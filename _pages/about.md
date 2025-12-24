@@ -9,7 +9,7 @@ redirect_from:
 
 &nbsp;
 
-![Apple](/images/blk_apple_logo.jpg){: .align-right width="250px"}
+![Apple](/images/wht_apple_logo.jpg){: .align-right width="250px"}
 
 I am a CPU Design Verification engineer at Apple, working in Santa Clara, CA.
 
