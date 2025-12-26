@@ -7,10 +7,6 @@ redirect_from:
   - /academicjourney
 ---
 
-&nbsp;
-&nbsp;
-
-
 Education 🎓
 ======
 

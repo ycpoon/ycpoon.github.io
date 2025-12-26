@@ -7,16 +7,10 @@ redirect_from:
   - /experiences
 ---
 
-&nbsp;
-&nbsp;
-
 Work Experiences 💼
 ======
 
 ------------------------------- 
-
-&nbsp;
-&nbsp;
 
 **University of Michigan CSE Department**, Aug 2024 - Dec 2025  
 *EECS 270: Logic Design Instructional Aide (Teaching Assistant)*
