@@ -52,9 +52,9 @@ Click on any of the following project titles to be directed to its description:
 &nbsp;
 
 ### RISC-V 5 Stage Pipeline Processor
-- A project to build a simple 5-stage in-order pipelined processor that supports the RV32I subset of RISC-V ISA
-- This project incorporates structural, control, data hazard management as well as data forwarding capabilities for optimal in-order CPI
-- The processor is designed and built in SystemVerilog, synthesizable with Synopsis Design Compiler
+- Built a simple 5-stage in-order pipelined processor that supports the RV32I subset of RISC-V ISA
+- Incorporated structural, control, data hazard management as well as data forwarding capabilities for optimal in-order CPI
+- Designed and built the architecture in SystemVerilog, synthesized with Synopsis Design Compiler
 - Full documentation and code provided in GitHub: [https://github.com/ycpoon/RISCV_5_Stage_Pipelined_Processor](https://github.com/ycpoon/RISCV_5_Stage_Pipelined_Processor)
 
 | ![5-stage](/images/five_stage.png){: width="500px"} |
@@ -78,6 +78,21 @@ Click on any of the following project titles to be directed to its description:
 |:-----------------------:|:-----------------------:|
 | ***Final Completed Product*** | ***$80 computer "CPU"*** |
 
+
+&nbsp;
+&nbsp;
+
+### VSEE
+- A web application that helps connecting Venture Capital with potential startups through a revolutionary AI persona matching mechanism
+- The application builts an AI persona for each of the users (VC/startup) based on fed-in data, and have the AI persona converse and simulate interview/pitching session to identify match and generate a more detailed analysis report.
+- Benefits of the Application: Higher compatibility matching between VC and startup, More efficient match-making
+- *Front-End* - React.js, Tailwind CSS, DaisyUI ; *BackEnd* - PythonFlask; *AI Models* - Gemini 1.5 Flash ; *Database* - SQLite3
+- FrontEnd Repo: [VSEE FrontEnd](https://github.com/tzeyi/Imagine-Hack24)
+- BackEnd Repo: [VSEE BackEnd Repo](https://github.com/ycpoon/VSee_backend)
+
+|  ![VSEE Logo](/images/vsee_1.png){: width="350px"} |  ![R2](/images/vsee_2.png){: width="350px"}|  ![R3](/images/robochef3.png){: width="350px"}  |
+|:-----------------------:|:-----------------------:|:-----------------------:|
+| ***VSEE Logo*** | ***VSEE Matching Mechanism*** | ***VSEE Presentation in a Hackathon*** |  
 
 &nbsp;
 &nbsp;
