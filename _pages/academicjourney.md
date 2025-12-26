@@ -60,17 +60,33 @@ Relevant Course Projects 🖥️
 &nbsp;
 
 * **EECS 570: Parallel Computer Architecture**
-  * Designed a low power ASIC accelerator for the Flash Attention kernel used in modern transformers.
+  * Designed a low power ASIC accelerator for the Flash Attention kernel used in modern ML transformers.
   * Implemented the baseline [FLASH-D](https://arxiv.org/abs/2505.14201) architecture in SystemVerilog.
   * Redesigned the [Fused ExpMul](https://arxiv.org/abs/2505.14314) architecture for fixed point 8-pit operations.
   * Integrated the FLASH-D and Fused ExpMul architecture for our final Flash Attention accelerator architecture.
-  -	Developed a comprehensive suite of testbenches and C++ models for verification and PPA benchmarking.
-  - Final Project Repo: [570 GitHub Repo](https://github.com/dwvshep/A.U.R.A.---FlashAttention-ASIC-Accelerator)
+  *	Developed a comprehensive suite of testbenches and C++ models for verification and PPA benchmarking.
+  * Final Project Repo: [570 GitHub Repo](https://github.com/dwvshep/A.U.R.A.---FlashAttention-ASIC-Accelerator)
   * Final Project Report: [570 Project Report](/files/570report.pdf)
 
 | ***Architecture and Result Poster*** |
 |:-----------------------:|
 |  ![570arch](/images/570poster.jpg){: width="650px"} |
+
+&nbsp;
+&nbsp;
+
+* **EECS 573: MicroArchitecture**
+  * Architected a hardware accelerator for k Nearest Neighbour Search, a key primitive operation in 3D geometry-based algorithms used in autonomous driving, robotics, VR, and even ML/AI.
+  * Implemented the baseline bit-serial kNN search architecture from the [BitNN](https://ieeexplore.ieee.org/document/10609723) paper in SystemVerilog.
+  * Designed a previous kNN cache (taking advantage of query spatial locality) and a running mean threshold logic (taking advantage of sparsity consistency).
+  * Reduced termination warmup time for the BitNN architecture, increased overall speedup by ~10% for KITTI, SLAM datasets.
+  -	Wrote a cycle-accurate Python simulator modelling the architecture for performance and functional verification.
+  - Final Project Repo: [573 GitHub Repo](https://github.com/EECS-573-KNN-Accelerator/eecs573project)
+  * Final Project Report: [573 Project Report](/files/573report.pdf)
+
+| ***Architecture Diagram*** | ***SpeedUp vs Accuracy Frontier Analysis*** |
+|:-----------------------:|:-----------------------:|
+|  ![573arch](/images/SpecNN.png){: width="400px"} | ![573analysis](/images/573analysis.png){: width="400px"} |
 
 &nbsp;
 &nbsp;
