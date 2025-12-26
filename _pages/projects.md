@@ -7,7 +7,7 @@ redirect_from:
   - /projects
 ---
 <a id="top"></a>
-<a href="#top" class="back-to-top">Scroll To The Top ⬆️</a>
+<a href="#top" class="back-to-top">Top ⬆️</a>
 
 ## Table of Contents ⫶☰ 
 

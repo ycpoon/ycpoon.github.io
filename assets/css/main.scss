@@ -41,20 +41,24 @@
 @import "print";
 
 
-.back-to-top {
-  position: fixed;
-  bottom: 24px;
-  right: 24px;
-  background: #333;
-  color: white;
-  padding: 10px 14px;
-  border-radius: 50%;
-  text-decoration: none;
-  font-size: 18px;
-  box-shadow: 0 4px 10px rgba(0,0,0,0.3);
-  z-index: 1000;
+a.back-to-top {
+  position: fixed !important;
+  bottom: 28px;
+  right: 28px;
+  padding: 8px 14px;
+  background: rgba(255, 255, 255, 0.9);
+  color: #111 !important;
+  border-radius: 999px;
+  font-size: 14px;
+  font-weight: 500;
+  text-decoration: none !important;
+  box-shadow: 0 6px 20px rgba(0,0,0,0.15);
+  z-index: 9999;
+  backdrop-filter: blur(8px);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
-.back-to-top:hover {
-  background: #555;
+a.back-to-top:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 30px rgba(0,0,0,0.2);
 }
