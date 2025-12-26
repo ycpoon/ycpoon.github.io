@@ -10,8 +10,14 @@ redirect_from:
 &nbsp;
 &nbsp;
 
-Completed Projects ✅
-======
+## Table of Contents
+- [Recent Projects](#recent-projects-)
+- [Archived Projects](#archived-past-projects-️)
+
+&nbsp;
+&nbsp;
+
+## Recent Projects ✅
 
 ------------------------------- 
 
@@ -97,8 +103,7 @@ Completed Projects ✅
 &nbsp;
 
 
-Work in Progress Projects ⚠️
-======
+## Archived Past Projects ☑️
 
 ------------------------------- 
 
@@ -114,11 +119,6 @@ Work in Progress Projects ⚠️
 
 &nbsp;
 &nbsp;
-
-Archived Past Projects ☑️
-======
-
-------------------------------- 
 
 **Saunea 3000**
 - A device that collects outer sound energy and convert sound energy to usable electrical energy.
