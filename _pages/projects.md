@@ -7,7 +7,7 @@ redirect_from:
   - /projects
 ---
 
-## Table of Contents
+## ⫶☰ Table of Contents
 
 ------------------------------- 
 Click on any of the following project titles to be directed to its description:
