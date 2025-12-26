@@ -114,10 +114,15 @@ Click on any of the following project titles to be directed to its description:
 &nbsp;
 
 ### CUDA kernel for custom PyTorch operator (EECS471)
-* Rewrote and optimize CUDA kernel code for a custom PyTorch operator, implementing the convolution layer for the CNN
-* Reduced execution time of the convolution layer by ~500% through optimizing the code to take full advantage of the GPU architecture
+* Refactored CUDA kernel code for a custom PyTorch operator, optimizing the convolution layer for the CNN
+* Utilized many CUDA optimization techniques including shared memory convolution, weight matrix in constant memory, and loop unrolling to take full advantage of the V100 GPU architecture 
+* Reduced execution time of the convolution layer by ~500% (0.8s to 0.15s) for predicting 10000 images from the MNIST-Fashion dataset
+* Profiled the kernel code execution speed using NVIDIA NSight Profiler
 * Reports Published: [471 Report](/files/471report.pdf)
 
+| ***CUDA Kernel Architecture Diagram*** | ***NVIDIA NSight Profiler*** |
+|:-----------------------:|:-----------------------:|
+|  ![471_arch](/images/471_1.png){: width="400px"} | ![471_profiler](/images/471_2.png){: width="400px"} |
 
 &nbsp;
 &nbsp;
