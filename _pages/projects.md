@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Personal Projects"
+title: "Projects"
 permalink: /projects/
 author_profile: true
 redirect_from:
@@ -23,9 +23,6 @@ redirect_from:
   - [Socius](#socius)
   - [Autonomous Quadcopter](#autonomous-quadcopter)
   - [Saunea 3000](#saunea-3000)
-
-&nbsp;
-&nbsp;
 
 ## Recent Projects ✅
 

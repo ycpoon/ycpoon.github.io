@@ -12,19 +12,18 @@ redirect_from:
 ## Table of Contents
 
 ------------------------------- 
-
-- [College Projects](#college-projects-)
-  - [MIPS R10K Style Out-of-Order Processor (EECS 470)](#mips-r10k-style-out-of-order-processor-eecs-470)
-  - [Attention Unit for Resource-Constrained Architectures (EECS 570)](#attention-unit-for-resource-constrained-architectures-eecs-570)
-  - [SpecNN: Hardware Accelerator for kNN (EECS 573)](#specnn-hardware-accelerator-for-knn-eecs-573)
-  - [Four Function Calculator, Traffic Light Controller, UpDown Counter (EECS 270)](#four-function-calculator-traffic-light-controller-updown-counter-eecs-270)
-  - [Low-Power/High-Speed Dual-Mode (Add/Accumulate) Adder Transistor-level Circuit Design (EECS 312)](#low-powerhigh-speed-dual-mode-addaccumulate-adder-transistor-level-circuit-design-eecs-312)
-  - [LC2K ISA Assembler & Linker, 5-Stage Pipelined Processor Simulator, Cache Simulator (EECS 370)](#lc2k-isa-assembler--linker-5-stage-pipelined-processor-simulator-cache-simulator-eecs-370)
-  - [CUDA kernel for custom PyTorch operator (EECS471)](#cuda-kernel-for-custom-pytorch-operator-eecs471)
-  - [Simple SQL Database, Words Morphing Algorithm, Optimal Route Finding Algorithm (EECS 281)](#simple-sql-database-words-morphing-algorithm-optimal-route-finding-algorithm-eecs-281)
-  - [RLC Circuits, Op-Amp Circuits (EECS 215)](#rlc-circuits-op-amp-circuits-eecs-215)
-  - [Euchre Card Game, Post Classifier Program, Seam-Carving Algorithm (EECS 280)](#euchre-card-game-post-classifier-program-seam-carving-algorithm-eecs-280)
-  - [Custom Bash Shell, Pig-Latin Translation Program, Customized Python Library (EECS 201)](#custom-bash-shell-pig-latin-translation-program-customized-python-library-eecs-201)
+Click on any of the following project titles to be directed to its descriptions:
+- [MIPS R10K Style Out-of-Order Processor (EECS 470)](#mips-r10k-style-out-of-order-processor-eecs-470)
+- [Attention Unit for Resource-Constrained Architectures (EECS 570)](#attention-unit-for-resource-constrained-architectures-eecs-570)
+- [SpecNN: Hardware Accelerator for kNN (EECS 573)](#specnn-hardware-accelerator-for-knn-eecs-573)
+- [Four Function Calculator, Traffic Light Controller, UpDown Counter (EECS 270)](#four-function-calculator-traffic-light-controller-updown-counter-eecs-270)
+- [Low-Power/High-Speed Dual-Mode (Add/Accumulate) Adder Transistor-level Circuit Design (EECS 312)](#low-powerhigh-speed-dual-mode-addaccumulate-adder-transistor-level-circuit-design-eecs-312)
+- [LC2K ISA Assembler & Linker, 5-Stage Pipelined Processor Simulator, Cache Simulator (EECS 370)](#lc2k-isa-assembler--linker-5-stage-pipelined-processor-simulator-cache-simulator-eecs-370)
+- [CUDA kernel for custom PyTorch operator (EECS471)](#cuda-kernel-for-custom-pytorch-operator-eecs471)
+- [Simple SQL Database, Words Morphing Algorithm, Optimal Route Finding Algorithm (EECS 281)](#simple-sql-database-words-morphing-algorithm-optimal-route-finding-algorithm-eecs-281)
+- [RLC Circuits, Op-Amp Circuits (EECS 215)](#rlc-circuits-op-amp-circuits-eecs-215)
+- [Euchre Card Game, Post Classifier Program, Seam-Carving Algorithm (EECS 280)](#euchre-card-game-post-classifier-program-seam-carving-algorithm-eecs-280)
+- [Custom Bash Shell, Pig-Latin Translation Program, Customized Python Library (EECS 201)](#custom-bash-shell-pig-latin-translation-program-customized-python-library-eecs-201)
 
 ## College Projects ✅
 
