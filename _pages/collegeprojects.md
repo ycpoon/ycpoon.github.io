@@ -7,7 +7,7 @@ redirect_from:
   - /collegeprojects
 ---
 <a id="top"></a>
-<a href="#top" class="back-to-top">Scroll To The Top ⬆️</a>
+<a href="#top" class="back-to-top">Scroll to Top ⬆️</a>
 
 ## Table of Contents ⫶☰
 
@@ -84,6 +84,18 @@ Click on any of the following project titles to be directed to its description:
 | ***Altera FPGA*** | ***Traffic Light Controller FSM*** | ***Calculator Datapath*** |
 |:-----------------------:|:-----------------------:|:-----------------------:|
 |  ![FPGA](/images/FPGA.png){: width="350px"} |  ![FPGA](/images/FPGA2.png){: width="300px"} |  ![FPGA](/images/FPGA3.png){: width="350px"} |
+
+&nbsp;
+&nbsp;
+
+### Thread Library, Pager, Multi-Threaded Network File Server (EECS 482)
+* Built a preemptive user-level threading systen in C++ using ucontext, implementing FIFO scheduling, mutexes, condition variables, timer/IPI interrupts, and atomic interrupt control
+* Designed a MMU-backed virtual memory system in C++ implementing page table management, page faults handling, eager swap reservation, copy-on-write sharing, pinned zero page optimization, and clock-based replacement.
+* Implemented a multi-threaded network file server with hierachal file system, supporting concurrent client requests, block-level read/write, and directory/file management using TCP sockets and upgradable mutexes.
+
+| ***Thread Library Context Manager*** | ***Pager Structure*** | ***Hierachal File System*** |
+|:-----------------------:|:-----------------------:|:-----------------------:|
+|  ![p2](/images/482_1.png){: width="400px"} |  ![p3](/images/482_2.jpg){: width="400px"}  |  ![wave](/images/482_3.png){: width="400px"}  |
 
 &nbsp;
 &nbsp;
