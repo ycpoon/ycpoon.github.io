@@ -16,11 +16,12 @@ Click on any of the following project titles to be directed to its description:
   - [MIPS R10k Style Out-of-Order Processor](#mips-r10k-style-out-of-order-processor)
   - [RISC-V 5-Stage Pipeline Processor](#risc-v-5-stage-pipeline-processor)
   - [$80 Computer Initiative](#80-computer-initiative)
-  - [RoboChef](#robochef)
+  - [VSEE: VC/Startup Match-Making App](#vsee-vcstartup-match-making-app)
+  - [RoboChef: Recipe Identifying App](#robochef-recipe-identifying-app)
 - [College Projects](https://ycpoon.github.io/collegeprojects/)
   - Full List of College Projects: [https://ycpoon.github.io/collegeprojects/](https://ycpoon.github.io/collegeprojects/)
 - [Archived Projects](#archived-past-projects-️)
-  - [Socius](#socius)
+  - [Socius: Work Motivation App](#socius-work-motivation-app)
   - [Autonomous Quadcopter](#autonomous-quadcopter)
   - [Saunea 3000](#saunea-3000)
 
@@ -82,22 +83,23 @@ Click on any of the following project titles to be directed to its description:
 &nbsp;
 &nbsp;
 
-### VSEE
+### VSEE: VC/Startup Match-Making App
 - A web application that helps connecting Venture Capital with potential startups through a revolutionary AI persona matching mechanism
 - The application builts an AI persona for each of the users (VC/startup) based on fed-in data, and have the AI persona converse and simulate interview/pitching session to identify match and generate a more detailed analysis report.
 - Benefits of the Application: Higher compatibility matching between VC and startup, More efficient match-making
 - *Front-End* - React.js, Tailwind CSS, DaisyUI ; *BackEnd* - PythonFlask; *AI Models* - Gemini 1.5 Flash ; *Database* - SQLite3
+- Presentation: [VSEE Presentation](/files/VSEE.pdf)
 - FrontEnd Repo: [VSEE FrontEnd](https://github.com/tzeyi/Imagine-Hack24)
 - BackEnd Repo: [VSEE BackEnd Repo](https://github.com/ycpoon/VSee_backend)
 
-|  ![VSEE Logo](/images/vsee_1.png){: width="350px"} |  ![R2](/images/vsee_2.png){: width="350px"}|  ![R3](/images/robochef3.png){: width="350px"}  |
+|  ![VSEE Logo](/images/vsee_1.png){: width="350px"} |  ![VSEE mech](/images/vsee_2.png){: width="350px"}|  ![VSEE Pres](/images/vsee_3.jpeg){: width="350px"}  |
 |:-----------------------:|:-----------------------:|:-----------------------:|
 | ***VSEE Logo*** | ***VSEE Matching Mechanism*** | ***VSEE Presentation in a Hackathon*** |  
 
 &nbsp;
 &nbsp;
 
-### RoboChef
+### RoboChef: Recipe Identifying App
 - A web application that receives an image (as an URL) of any food, then identifies the food and its ingredient, and finally compile a list of recipes that shares the same ingredients as the food in the image given
 - Benefits of the Application: Identify any image and provide recipes instantly, provide multiple recipe options, help students decide meals easily, fast & easy
 - *Front-End* - HTML, Javascript, CSS ; *APIs* - [Clarifai](https://www.clarifai.com/), [Edamam](https://www.edamam.com/)
@@ -115,7 +117,7 @@ Click on any of the following project titles to be directed to its description:
 
 -------------------------------
 
-### Socius
+### Socius: Work Motivation App
 - A mobile application aimed to increase work & study motivation amidst the pandemic through tracking and gamifying the work & study process
 - Features of the Application: Work/Study Tracker & Timer, Leaderboard and Gamified Work/Study Tracker to motivate good competition among friends, Courses Listings to expand knowledge
 - *Tech Stack* - XML, Gradle
