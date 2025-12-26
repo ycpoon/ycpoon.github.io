@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 &nbsp;
-&nbsp;
 
 ## Table of Contents
 
