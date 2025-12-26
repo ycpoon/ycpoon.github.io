@@ -7,7 +7,7 @@ redirect_from:
   - /collegeprojects
 ---
 
-## ⫶☰ Table of Contents
+## Table of Contents ⫶☰
 
 ------------------------------- 
 Click on any of the following project titles to be directed to its description:
@@ -140,7 +140,7 @@ Click on any of the following project titles to be directed to its description:
   * Hands-on experience with powering Audio Transmitter with Rheostat
 
 | ***Circuits & Waveform Generator*** 👇 | 
-|  ![circuits](/images/cir1.jpg){: width="200px"} |  ![circuits](/images/cir2.jpg){: width="200px"}  |  ![circuits](/images/cir3.jpg){: width="200px"}  |
+|  ![circuits](/images/cir1.jpg){: width="250px"} |  ![circuits](/images/cir2.jpg){: width="250px"}  |  ![circuits](/images/cir3.jpg){: width="250px"}  |
 
 &nbsp;
 &nbsp;
