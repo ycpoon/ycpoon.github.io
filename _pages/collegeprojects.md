@@ -9,6 +9,13 @@ redirect_from:
 
 &nbsp;
 
+## Table of Contents
+
+------------------------------- 
+
+[College Projects](#college-projects-)
+  [MIPS R10K Style Out-of-Order Processor (EECS 470)](#mips-r10k-style-out-of-order-processor-eecs-470)
+
 ## College Projects ✅
 
 -------------------------------
@@ -94,7 +101,7 @@ redirect_from:
 
 | ***LC2K Asembler & Linker*** | ***5-Stage Pipelined Processor Architecture*** | ***Cache Simulator Program*** | 
 |:-----------------------:|:-----------------------:|:-----------------------:|
-|  ![asli](/images/370_2.png){: width="350px"} |  ![proc](/images/370_3.png){: width="400px"}   |  ![cache](/images/370_4.png){: width="350px"} |
+|  ![asli](/images/370_2.png){: width="350px"} |  ![proc](/images/370_3.png){: width="450px"}   |  ![cache](/images/370_4.png){: width="250px"} |
 
 &nbsp;
 &nbsp;
