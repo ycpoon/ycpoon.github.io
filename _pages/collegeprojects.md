@@ -7,12 +7,10 @@ redirect_from:
   - /collegeprojects
 ---
 
-&nbsp;
-
 ## Table of Contents
 
 ------------------------------- 
-Click on any of the following project titles to be directed to its descriptions:
+Click on any of the following project titles to be directed to its description:
 - [MIPS R10K Style Out-of-Order Processor (EECS 470)](#mips-r10k-style-out-of-order-processor-eecs-470)
 - [Attention Unit for Resource-Constrained Architectures (EECS 570)](#attention-unit-for-resource-constrained-architectures-eecs-570)
 - [SpecNN: Hardware Accelerator for kNN (EECS 573)](#specnn-hardware-accelerator-for-knn-eecs-573)
@@ -25,7 +23,7 @@ Click on any of the following project titles to be directed to its descriptions:
 - [Euchre Card Game, Post Classifier Program, Seam-Carving Algorithm (EECS 280)](#euchre-card-game-post-classifier-program-seam-carving-algorithm-eecs-280)
 - [Custom Bash Shell, Pig-Latin Translation Program, Customized Python Library (EECS 201)](#custom-bash-shell-pig-latin-translation-program-customized-python-library-eecs-201)
 
-## College Projects ✅
+## College Projects
 
 -------------------------------
 
@@ -142,7 +140,7 @@ Click on any of the following project titles to be directed to its descriptions:
   * Hands-on experience with powering Audio Transmitter with Rheostat
 
 | ***Circuits & Waveform Generator*** 👇 | 
-|  ![circuits](/images/cir1.jpg) |  ![circuits](/images/cir2.jpg)  |  ![circuits](/images/cir3.jpg)  |
+|  ![circuits](/images/cir1.jpg){: width="200px"} |  ![circuits](/images/cir2.jpg){: width="200px"}  |  ![circuits](/images/cir3.jpg){: width="200px"}  |
 
 &nbsp;
 &nbsp;

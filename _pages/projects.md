@@ -7,24 +7,24 @@ redirect_from:
   - /projects
 ---
 
-&nbsp;
-
 ## Table of Contents
 
 ------------------------------- 
-
-- [Recent Projects](#recent-projects-)
+Click on any of the following project titles to be directed to its description:
+- [Personal Projects](#personal-projects-)
   - [SystemVerilog IP Core Library](#systemverilog-ip-core-library)
   - [MIPS R10k Style Out-of-Order Processor](#mips-r10k-style-out-of-order-processor)
   - [RISC-V 5-Stage Pipeline Processor](#risc-v-5-stage-pipeline-processor)
   - [$80 Computer Initiative](#80-computer-initiative)
   - [RoboChef](#robochef)
+- [College Projects](https://ycpoon.github.io/collegeprojects/)
+  - Full List of College Projects: [https://ycpoon.github.io/collegeprojects/](https://ycpoon.github.io/collegeprojects/)
 - [Archived Projects](#archived-past-projects-️)
   - [Socius](#socius)
   - [Autonomous Quadcopter](#autonomous-quadcopter)
   - [Saunea 3000](#saunea-3000)
 
-## Recent Projects ✅
+## Personal Projects ✅
 
 ------------------------------- 
 
