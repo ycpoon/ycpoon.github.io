@@ -79,9 +79,9 @@ Click on any of the following project titles to be directed to its description:
 * Designed a Sensor-Integrated Traffic Light Controller using Sequential Design and the Finite States Machine concepts
 * Implemented an UpDown Counter using Sequential Design
 
-| ***Altera FPGA Programming*** 👇 |
-
-|  ![FPGA](/images/FPGA.png) |  ![FPGA](/images/FPGA2.png)  |  ![FPGA](/images/FPGA3.png)  |
+| | 👇 ***Altera FPGA Programming*** 👇 | |
+|:-----------------------:|:-----------------------:|:-----------------------:|
+|  ![FPGA](/images/FPGA.png){: width="350px"} |  ![FPGA](/images/FPGA2.png){: width="300px"} |  ![FPGA](/images/FPGA3.png){: width="350px"} |
 
 &nbsp;
 &nbsp;
