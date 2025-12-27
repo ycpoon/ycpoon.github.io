@@ -13,13 +13,15 @@ redirect_from:
 
 ------------------------------- 
 
+- [CSE](#cse)
 - [Efinix](#efinix)
 
 ## Work Experiences 💼
 
 ------------------------------- 
 
-### University of Michigan CSE Department, Aug 2024 - Dec 2025  
+## <span style="display:none;">CSE</span>
+**University of Michigan CSE Department**, *Aug 2024 - Dec 2025* 
 *EECS 270: Logic Design Instructional Aide (Teaching Assistant)*
 ![UM_CSE](/images/cse.png){: .align-right width="250px"}
 - Responsible in leading weekly lab sessions, guiding students on RTL design projects in the course, and grading students' designs.
