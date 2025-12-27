@@ -12,6 +12,7 @@ redirect_from:
 ## Table of Contents ⫶☰
 
 ------------------------------- 
+Click on any of the job titles to be directed to its description:
 - [Work Experiences](#work-experiences-)
   - [Aug 2024 - Dec 2025: Logic Design Teaching Assistant at UMich CSE Dept.](#cse)
   - [May 2025 - Aug 2025: Design Verification Intern at AMD](#amd)
@@ -53,7 +54,7 @@ redirect_from:
 
 ### <span style="display:none;">AMD</span>
 ***Advanced Micro Devices (AMD)***,  May 2025 - Aug 2025  
-*Silicon Design Engineering Intern - Design Verification*
+*Silicon Design Engineering Intern - Design Verification*  
 ![AMD_logo](/images/amd-logo.png){: .align-right width="350px"} 
 -	Contributed to the verification flow of a USB xHCI sub-block device reset verification test, including designing test plans based on coverage plan and design specifications, writing UVM test sequences with constrained random sequence items, developing SystemVerilog Assertion (SVA) checkers, debugging testcase failures, performing functional and code coverage analysis, verifying waveform behavior against specification through Verdi, and deploying testcase to regression. 
 -	Assisted in refining UVM monitors by extracting protocol-layer data transaction packets, enabling more detailed debug printing.
