@@ -91,6 +91,25 @@ redirect_from:
 - *Projects Completed:* [LC2K ISA Assembler & Linker, 5-Stage Pipelined Processor Simulator, Cache Simulator](/collegeprojects/#lc2k-isa-assembler--linker-5-stage-pipelined-processor-simulator-cache-simulator-eecs-370)
 - *Skills Acquired:* C, ARM Assembly, Assembler & Linker Implementation, Processor Analysis, Cache Design & Analysis, Data Structures
 
+&nbsp;
+&nbsp;
+
+**EECS 471: Parallel Programming with GPU**, Winter 2025
+- Introductory study of parallel computing and developing applications for massively parallel processors (e.g. GPUs), covering CUDA programming interface & techniques, GPU architecture, and various parallel algorithms on GPU. 
+- *Projects Completed:* [CUDA kernel for custom PyTorch operator](/collegeprojects/#cuda-kernel-for-custom-pytorch-operator-eecs471)
+- *Skills Acquired:* CUDA Programming, CUDA Kernel Design, Performance Profiling (NVIDIA NSight Profiler), Parallel Algorithm Analysis, Data Structures, C++
+
+&nbsp;
+&nbsp;
+
+**EECS 281: Data Structures & Algorithms**, Winter 2024
+- Introductory study of data structures and algorithms, covering topics such as STL, stacks, queues, priority queues, recursion, arrays, heaps, sorting algorithms, hashing, trees, graphs, dynamic programming, strings, and various algorithm family. 
+- *Projects Completed:* [Simple SQL Database, Words Morphing Algorithm, Optimal Route Finding Algorithm](/collegeprojects/#simple-sql-database-words-morphing-algorithm-optimal-route-finding-algorithm-eecs-281)
+- *Skills Acquired:* C++, Data Structures Application & Implementation, Algorithms, Standard Template Library, OOP, Performance Profiling (Perf), GDB Debugger, Software Testing (Unit, Regression, Stress)
+
+&nbsp;
+&nbsp;
+
 ## Honors & Awards 🏅
 
 ------------------------------- 
