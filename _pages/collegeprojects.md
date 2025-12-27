@@ -17,6 +17,7 @@ Click on any of the following project titles to be directed to its description:
 - [Attention Unit for Resource-Constrained Architectures (EECS 570)](#attention-unit-for-resource-constrained-architectures-eecs-570)
 - [SpecNN: Hardware Accelerator for kNN (EECS 573)](#specnn-hardware-accelerator-for-knn-eecs-573)
 - [Four Function Calculator, Traffic Light Controller, UpDown Counter (EECS 270)](#four-function-calculator-traffic-light-controller-updown-counter-eecs-270)
+- [Thread Library, Pager, Multi-Threaded Network File Server (EECS 482)](#thread-library-pager-multi-threaded-network-file-server-eecs-482)
 - [Low-Power/High-Speed Dual-Mode (Add/Accumulate) Adder Transistor-level Circuit Design (EECS 312)](#low-powerhigh-speed-dual-mode-addaccumulate-adder-transistor-level-circuit-design-eecs-312)
 - [LC2K ISA Assembler & Linker, 5-Stage Pipelined Processor Simulator, Cache Simulator (EECS 370)](#lc2k-isa-assembler--linker-5-stage-pipelined-processor-simulator-cache-simulator-eecs-370)
 - [CUDA kernel for custom PyTorch operator (EECS471)](#cuda-kernel-for-custom-pytorch-operator-eecs471)
