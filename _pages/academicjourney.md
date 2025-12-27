@@ -41,7 +41,7 @@ redirect_from:
 **EECS 470: Computer Architecture**, Fall 2025
 - Advanced study of computer architecture including out-of-order execution, memory systems, branch predictors, multiprocessors, and more, with a SystemVerilog-based processor design project using industry tools (Synopsys VCS and Design Compiler)
 - Projects Completed: [MIPS R10K Style Out-of-Order Processor](/collegeprojects/#mips-r10k-style-out-of-order-processor-eecs-470)
-- Skills Acquired: 
+- [Test](/experiences/#amd)
 
 &nbsp;
 &nbsp;
