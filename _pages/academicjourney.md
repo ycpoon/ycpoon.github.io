@@ -73,7 +73,7 @@ redirect_from:
 **EECS 482: Operating Systems**, Fall 2025
 - Introductory study of the deisgn and implementation of modern operating systems, covering topics such as processes & threads, concurrency & synchronization, CPU scheduling, virtual memory management, communication in distributed systems, secondary-storage management, and file systems.
 - *Projects Completed:* [Thread Library, Pager, Multi-Threaded Network File Server](/collegeprojects/#thread-library-pager-multi-threaded-network-file-server-eecs-482)
-- *Skills Acquired:* C++, Multithreaded Programming, CPU Scheduling Design, Thread Library Implementation, Virtual Memory Implementation, File Server Design, Socket Programming, TCP, Data Structures
+- *Skills Acquired:* C++, Multithreaded Programming, CPU Scheduling Design, Thread Library Implementation, Virtual Memory Implementation, File Server Design, Socket Programming, TCP, Data Structures, Multi-Threaded Testing
 
 &nbsp;
 &nbsp;
@@ -87,7 +87,9 @@ redirect_from:
 &nbsp;
 
 **EECS 370: Computer Organization**, Fall 2024
-- 
+- Introductory study of how computer execute programs through the study of ISA, Assembly language, assembler, linker, hardware building blocks, processor architecture, caches, virtual memory, and page tables.
+- *Projects Completed:* [LC2K ISA Assembler & Linker, 5-Stage Pipelined Processor Simulator, Cache Simulator](/collegeprojects/#lc2k-isa-assembler--linker-5-stage-pipelined-processor-simulator-cache-simulator-eecs-370)
+- *Skills Acquired:* C, ARM Assembly, Assembler & Linker Implementation, Processor Analysis, Cache Design & Analysis, Data Structures
 
 ## Honors & Awards 🏅
 
