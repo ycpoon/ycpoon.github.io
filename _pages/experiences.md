@@ -35,7 +35,7 @@ redirect_from:
 &nbsp;
 &nbsp;
 
-**Advanced Micro Devices (AMD)** 
+### Advanced Micro Devices (AMD)
 *Silicon Design Engineering Intern - Design Verification, May 2025 - Aug 2025*
 ![AMD_logo](/images/amd-logo.png){: .align-right width="350px"} 
 -	Contributed to the verification flow of a USB xHCI sub-block device reset verification test, including designing test plans based on coverage plan and design specifications, writing UVM test sequences with constrained random sequence items, developing SystemVerilog Assertion (SVA) checkers, debugging testcase failures, performing functional and code coverage analysis, verifying waveform behavior against specification through Verdi, and deploying testcase to regression. 
