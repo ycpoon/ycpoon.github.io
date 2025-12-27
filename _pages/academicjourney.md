@@ -40,19 +40,32 @@ redirect_from:
 
 **EECS 470: Computer Architecture**, Winter 2025
 - Advanced study of computer architecture including out-of-order execution, memory systems, branch predictors, multiprocessors, and more, with a SystemVerilog-based processor design project using industry tools (Synopsys VCS and Design Compiler)
-- Projects Completed: [MIPS R10K Style Out-of-Order Processor](/collegeprojects/#mips-r10k-style-out-of-order-processor-eecs-470)
-- Skills Acquired: CPU Design & Verification, SystemVerilog, SystemVerilog Assertions (SVA), Synopsys VCS and Design Compiler, Formal Verification, JasperGold
+- *Projects Completed:* [MIPS R10K Style Out-of-Order Processor](/collegeprojects/#mips-r10k-style-out-of-order-processor-eecs-470)
+- *Skills Acquired:* CPU Design & Verification, Advanced Cache Design, SystemVerilog, SystemVerilog Assertions (SVA), Synopsys VCS & Design Compiler, Formal Verification, JasperGold
 
 &nbsp;
 &nbsp;
 
 **EECS 570: Parallel Computer Architecture**, Fall 2025
-- Advanced study of multi-processing architectures, topics including parallel computing & memory models, memory consistency & coherency, parallel accelerator designs, and interconnect models & architecture
-- Projects Completed: [Attention Unit for Resource-Constrained Architectures](/collegeprojects/#attention-unit-for-resource-constrained-architectures-eecs-570)
-- Skills Acquired: Attention Accelerator Design & Verification, SystemVerilog, Directory-based Cache Coherence Design and Formal Verification (Murphi), Parallel Programming
+- Advanced study of multi-processing architectures, with topics including parallel computing & memory models, memory consistency & coherency, parallel accelerator designs, and interconnect models & architecture
+- *Projects Completed:* [Attention Unit for Resource-Constrained Architectures](/collegeprojects/#attention-unit-for-resource-constrained-architectures-eecs-570)
+- *Skills Acquired:* Attention Accelerator Design & Verification, SystemVerilog, Hardware Performance & Functional Modeling, Directory-based Cache Coherence Design & Formal Verification (Murphi), Memory Consistency, Parallel Programming
 
 &nbsp;
 &nbsp;
+
+**EECS 573: MicroArchitecture**, Fall 2025
+- Advanced study of efficient microprocessor design through computer architecture literatures, with topics including reliable system design, secure & correct system design, and application-specific architectures
+- *Projects Completed:* [SpecNN: Hardware Accelerator for kNN](/collegeprojects/#specnn-hardware-accelerator-for-knn-eecs-573)
+- *Skills Acquired:* kNN Accelerator Design & Verification, SystemVerilog, Hardware Performance & Functional Modeling, Computer Architecture Research, Hardware Security
+
+&nbsp;
+&nbsp;
+
+**EECS 270: Digital Logic Design**, Fall 2023
+- Introductory study of digital logic deisgn, covering topics in combinational & sequential digital circuits, Boolean algebra, FSM, RTL design, timing analysis, and logic/state optimization, supported by hands-on Verilog labs and projects
+- *Projects Completed:* [Four Function Calculator, Traffic Light Controller, UpDown Counter](/collegeprojects/#four-function-calculator-traffic-light-controller-updown-counter-eecs-270)
+- *Skills Acquired:* Verilog, Verilog Testbenching, FSM, Static Timing Analysis, Adder/Subtractor, Booth Multiplier, Quotient Divisor, Carry Lookahead Structure
 
 ## Honors & Awards 🏅
 
