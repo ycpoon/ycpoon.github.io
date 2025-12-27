@@ -12,16 +12,17 @@ redirect_from:
 ## Table of Contents ⫶☰
 
 ------------------------------- 
-
-- [CSE](#cse)
-- [Efinix](#efinix)
+- [Work Experiences](#work-experiences-)
+  - [Aug 2024 - Dec 2025: Logic Design Teaching Assistant at UMich CSE Dept.](#cse)
+  - [May 2025 - Aug 2025: Design Verification Intern at AMD](#amd)
+  - [May 2024 - Aug 2024: Post Silicon Validation and DFT Engineering Intern at Efinix](#efinix)
 
 ## Work Experiences 💼
 
 ------------------------------- 
 
-## <span style="display:none;">CSE</span>
-**University of Michigan CSE Department**, *Aug 2024 - Dec 2025* 
+### <span style="display:none;">CSE</span>
+**University of Michigan CSE Department**, Aug 2024 - Dec 2025   
 *EECS 270: Logic Design Instructional Aide (Teaching Assistant)*
 ![UM_CSE](/images/cse.png){: .align-right width="250px"}
 - Responsible in leading weekly lab sessions, guiding students on RTL design projects in the course, and grading students' designs.
@@ -36,9 +37,9 @@ redirect_from:
 | ***Hosting my Lab Section*** | ***Course Staff Introduction*** |
 
 &nbsp;
-&nbsp;
 
-### Advanced Micro Devices (AMD)
+### <span style="display:none;">AMD</span>
+***Advanced Micro Devices (AMD)***,  May 2025 - Aug 2025  
 *Silicon Design Engineering Intern - Design Verification, May 2025 - Aug 2025*
 ![AMD_logo](/images/amd-logo.png){: .align-right width="350px"} 
 -	Contributed to the verification flow of a USB xHCI sub-block device reset verification test, including designing test plans based on coverage plan and design specifications, writing UVM test sequences with constrained random sequence items, developing SystemVerilog Assertion (SVA) checkers, debugging testcase failures, performing functional and code coverage analysis, verifying waveform behavior against specification through Verdi, and deploying testcase to regression. 
@@ -53,9 +54,8 @@ redirect_from:
 | ***First Day at AMD*** | ***Last Day with Mentors*** | ***Sample Prototype of Debug Tool Software Algorithm (Discarded)*** | 
 
 &nbsp;
-&nbsp;
 
-## <span style="display:none;">Efinix</span>
+### <span style="display:none;">Efinix</span>
 **Efinix Inc.**, May 2024 - Aug 2024  
 *Post Silicon Validation & Design for Testability (DFT) Engineering Intern*  
 ![EF_logo](/images/efinix__logo.jpeg){: .align-right width="350px"} 
