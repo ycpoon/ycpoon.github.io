@@ -13,6 +13,7 @@ redirect_from:
 
 ------------------------------- 
 
+- [Efinix](#efinix)
 
 ## Work Experiences 💼
 
@@ -52,6 +53,7 @@ redirect_from:
 &nbsp;
 &nbsp;
 
+### <span style="visibility:hidden;">Efinix</span>
 **Efinix Inc.**, May 2024 - Aug 2024  
 *Post Silicon Validation & Design for Testability (DFT) Engineering Intern*  
 ![EF_logo](/images/efinix__logo.jpeg){: .align-right width="350px"} 
