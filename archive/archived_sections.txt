@@ -1,0 +1,9 @@
+### <span style="display:none;">Global Cert</span>
+**Global Cert**, Dec 2021 to Jan 2022  
+*Data Science Intern*  
+- Performed data analysis on customer attrition and retention rate, market shares, and auction statistics. 
+- Developed trend prediction and decision-making models with Python to make business decisions based on market trends. 
+- Analyzed and summarized huge datasets with Power BI visualization tools. 
+
+&nbsp;
+&nbsp;

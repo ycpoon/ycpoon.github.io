@@ -16,6 +16,19 @@ redirect_from:
   - [Aug 2024 - Dec 2025: Logic Design Teaching Assistant at UMich CSE Dept.](#cse)
   - [May 2025 - Aug 2025: Design Verification Intern at AMD](#amd)
   - [May 2024 - Aug 2024: Post Silicon Validation and DFT Engineering Intern at Efinix](#efinix)
+  - [Aug 2023 - Aug 2024: Microsystems and Firmware Engineer at UMich Solar Car Team](#solar-car)
+  - [Jan 2023 - Mar 2023: Tech Research Intern at Aerodyne Group](#aerodyne)
+  - [Jan 2022 - Dec 2022: Calculus 1 and Physics 1 Teaching Assistant at Taylor's University](#taylors-university)
+- [Leadership Experiences](#leadership-experiences-)
+  - [Aug 2024 - Aug 2025: Embedded Systems Team Lead at Michigan Hackers](#mhackers)
+  - [Oct 2022 - Oct 2023: President at Agents of Tech, Taylor's University](#aot)
+  - [Sep 2022 - Sep 2023: National Executive Director (Malaysia) at ICMS](#icms)
+  - [Oct 2022 - Oct 2022: Director of Finance and Sponsorship at YME](#yme)
+  - [Nov 2021 - Sep 2022: Campus Welfare Committee Member at TUSC](#tusc)
+- [Professional Activities & Conferences Leadership](#professional-activities--conferences-leadership-)
+  - [Oct 2022: Executive Coordinator of Malaysian Students’ Technology Week](#mstw)
+  - [Aug 2021: Project Manager at Be Your Own Boss Entrepreneurship Event](#byob)
+  - [Aug 2021: Committee Affairs Associate at Taylor's Lakeside MUN](#tlmun)
 
 ## Work Experiences 💼
 
@@ -40,7 +53,7 @@ redirect_from:
 
 ### <span style="display:none;">AMD</span>
 ***Advanced Micro Devices (AMD)***,  May 2025 - Aug 2025  
-*Silicon Design Engineering Intern - Design Verification, May 2025 - Aug 2025*
+*Silicon Design Engineering Intern - Design Verification*
 ![AMD_logo](/images/amd-logo.png){: .align-right width="350px"} 
 -	Contributed to the verification flow of a USB xHCI sub-block device reset verification test, including designing test plans based on coverage plan and design specifications, writing UVM test sequences with constrained random sequence items, developing SystemVerilog Assertion (SVA) checkers, debugging testcase failures, performing functional and code coverage analysis, verifying waveform behavior against specification through Verdi, and deploying testcase to regression. 
 -	Assisted in refining UVM monitors by extracting protocol-layer data transaction packets, enabling more detailed debug printing.
@@ -73,8 +86,8 @@ redirect_from:
 
 
 &nbsp;
-&nbsp;
 
+### <span style="display:none;">Solar Car</span>
 **University of Michigan Solar Car Team**, Aug 2023 to Aug 2024  
 *Microsystems and Firmware Engineer* 
 ![SC](/images/sclogo.png){: .align-right width="350px"} 
@@ -91,8 +104,8 @@ redirect_from:
 | ***Job Appointment*** | ***PCB Schematics*** | ***Firmware*** | ***STM32 Testing*** |
 
 &nbsp;
-&nbsp; 
-  
+
+### <span style="display:none;">Aerodyne</span>
 **Aerodyne Group**, Jan 2023 to Mar 2023  
 *Tech Research Intern*  
 ![Aero](/images/aerodyne.jpg){: .align-right width="320px"}  
@@ -109,8 +122,8 @@ redirect_from:
 | ***3D Modeling*** | ***Company Meeting*** | ***Company Photo*** | 
 
 &nbsp;
-&nbsp;
 
+### <span style="display:none;">Taylor's University</span>
 **Taylor's University**, Jan 2022 to Dec 2022  
 *Calculus 1 & Physics 1 Teaching Assistant*  
 ![Taylors](/images/taylors.png){: .align-right width="300px"} 
@@ -130,23 +143,13 @@ redirect_from:
 &nbsp;
 &nbsp;
 
-**Global Cert**, Dec 2021 to Jan 2022  
-*Data Science Intern*  
-- Performed data analysis on customer attrition and retention rate, market shares, and auction statistics. 
-- Developed trend prediction and decision-making models with Python to make business decisions based on market trends. 
-- Analyzed and summarized huge datasets with Power BI visualization tools. 
-
-&nbsp;
-&nbsp;
-
-
-Leadership Experiences 🧑‍💼
-======
+## Leadership Experiences 🧑‍💼
 
 -----------------------------
 
+### <span style="display:none;">MHackers</span>
 **Michigan Hackers**, Aug 2024 to Aug 2025  
-*President*  
+*Embedded Systems Team Lead*  
 ![MHackers](/images/mhackers.jpg){: .align-right width="250px"} 
 - Led a team of 20 in the development of a semester-based embedded systems project to be showcased to 200+ MHackers’ members.
 - Reviewed and provided feedback for 50+ embedded systems project designs, ensuring quality standards and optimal functionality.
@@ -160,8 +163,8 @@ Leadership Experiences 🧑‍💼
 | ***MHackers Demo Night*** | ***LED Roulette Game*** | ***Remote Controlled Car*** | 
 
 &nbsp;
-&nbsp;
 
+### <span style="display:none;">AOT</span>
 **Agents of Tech**, Oct 2022 to Oct 2023  
 *President*  
 ![TaylorsAOT](/images/aot.png){: .align-right width="250px"} 
@@ -177,8 +180,8 @@ Leadership Experiences 🧑‍💼
 | ***Hackathon Hosted*** | ***Emcee Experience*** | ***Events Organized*** | 
 
 &nbsp;
-&nbsp;
 
+### <span style="display:none;">ICMS</span>
 **International Council of Malaysian Scholars**, Sept 2022 to Sept 2023  
 *National Executive Director - Malaysia*  
 - Led a board of 15 directors and a chapter of approximately 60 associates to execute events, flagships, and workshops.
@@ -189,8 +192,8 @@ Leadership Experiences 🧑‍💼
 | ***ICMS Committee Lineup*** | ***ICMS Team Photo*** | ***Chapter Director Presentation*** | 
 
 &nbsp;
-&nbsp;
 
+### <span style="display:none;">YME</span>
 **Young Malaysian Engineers**, Oct 2021 to Oct 2022  
 *Executive Coordinator and Director of Finance and Sponsorship*  
 - Led in organizing the largest student-led technology conference in Malaysia - Malaysian Students' Technology Week 2022 (MSTW), involving 22 events, 32 professional speakers, 5 sponsors, and approximately $30K worth of budget.
@@ -202,8 +205,8 @@ Leadership Experiences 🧑‍💼
 | ***Finance & Sponsorship*** | ***Executive Coordinator*** | 
 
 &nbsp;
-&nbsp;
 
+### <span style="display:none;">TUSC</span>
 **Taylor's Unversity Student Council**, Nov 2021 to Sept 2022  
 *Committee Member of Campus Welfare Department*  
 - Compiled more than 100 feedback responses by students to be brought up to the school management. 
@@ -219,20 +222,20 @@ Leadership Experiences 🧑‍💼
 &nbsp;
 
 
-Professional Activities & Conferences Leadership 👔
-======
+## Professional Activities & Conferences Leadership 👔
 
 -----------------------------
 
+### <span style="display:none;">MSTW</span>
 **Malaysian Students' Technology Week**, Oct 2022  
 *Executive Coordinator*  
 - Lead role in organising the largest student-led technology conference in Malaysia.
 - Led an organising committee of 50 members to prepare and execute the event that involved 32 professional speakers and more than 500 participants from UK and MY. 
-- Secured $35k sponsorship fund from Bank Islam, Gamuda, KidoCode, TalentCorp, and EcoWorld.
+- Secured $35k sponsorship fund from Gamuda, KidoCode, TalentCorp, and EcoWorld.
 
 &nbsp;
-&nbsp;
 
+### <span style="display:none;">BYOB</span>
 **Taylor’s University Student Development Aug ’22 – Be Your Own Boss**, Aug 2021  
 *Project Manager*
 - Organised an event to equip undergraduates with fundamental knowledge of entrepreneurship.
@@ -240,8 +243,8 @@ Professional Activities & Conferences Leadership 👔
 - Received more than 130 registrations for the event.  
 
 &nbsp;
-&nbsp;
 
+### <span style="display:none;">TLMUN</span>
 **Taylor's Lakeside Model United Nations 2022 International**, Aug 2021  
 *Associate of Committee Affairs*
 - Part of the organising committee of one of the largest MUN conference in Malaysia.
