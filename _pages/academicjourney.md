@@ -57,15 +57,37 @@ redirect_from:
 **EECS 573: MicroArchitecture**, Fall 2025
 - Advanced study of efficient microprocessor design through computer architecture literatures, with topics including reliable system design, secure & correct system design, and application-specific architectures
 - *Projects Completed:* [SpecNN: Hardware Accelerator for kNN](/collegeprojects/#specnn-hardware-accelerator-for-knn-eecs-573)
-- *Skills Acquired:* kNN Accelerator Design & Verification, SystemVerilog, Hardware Performance & Functional Modeling, Computer Architecture Research, Hardware Security
+- *Skills Acquired:* kNN Accelerator Design & Verification, SystemVerilog, Hardware Performance & Functional Modeling, Computer Architecture Research, Hardware Security Design
 
 &nbsp;
 &nbsp;
 
 **EECS 270: Digital Logic Design**, Fall 2023
-- Introductory study of digital logic deisgn, covering topics in combinational & sequential digital circuits, Boolean algebra, FSM, RTL design, timing analysis, and logic/state optimization, supported by hands-on Verilog projects
+- Introductory study of digital logic design, covering topics in combinational & sequential digital circuits, Boolean algebra, FSM, RTL design, timing analysis, and logic/state optimization, supported by hands-on Verilog projects
 - *Projects Completed:* [Four Function Calculator, Traffic Light Controller, UpDown Counter](/collegeprojects/#four-function-calculator-traffic-light-controller-updown-counter-eecs-270)
 - *Skills Acquired:* Verilog, Verilog Testbenching, FSM, Static Timing Analysis, Adder/Subtractor, Booth Multiplier, Quotient Divisor, Carry Lookahead Structure
+
+&nbsp;
+&nbsp;
+
+**EECS 482: Operating Systems**, Fall 2025
+- Introductory study of the deisgn and implementation of modern operating systems, covering topics such as processes & threads, concurrency & synchronization, CPU scheduling, virtual memory management, communication in distributed systems, secondary-storage management, and file systems.
+- *Projects Completed:* [Thread Library, Pager, Multi-Threaded Network File Server](/collegeprojects/#thread-library-pager-multi-threaded-network-file-server-eecs-482)
+- *Skills Acquired:* C++, Multithreaded Programming, CPU Scheduling Design, Thread Library Implementation, Virtual Memory Implementation, File Server Design, Socket Programming, TCP, Data Structures
+
+&nbsp;
+&nbsp;
+
+**EECS 312: Digital Integrated Circuits**, Fall 2024
+- Introductory study of the analysis and design of transistor-level digital circuits in various logic families, including static CMOS, domino, pass-transistor logic, and more, supported by hands-on circuit designing assignments on SPICE simulators.
+- *Projects Completed:* [Low-Power/High-Speed Dual-Mode (Add/Accumulate) Adder Transistor-level Circuit Design](/collegeprojects/#low-powerhigh-speed-dual-mode-addaccumulate-adder-transistor-level-circuit-design-eecs-312)
+- *Skills Acquired:* Transistor Circuit Analysis & Design, Cadence Virtuoso, Static Timing Analysis, Place & Route, Functional & Power Verification, Energy-Delay Analysis
+
+&nbsp;
+&nbsp;
+
+**EECS 370: Computer Organization**, Fall 2024
+- 
 
 ## Honors & Awards 🏅
 
