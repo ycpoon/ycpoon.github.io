@@ -71,7 +71,7 @@ redirect_from:
 &nbsp;
 
 **EECS 482: Operating Systems**, Fall 2025
-- Introductory study of the deisgn and implementation of modern operating systems, covering topics such as processes & threads, concurrency & synchronization, CPU scheduling, virtual memory management, communication in distributed systems, secondary-storage management, and file systems.
+- Introductory study of the deisgn and implementation of modern operating systems, covering topics such as processes & threads, concurrency & synchronization, CPU scheduling, virtual memory management, communication in distributed systems, secondary-storage management, and file systems
 - *Projects Completed:* [Thread Library, Pager, Multi-Threaded Network File Server](/collegeprojects/#thread-library-pager-multi-threaded-network-file-server-eecs-482)
 - *Skills Acquired:* C++, Multithreaded Programming, CPU Scheduling Design, Thread Library Implementation, Virtual Memory Implementation, File Server Design, Socket Programming, TCP, Data Structures, Multi-Threaded Testing
 
@@ -79,7 +79,7 @@ redirect_from:
 &nbsp;
 
 **EECS 312: Digital Integrated Circuits**, Fall 2024
-- Introductory study of the analysis and design of transistor-level digital circuits in various logic families, including static CMOS, domino, pass-transistor logic, and more, supported by hands-on circuit designing assignments on SPICE simulators.
+- Introductory study of the analysis and design of transistor-level digital circuits in various logic families, including static CMOS, domino, pass-transistor logic, and more, supported by hands-on circuit designing assignments on SPICE simulators
 - *Projects Completed:* [Low-Power/High-Speed Dual-Mode (Add/Accumulate) Adder Transistor-level Circuit Design](/collegeprojects/#low-powerhigh-speed-dual-mode-addaccumulate-adder-transistor-level-circuit-design-eecs-312)
 - *Skills Acquired:* Transistor Circuit Analysis & Design, Cadence Virtuoso, Static Timing Analysis, Place & Route, Functional & Power Verification, Energy-Delay Analysis
 
@@ -87,7 +87,7 @@ redirect_from:
 &nbsp;
 
 **EECS 370: Computer Organization**, Fall 2024
-- Introductory study of how computer execute programs through the study of ISA, Assembly language, assembler, linker, hardware building blocks, processor architecture, caches, virtual memory, and page tables.
+- Introductory study of how computer execute programs through the study of ISA, Assembly language, assembler, linker, hardware building blocks, processor architecture, caches, virtual memory, and page tables
 - *Projects Completed:* [LC2K ISA Assembler & Linker, 5-Stage Pipelined Processor Simulator, Cache Simulator](/collegeprojects/#lc2k-isa-assembler--linker-5-stage-pipelined-processor-simulator-cache-simulator-eecs-370)
 - *Skills Acquired:* C, ARM Assembly, Assembler & Linker Implementation, Processor Analysis, Cache Design & Analysis, Data Structures
 
@@ -95,7 +95,7 @@ redirect_from:
 &nbsp;
 
 **EECS 471: Parallel Programming with GPU**, Winter 2025
-- Introductory study of parallel computing and developing applications for massively parallel processors (e.g. GPUs), covering CUDA programming interface & techniques, GPU architecture, and various parallel algorithms on GPU. 
+- Introductory study of parallel computing and developing applications for massively parallel processors (e.g. GPUs), covering CUDA programming interface & techniques, GPU architecture, and various parallel algorithms on GPU
 - *Projects Completed:* [CUDA kernel for custom PyTorch operator](/collegeprojects/#cuda-kernel-for-custom-pytorch-operator-eecs471)
 - *Skills Acquired:* CUDA Programming, CUDA Kernel Design, Performance Profiling (NVIDIA NSight Profiler), Parallel Algorithm Analysis, Data Structures, C++
 
@@ -103,12 +103,39 @@ redirect_from:
 &nbsp;
 
 **EECS 281: Data Structures & Algorithms**, Winter 2024
-- Introductory study of data structures and algorithms, covering topics such as STL, stacks, queues, priority queues, recursion, arrays, heaps, sorting algorithms, hashing, trees, graphs, dynamic programming, strings, and various algorithm family. 
+- Introductory study of data structures and algorithms, covering topics such as STL, stacks, queues, priority queues, recursion, arrays, heaps, sorting algorithms, hashing, trees, graphs, dynamic programming, strings, and various algorithm family
 - *Projects Completed:* [Simple SQL Database, Words Morphing Algorithm, Optimal Route Finding Algorithm](/collegeprojects/#simple-sql-database-words-morphing-algorithm-optimal-route-finding-algorithm-eecs-281)
-- *Skills Acquired:* C++, Data Structures Application & Implementation, Algorithms, Standard Template Library, OOP, Performance Profiling (Perf), GDB Debugger, Software Testing (Unit, Regression, Stress)
+- *Skills Acquired:* C++, Data Structures Application & Implementation, Algorithms, Standard Template Library, OOP, Performance Profiling (Perf), Software Debugging (GDB Debugger), Software Testing (Unit, Regression, Stress), Software System Design
 
 &nbsp;
 &nbsp;
+
+**EECS 215: Introduction to Electronic Circuits**, Winter 2024
+- Introductory study of electronic circuits, covering topics such as voltage/current analysis on circuits, OpAmp circuits, diodes, transistors, signal analysis, RLC ciruits, filters, and more
+- *Projects Completed:* [RLC Circuits, Op-Amp Circuits](/collegeprojects/#rlc-circuits-op-amp-circuits-eecs-215)
+- *Skills Acquired:* Circuit Breadboarding, Waveform Generator, Circuit Design, Circuit Analysis, Signal Analysis
+
+&nbsp;
+&nbsp;
+
+**EECS 280: Programming and Intro Data Structures**, Fall 2023
+- Introductory study of foundational programming, covering topics such as basic data structures (stacks, queues, linked lists, binary trees), object oriented programming (structs and classes), recursion, pointers, strings, operator overloading
+- *Projects Completed:* [Euchre Card Game, Post Classifier Program, Seam-Carving Algorithm](/collegeprojects/#euchre-card-game-post-classifier-program-seam-carving-algorithm-eecs-280)
+- *Skills Acquired:* C++, Data Structures, OOP, Software Testing (Unit, Regression, Stress), Software System Design, Software Debugging (GDB Debugger) 
+
+&nbsp;
+&nbsp;
+
+**EECS 201: Computer Science Pragmatics**, Fall 2023
+- Introductory study of many common computer science techniques and tools such as Git, UNIX, Shell, Regular Expression (Regex), Makefile, Python Library, Text Editors, Debuggers
+- *Projects Completed:* [Custom Bash Shell, Pig-Latin Translation Program, Customized Python Library](/collegeprojects/#custom-bash-shell-pig-latin-translation-program-customized-python-library-eecs-201)
+- *Skills Acquired:* Git, Linux/UNIX, Shell Programming, Regex, Makefile, Python, GDB Debugger, Valgrind
+
+&nbsp;
+&nbsp;
+
+**EECS 203: Discrete Math**, Fall 2023
+- 
 
 ## Honors & Awards 🏅
 
