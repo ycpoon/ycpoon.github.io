@@ -49,6 +49,10 @@ redirect_from:
       <td><a href="#eecs573">EECS 573: MicroArchitecture</a></td>
       <td><a href="#eecs270">EECS 270: Digital Logic Design</a></td>
     </tr>
+    <tr>
+      <td><a href="#eecs482">EECS 482: Operating Systems</a></td>
+      <td><a href="#eecs312">EECS 312: Digital Integrated Circuits</a></td>
+    </tr>
   </table>
 </div>
 
@@ -83,16 +87,16 @@ redirect_from:
 - *Skills Acquired:* Verilog, Verilog Testbenching, FSM, Static Timing Analysis, Adder/Subtractor, Booth Multiplier, Quotient Divisor, Carry Lookahead Structure
 
 &nbsp;
-&nbsp;
 
+### <span style="display:none;">eecs482</span>
 **EECS 482: Operating Systems**, Fall 2025
 - Introductory study of the deisgn and implementation of modern operating systems, covering topics such as processes & threads, concurrency & synchronization, CPU scheduling, virtual memory management, communication in distributed systems, secondary-storage management, and file systems
 - *Projects Completed:* [Thread Library, Pager, Multi-Threaded Network File Server](/collegeprojects/#thread-library-pager-multi-threaded-network-file-server-eecs-482)
 - *Skills Acquired:* C++, Multithreaded Programming, CPU Scheduling Design, Thread Library Implementation, Virtual Memory Implementation, File Server Design, Socket Programming, TCP, Data Structures, Multi-Threaded Testing
 
 &nbsp;
-&nbsp;
 
+### <span style="display:none;">eecs312</span>
 **EECS 312: Digital Integrated Circuits**, Fall 2024
 - Introductory study of the analysis and design of transistor-level digital circuits in various logic families, including static CMOS, domino, pass-transistor logic, and more, supported by hands-on circuit designing assignments on SPICE simulators
 - *Projects Completed:* [Low-Power/High-Speed Dual-Mode (Add/Accumulate) Adder Transistor-level Circuit Design](/collegeprojects/#low-powerhigh-speed-dual-mode-addaccumulate-adder-transistor-level-circuit-design-eecs-312)
