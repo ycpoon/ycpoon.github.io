@@ -20,20 +20,34 @@ redirect_from:
       <td>Protocols</td>
     </tr>
     <tr>
-      <td><a href="#c-and-c-programming">C, C++</a></td>
+      <td><a href="#verilogsystemverilog">Verilog/SystemVerilog</a></td>
       <td><a href="#universal-verification-methodology-uvm">UVM</a></td>
-      <td><a href="#synopsys-vcs">Synopsys VCS</a></td>
+      <td><a href="#synopsys-vcs--design-compiler">Synopsys VCS & Design Compiler</a></td>
       <td><a href="#axi4-streammemory-mappedlite">AXI4</a></td>
+    </tr>
+    <tr>
+      <td><a href="#c-and-c-programming">C, C++</a></td>
+      <td><a href="#systemverilog-assertions-sva">SystemVerilog Assertions (SVA)</a></td>
+      <td><a href="#verdi">Verdi</a></td>
+      <td><a href="#usb-2030-protocol">USB 2.0/3.0+</a></td>
     </tr>
   </table>
 </div>
 
 &nbsp;
 
+### Verilog/SystemVerilog
+
 ### C and C++ Programming
 
 ### Universal Verification Methodology (UVM)
 
-### Synopsys VCS
+### Synopsys VCS & Design Compiler
+
+### Verdi
+
+### SystemVerilog Assertions (SVA)
 
 ### AXI4 Stream/Memory-Mapped/Lite
+
+### USB 2.0/3.0+ Protocol
