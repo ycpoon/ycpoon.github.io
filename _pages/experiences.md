@@ -7,7 +7,7 @@ redirect_from:
   - /experiences
 ---
 <a id="top"></a>
-<a href="#top" class="back-to-top">Scroll to Top ⬆️</a>
+<a href="#top" class="back-to-top">Back to Top ⬆️</a>
 
 ## Table of Contents ⫶☰
 
