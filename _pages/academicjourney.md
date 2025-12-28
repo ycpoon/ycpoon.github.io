@@ -7,7 +7,7 @@ redirect_from:
   - /academicjourney
 ---
 <a id="top"></a>
-<a href="#relevant-courses-taken-️" class="back-to-top">Relevant Courses</a>
+<a href="#relevant-courses-taken-️" class="back-to-top">List of All Relevant Courses</a>
 
 ## Education 🎓
 
@@ -40,6 +40,8 @@ redirect_from:
 ## Relevant Courses Taken 🖥️
 
 -------------------------------
+
+Click on any of the course title to be directed to its description:
 
 <div class="toc-table">
   <table>
@@ -77,6 +79,8 @@ redirect_from:
     </tr>
   </table>
 </div>
+
+&nbsp;
 
 ### <span style="display:none;">eecs470</span>
 **EECS 470: Computer Architecture**, Winter 2025
