@@ -14,7 +14,7 @@ redirect_from:
 **University of Michigan - Ann Arbor**, Dec 2025  
 *Bachelor of Science in Engineering - Computer Engineering* 
 ![UM](/images/michigan.jpg){: .align-right width="300px"}  
-- ***CGPA: 3.61***, Dean's List, University Honors
+- ***CGPA: 3.61***, Dean's List (F23, F24, W25, F25), University Honors
 - ***Relevant Courses:*** Computer Architecture, Parallel Computer Architecture, MicroArchitecture, Operating Systems, Logic Design, Integrated Circuits, GPU Programming, Data Structures & Algorithm
 - ***Representation:*** Michigan Engineering Transfer Student Leader, Computer Engineering Ambassador
 - ***Clubs:*** University of Michigan Solar Car Team, IEEE UMich, Michigan Hackers, Tau Epsilon Kappa (Professional Technology Fraternity)
@@ -26,9 +26,10 @@ redirect_from:
      
 **Taylor's University**, May 2023  
 *American Degree Transfer Program*  
-- CGPA: 3.84, Dean's List, Best Engineering Student Honor
-- Relevant Courses: Calculus 3, Physics 1 & 2, C++ Programming
-- Involvement: Agents of Tech, Taylor's University Student Council, Student Union   
+- ***CGPA: 3.84***, Dean's List (Every Semester), Best Engineering Student Honoree - 2022
+- ***Relevant Courses:*** C++ Programming, Calculus 3, Physics 1 & 2
+- ***Involvement:*** Agents of Tech, Taylor's University Student Council, Student Union  
+- Attended with 50% merit-based tuition scholarship
 
 &nbsp;
 &nbsp;
@@ -36,16 +37,19 @@ redirect_from:
 
 ## Relevant Courses Taken 🖥️
 
-------------------------------- 
+-------------------------------
 
+| [EECS 470: Computer Architecture](#470) | [EECS 570: Parallel Computer Architecture](#570) |
+
+### <span style="display:none;">470</span>
 **EECS 470: Computer Architecture**, Winter 2025
 - Advanced study of computer architecture including out-of-order execution, memory systems, branch predictors, multiprocessors, and more, with a SystemVerilog-based processor design project using industry tools (Synopsys VCS and Design Compiler)
 - *Projects Completed:* [MIPS R10K Style Out-of-Order Processor](/collegeprojects/#mips-r10k-style-out-of-order-processor-eecs-470)
 - *Skills Acquired:* CPU Design & Verification, Advanced Cache Design, SystemVerilog, SystemVerilog Assertions (SVA), Synopsys VCS & Design Compiler, Formal Verification, JasperGold
 
 &nbsp;
-&nbsp;
 
+### <span style="display:none;">570</span>
 **EECS 570: Parallel Computer Architecture**, Fall 2025
 - Advanced study of multi-processing architectures, with topics including parallel computing & memory models, memory consistency & coherency, parallel accelerator designs, and interconnect models & architecture
 - *Projects Completed:* [Attention Unit for Resource-Constrained Architectures](/collegeprojects/#attention-unit-for-resource-constrained-architectures-eecs-570)
@@ -129,7 +133,7 @@ redirect_from:
 **EECS 201: Computer Science Pragmatics**, Fall 2023
 - Introductory study of many common computer science techniques and tools such as Git, UNIX, Shell, Regular Expression (Regex), Makefile, Python Library, Text Editors, Debuggers
 - *Projects Completed:* [Custom Bash Shell, Pig-Latin Translation Program, Customized Python Library](/collegeprojects/#custom-bash-shell-pig-latin-translation-program-customized-python-library-eecs-201)
-- *Skills Acquired:* Git, Linux/UNIX, Shell Programming, Regex, Makefile, Python, GDB Debugger, Valgrind
+- *Skills Acquired:* Git, Linux/UNIX, Shell Scripting (Bash), Regex, Makefile, Python, GDB Debugger, Valgrind
 
 &nbsp;
 &nbsp;
@@ -154,27 +158,3 @@ redirect_from:
 
 &nbsp;
 &nbsp;
-
-## Honors & Awards 🏅
-
-------------------------------- 
-
-**University Honors & Dean's List**, Dec 2023
-* Awarded by University of Michigan - Ann Arbor
-* For achieving 3.5 CGPA on an academic semester
-
-**Best Engineering Student Honoree - Class of 2022**, Dec 2022
-* Awarded by Taylor's University
-* For achieving the best CGPA on a minimum of 50 units of credit in the Engineering major category
-
-**Dean's List**, Every Semester
-* Awarded by Taylor's University
-* For achieving 3.5 CGPA on an academic semester
-
-**Taylor's Excellence Award**, Aug 2021
-* Awarded scholarships by Taylor's University
-* For achieving exceptional high school grades
-
-**Malaysian Student Technology Week 2021 Hackathon - Top 6**, Aug 2021
-* Awarded by Young Malaysian Engineers
-* For finishing the hackathon as a top 6 finalist among 30+ groups for the nationwide MSTW hackathon
