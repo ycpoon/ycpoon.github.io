@@ -31,6 +31,12 @@ redirect_from:
       <td><a href="#verdi">Verdi</a></td>
       <td><a href="#usb-2030-protocol">USB 2.0/3.0+</a></td>
     </tr>
+    <tr>
+      <td><a href="#python-programming-and-scripting">Python</a></td>
+      <td><a href="#systemverilog-assertions-sva">SystemVerilog Assertions (SVA)</a></td>
+      <td><a href="#verdi">Verdi</a></td>
+      <td><a href="#usb-2030-protocol">USB 2.0/3.0+</a></td>
+    </tr>
   </table>
 </div>
 
@@ -39,6 +45,8 @@ redirect_from:
 ### Verilog/SystemVerilog
 
 ### C and C++ Programming
+
+### Python (Programming and Scripting)
 
 ### Universal Verification Methodology (UVM)
 
