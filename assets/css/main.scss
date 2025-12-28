@@ -73,10 +73,7 @@ h2, h3, h4 {
   scroll-margin-top: 120px;
 }
 
-.toc-table {
-  font-size: 25spx;   /* increase table font size */
-}
-
 .toc-table a {
-  font-weight: 600;  /* optional: make links more readable */
+  font-size: 1.25rem; /* or 20px */
+  font-weight: 600;
 }
