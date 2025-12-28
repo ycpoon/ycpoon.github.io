@@ -114,23 +114,20 @@ h2, h3, h4 {
   }
 }
 
-@media (max-width: 480px) {
-  /* Convert table rows into 2-column grid */
-  .skill-table table,
-  .skill-table tbody,
-  .skill-table tr {
+@media (max-width: 768px) {
+  .page__content .skill-table table,
+  .page__content .skill-table tbody,
+  .page__content .skill-table tr {
     display: block;
     width: 100%;
   }
 
-  .skill-table tr {
+  .page__content .skill-table tr {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
   }
 
-  .skill-table td {
-    display: block;
-    width: 100%;
+  .page__content .skill-table td {
     padding: 16px 8px;
   }
 }
