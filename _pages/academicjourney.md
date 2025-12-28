@@ -39,7 +39,12 @@ redirect_from:
 
 -------------------------------
 
+<div class="toc-table">
+
 | [EECS 470: Computer Architecture](#470) | [EECS 570: Parallel Computer Architecture](#570) |
+| [EECS 573: MicroArchitecture](#573) | [EECS 270: Digital Logic Design](#270) |
+
+</div>
 
 ### <span style="display:none;">470</span>
 **EECS 470: Computer Architecture**, Winter 2025
@@ -56,16 +61,16 @@ redirect_from:
 - *Skills Acquired:* Attention Accelerator Design & Verification, SystemVerilog, Hardware Performance & Functional Modeling, Directory-based Cache Coherence Design & Formal Verification (Murphi), Memory Consistency, Parallel Programming
 
 &nbsp;
-&nbsp;
 
+### <span style="display:none;">573</span>
 **EECS 573: MicroArchitecture**, Fall 2025
 - Advanced study of efficient microprocessor design through computer architecture literatures, with topics including reliable system design, secure & correct system design, and application-specific architectures
 - *Projects Completed:* [SpecNN: Hardware Accelerator for kNN](/collegeprojects/#specnn-hardware-accelerator-for-knn-eecs-573)
 - *Skills Acquired:* kNN Accelerator Design & Verification, SystemVerilog, Hardware Performance & Functional Modeling, Computer Architecture Research, Hardware Security Design
 
 &nbsp;
-&nbsp;
 
+### <span style="display:none;">270</span>
 **EECS 270: Digital Logic Design**, Fall 2023
 - Introductory study of digital logic design, covering topics in combinational & sequential digital circuits, Boolean algebra, FSM, RTL design, timing analysis, and logic/state optimization, supported by hands-on Verilog projects
 - *Projects Completed:* [Four Function Calculator, Traffic Light Controller, UpDown Counter](/collegeprojects/#four-function-calculator-traffic-light-controller-updown-counter-eecs-270)
