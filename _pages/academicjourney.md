@@ -53,6 +53,14 @@ redirect_from:
       <td><a href="#eecs482">EECS 482: Operating Systems</a></td>
       <td><a href="#eecs312">EECS 312: Digital Integrated Circuits</a></td>
     </tr>
+    <tr>
+      <td><a href="#eecs370">EECS 370: Computer Organization</a></td>
+      <td><a href="#eecs471">EECS 471: Parallel Programming with GPU</a></td>
+    </tr>
+    <tr>
+      <td><a href="#eecs281">EECS 281: Data Structures and Algorithm</a></td>
+      <td><a href="#eecs215">EECS 215: Introduction to Electronic Circuits</a></td>
+    </tr>
   </table>
 </div>
 
@@ -103,32 +111,32 @@ redirect_from:
 - *Skills Acquired:* Transistor Circuit Analysis & Design, Cadence Virtuoso, Static Timing Analysis, Place & Route, Functional & Power Verification, Energy-Delay Analysis
 
 &nbsp;
-&nbsp;
 
+### <span style="display:none;">eecs370</span>
 **EECS 370: Computer Organization**, Fall 2024
 - Introductory study of how computer execute programs through the study of ISA, Assembly language, assembler, linker, hardware building blocks, processor architecture, caches, virtual memory, and page tables
 - *Projects Completed:* [LC2K ISA Assembler & Linker, 5-Stage Pipelined Processor Simulator, Cache Simulator](/collegeprojects/#lc2k-isa-assembler--linker-5-stage-pipelined-processor-simulator-cache-simulator-eecs-370)
 - *Skills Acquired:* C, ARM Assembly, Assembler & Linker Implementation, Processor Analysis, Cache Design & Analysis, Data Structures
 
 &nbsp;
-&nbsp;
 
+### <span style="display:none;">eecs471</span>
 **EECS 471: Parallel Programming with GPU**, Winter 2025
 - Introductory study of parallel computing and developing applications for massively parallel processors (e.g. GPUs), covering CUDA programming interface & techniques, GPU architecture, and various parallel algorithms on GPU
 - *Projects Completed:* [CUDA kernel for custom PyTorch operator](/collegeprojects/#cuda-kernel-for-custom-pytorch-operator-eecs471)
 - *Skills Acquired:* CUDA Programming, CUDA Kernel Design, Performance Profiling (NVIDIA NSight Profiler), Parallel Algorithm Analysis, Data Structures, C++
 
 &nbsp;
-&nbsp;
 
+### <span style="display:none;">eecs281</span>
 **EECS 281: Data Structures & Algorithms**, Winter 2024
 - Introductory study of data structures and algorithms, covering topics such as STL, stacks, queues, priority queues, recursion, arrays, heaps, sorting algorithms, hashing, trees, graphs, dynamic programming, strings, and various algorithm family
 - *Projects Completed:* [Simple SQL Database, Words Morphing Algorithm, Optimal Route Finding Algorithm](/collegeprojects/#simple-sql-database-words-morphing-algorithm-optimal-route-finding-algorithm-eecs-281)
 - *Skills Acquired:* C++, Data Structures Application & Implementation, Algorithms, Standard Template Library, OOP, Performance Profiling (Perf), Software Debugging (GDB Debugger), Software Testing (Unit, Regression, Stress), Software System Design
 
 &nbsp;
-&nbsp;
 
+### <span style="display:none;">eecs215</span>
 **EECS 215: Introduction to Electronic Circuits**, Winter 2024
 - Introductory study of electronic circuits, covering topics such as voltage/current analysis on circuits, OpAmp circuits, diodes, transistors, signal analysis, RLC ciruits, filters, and more
 - *Projects Completed:* [RLC Circuits, Op-Amp Circuits](/collegeprojects/#rlc-circuits-op-amp-circuits-eecs-215)
