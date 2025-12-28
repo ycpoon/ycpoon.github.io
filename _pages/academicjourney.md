@@ -43,6 +43,7 @@ redirect_from:
 
 | [EECS 470: Computer Architecture](#470) | [EECS 570: Parallel Computer Architecture](#570) |
 | [EECS 573: MicroArchitecture](#573) | [EECS 270: Digital Logic Design](#270) |
+|:--|:--|
 
 </div>
 
