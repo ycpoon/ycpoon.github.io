@@ -6,6 +6,8 @@ author_profile: true
 redirect_from:
   - /academicjourney
 ---
+<a id="top"></a>
+<a href="#relevant-courses-taken-️" class="back-to-top">Relevant Courses</a>
 
 ## Education 🎓
 
