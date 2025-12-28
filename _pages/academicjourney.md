@@ -113,7 +113,7 @@ redirect_from:
 **EECS 215: Introduction to Electronic Circuits**, Winter 2024
 - Introductory study of electronic circuits, covering topics such as voltage/current analysis on circuits, OpAmp circuits, diodes, transistors, signal analysis, RLC ciruits, filters, and more
 - *Projects Completed:* [RLC Circuits, Op-Amp Circuits](/collegeprojects/#rlc-circuits-op-amp-circuits-eecs-215)
-- *Skills Acquired:* Circuit Breadboarding, Waveform Generator, Circuit Design, Circuit Analysis, Signal Analysis
+- *Skills Acquired:* MATLAB, Circuit Breadboarding, Waveform Generator, Circuit Design, Circuit Analysis, Signal Analysis
 
 &nbsp;
 &nbsp;
@@ -134,8 +134,26 @@ redirect_from:
 &nbsp;
 &nbsp;
 
-**EECS 203: Discrete Math**, Fall 2023
-- 
+**EECS 203: Discrete Mathematics**, Fall 2023
+- Introductory study of discrete mathematics, focusing on logic operations (Boolean algebra), modular arithmetic & number theory, set theory, functions & relations on sets, graphs, counting, and discrete probability theory
+- *Skills Acquired:* Mathematical Proofs, Logic Proofs, Probability Analysis, Counting, Set Analysis, Graph Analysis
+
+&nbsp;
+&nbsp;
+
+**EECS 320: Semiconductor Devices**, Fall 2024
+- Introductory study of semiconductor devices, covering topics including electron energy bands, electron equilibrium, electron drift & diffusion currents, generation & recombination, diodes, light detectors, emitters, solar cells, and transistors.
+- *Skills Acquired:* MATLAB, Energy-band analysis, Electron Equilibrium Analysis, Quantum Analysis 
+
+&nbsp;
+&nbsp;
+
+**EECS 216: Signals and Systems**, Fall 2024
+- Introductory study of the theory and practice of signals and systems engineering, with topics including signals & systems analysis, convolution, Fourier Series, Fourier Transform, filters, modulation, sampling, Laplace Transform, and control systems.
+- *Skills Acquired:* MATLAB, Signals Analysis, Control System Design, Waveform Generator, Filters Circuit Design, OpAmp Ciruits Design
+
+&nbsp;
+&nbsp;
 
 ## Honors & Awards 🏅
 
