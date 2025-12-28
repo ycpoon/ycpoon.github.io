@@ -61,6 +61,18 @@ redirect_from:
       <td><a href="#eecs281">EECS 281: Data Structures and Algorithm</a></td>
       <td><a href="#eecs215">EECS 215: Introduction to Electronic Circuits</a></td>
     </tr>
+    <tr>
+      <td><a href="#eecs280">EECS 280: Programming and Intro Data Structures</a></td>
+      <td><a href="#eecs201">EECS 201: Computer Science Pragmatics</a></td>
+    </tr>
+    <tr>
+      <td><a href="#eecs203">EECS 203: Discrete Mathematics</a></td>
+      <td><a href="#eecs320">EECS 320: Semiconductor Devices</a></td>
+    </tr>
+    <tr>
+      <td><a href="#eecs216">EECS 216: Signals and Systems</a></td>
+      <td><a href="#rob204">ROB 204: Intro to Human-Robot Systems</a></td>
+    </tr>
   </table>
 </div>
 
@@ -100,7 +112,7 @@ redirect_from:
 **EECS 482: Operating Systems**, Fall 2025
 - Introductory study of the deisgn and implementation of modern operating systems, covering topics such as processes & threads, concurrency & synchronization, CPU scheduling, virtual memory management, communication in distributed systems, secondary-storage management, and file systems
 - *Projects Completed:* [Thread Library, Pager, Multi-Threaded Network File Server](/collegeprojects/#thread-library-pager-multi-threaded-network-file-server-eecs-482)
-- *Skills Acquired:* C++, Multithreaded Programming, CPU Scheduling Design, Thread Library Implementation, Virtual Memory Implementation, File Server Design, Socket Programming, TCP, Data Structures, Multi-Threaded Testing
+- *Skills Acquired:* C++, Multi-Threaded Programming, CPU Scheduling Design, Thread Library Implementation, Virtual Memory Implementation, File Server Design, Socket Programming, TCP, Data Structures, Multi-Threaded Testing
 
 &nbsp;
 
@@ -143,41 +155,45 @@ redirect_from:
 - *Skills Acquired:* MATLAB, Circuit Breadboarding, Waveform Generator, Circuit Design, Circuit Analysis, Signal Analysis
 
 &nbsp;
-&nbsp;
 
+### <span style="display:none;">eecs280</span>
 **EECS 280: Programming and Intro Data Structures**, Fall 2023
 - Introductory study of foundational programming, covering topics such as basic data structures (stacks, queues, linked lists, binary trees), object oriented programming (structs and classes), recursion, pointers, strings, operator overloading
 - *Projects Completed:* [Euchre Card Game, Post Classifier Program, Seam-Carving Algorithm](/collegeprojects/#euchre-card-game-post-classifier-program-seam-carving-algorithm-eecs-280)
 - *Skills Acquired:* C++, Data Structures, OOP, Software Testing (Unit, Regression, Stress), Software System Design, Software Debugging (GDB Debugger) 
 
 &nbsp;
-&nbsp;
 
+### <span style="display:none;">eecs201</span>
 **EECS 201: Computer Science Pragmatics**, Fall 2023
 - Introductory study of many common computer science techniques and tools such as Git, UNIX, Shell, Regular Expression (Regex), Makefile, Python Library, Text Editors, Debuggers
 - *Projects Completed:* [Custom Bash Shell, Pig-Latin Translation Program, Customized Python Library](/collegeprojects/#custom-bash-shell-pig-latin-translation-program-customized-python-library-eecs-201)
 - *Skills Acquired:* Git, Linux/UNIX, Shell Scripting (Bash), Regex, Makefile, Python, GDB Debugger, Valgrind
 
 &nbsp;
-&nbsp;
 
+### <span style="display:none;">eecs203</span>
 **EECS 203: Discrete Mathematics**, Fall 2023
 - Introductory study of discrete mathematics, focusing on logic operations (Boolean algebra), modular arithmetic & number theory, set theory, functions & relations on sets, graphs, counting, and discrete probability theory
 - *Skills Acquired:* Mathematical Proofs, Logic Proofs, Probability Analysis, Counting, Set Analysis, Graph Analysis
 
 &nbsp;
-&nbsp;
 
+### <span style="display:none;">eecs320</span>
 **EECS 320: Semiconductor Devices**, Fall 2024
 - Introductory study of semiconductor devices, covering topics including electron energy bands, electron equilibrium, electron drift & diffusion currents, generation & recombination, diodes, light detectors, emitters, solar cells, and transistors.
 - *Skills Acquired:* MATLAB, Energy-band analysis, Electron Equilibrium Analysis, Quantum Analysis 
 
 &nbsp;
-&nbsp;
 
+### <span style="display:none;">eecs216</span>
 **EECS 216: Signals and Systems**, Fall 2024
 - Introductory study of the theory and practice of signals and systems engineering, with topics including signals & systems analysis, convolution, Fourier Series, Fourier Transform, filters, modulation, sampling, Laplace Transform, and control systems.
 - *Skills Acquired:* MATLAB, Signals Analysis, Control System Design, Waveform Generator, Filters Circuit Design, OpAmp Ciruits Design
 
 &nbsp;
-&nbsp;
+
+### <span style="display:none;">rob204</span>
+**ROB 204: Intro to Human-Robot Systems**, Winter 2025
+- Introductory study of human-robot systems, covering topics in domains such as robotic system design, cognitive/physical ergonomics, human-centered design, and application-based robotic design.
+- *Skill Acquired:* Robotic Design, Human-Centered Design, Python, Embedded Robotic Systems, UI/UX
