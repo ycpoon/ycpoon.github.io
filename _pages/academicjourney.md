@@ -40,15 +40,19 @@ redirect_from:
 -------------------------------
 
 <div class="toc-table">
-
-| [EECS 470: Computer Architecture](#470) | [EECS 570: Parallel Computer Architecture](#570) |
-|:--|:--|
-| [EECS 573: MicroArchitecture](#573) | [EECS 270: Digital Logic Design](#270) |
-|:--|:--|
-
+  <table>
+    <tr>
+      <td><a href="#eecs470">EECS 470: Computer Architecture</a></td>
+      <td><a href="#eecs570">EECS 570: Parallel Computer Architecture</a></td>
+    </tr>
+    <tr>
+      <td><a href="#eecs573">EECS 573: MicroArchitecture</a></td>
+      <td><a href="#eecs270">EECS 270: Digital Logic Design</a></td>
+    </tr>
+  </table>
 </div>
 
-### <span style="display:none;">470</span>
+### <span style="display:none;">eecs470</span>
 **EECS 470: Computer Architecture**, Winter 2025
 - Advanced study of computer architecture including out-of-order execution, memory systems, branch predictors, multiprocessors, and more, with a SystemVerilog-based processor design project using industry tools (Synopsys VCS and Design Compiler)
 - *Projects Completed:* [MIPS R10K Style Out-of-Order Processor](/collegeprojects/#mips-r10k-style-out-of-order-processor-eecs-470)
@@ -56,7 +60,7 @@ redirect_from:
 
 &nbsp;
 
-### <span style="display:none;">570</span>
+### <span style="display:none;">eecs570</span>
 **EECS 570: Parallel Computer Architecture**, Fall 2025
 - Advanced study of multi-processing architectures, with topics including parallel computing & memory models, memory consistency & coherency, parallel accelerator designs, and interconnect models & architecture
 - *Projects Completed:* [Attention Unit for Resource-Constrained Architectures](/collegeprojects/#attention-unit-for-resource-constrained-architectures-eecs-570)
@@ -64,7 +68,7 @@ redirect_from:
 
 &nbsp;
 
-### <span style="display:none;">573</span>
+### <span style="display:none;">eecs573</span>
 **EECS 573: MicroArchitecture**, Fall 2025
 - Advanced study of efficient microprocessor design through computer architecture literatures, with topics including reliable system design, secure & correct system design, and application-specific architectures
 - *Projects Completed:* [SpecNN: Hardware Accelerator for kNN](/collegeprojects/#specnn-hardware-accelerator-for-knn-eecs-573)
@@ -72,7 +76,7 @@ redirect_from:
 
 &nbsp;
 
-### <span style="display:none;">270</span>
+### <span style="display:none;">eecs270</span>
 **EECS 270: Digital Logic Design**, Fall 2023
 - Introductory study of digital logic design, covering topics in combinational & sequential digital circuits, Boolean algebra, FSM, RTL design, timing analysis, and logic/state optimization, supported by hands-on Verilog projects
 - *Projects Completed:* [Four Function Calculator, Traffic Light Controller, UpDown Counter](/collegeprojects/#four-function-calculator-traffic-light-controller-updown-counter-eecs-270)
