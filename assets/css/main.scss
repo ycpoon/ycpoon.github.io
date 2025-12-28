@@ -81,7 +81,7 @@ h2, h3, h4 {
 .skill-table table {
   width: 100%;
   border-collapse: collapse;
-  table-layout: fixed; /* equal column widths */
+  table-layout: fixed;
 }
 
 .skill-table td {
@@ -90,8 +90,8 @@ h2, h3, h4 {
   vertical-align: middle;
 }
 
-
-.skill-table td, .skill-table a {
+.skill-table td,
+.skill-table a {
   font-size: 17px;
   font-weight: 700;
   line-height: 1.35;
@@ -100,4 +100,37 @@ h2, h3, h4 {
 .skill-table a {
   display: inline-block;
   text-decoration: none;
+}
+
+/* ===== Mobile responsiveness ===== */
+@media (max-width: 768px) {
+  .skill-table td,
+  .skill-table a {
+    font-size: 15px;
+  }
+
+  .skill-table td {
+    padding: 14px 8px;
+  }
+}
+
+@media (max-width: 480px) {
+  /* Convert table rows into 2-column grid */
+  .skill-table table,
+  .skill-table tbody,
+  .skill-table tr {
+    display: block;
+    width: 100%;
+  }
+
+  .skill-table tr {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .skill-table td {
+    display: block;
+    width: 100%;
+    padding: 16px 8px;
+  }
 }
