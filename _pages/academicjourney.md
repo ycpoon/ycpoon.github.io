@@ -7,7 +7,7 @@ redirect_from:
   - /academicjourney
 ---
 <a id="top"></a>
-<a href="#relevant-courses-taken-️" class="back-to-top">List of All Relevant Courses</a>
+<a href="#relevant-courses-taken-️" class="back-to-top">📋 List of All Relevant Courses</a>
 
 ## Education 🎓
 
