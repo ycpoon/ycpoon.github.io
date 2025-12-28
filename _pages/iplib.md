@@ -6,16 +6,27 @@ author_profile: true
 redirect_from:
   - /iplib
 ---
+<a id="top"></a>
+<a href="#top" class="back-to-top">Back to Top ⬆️</a>
 
-&nbsp;
+## Table of Contents ⫶☰
 
-**Simple UVM Framework on ALU**
+------------------------------- 
+Click on any of the job titles to be directed to its description:
+- [Simple UVM Framework on ALU](#simple-uvm-framework-on-alu)
+- [RISC-V 5 Stage Pipelined Processor](#risc-v-5-stage-pipelined-processor)
+
+## IP Cores
+
+------------------------------- 
+
+### Simple UVM Framework on ALU
 - An attempt to learn UVM frameworks
 - View Design on EDA Playground: [https://www.edaplayground.com/x/JY_y](https://www.edaplayground.com/x/JY_y)
 
 &nbsp;
 
-**RISC-V 5 Stage Pipelined Processor**
+### RISC-V 5 Stage Pipelined Processor
 - An in-order 5 stage pipeline that supports a RV32I subset of RISC-V instructions
 - Supports hazard management and data forwarding for optimal CPI
 - Visual debugger written in C for CPU debugging and verification
