@@ -92,9 +92,12 @@ h2, h3, h4 {
 
 
 .skill-table td, .skill-table a {
-  display: inline-block;
   font-size: 17px;
   font-weight: 700;
-  text-decoration: none;
   line-height: 1.35;
+}
+
+.skill-table a {
+  display: inline-block;
+  text-decoration: none;
 }

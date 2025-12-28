@@ -33,9 +33,9 @@ redirect_from:
     </tr>
     <tr>
       <td><a href="#python-programming-and-scripting">Python</a></td>
-      <td><a href="#systemverilog-assertions-sva">SystemVerilog Assertions (SVA)</a></td>
-      <td><a href="#verdi">Verdi</a></td>
-      <td><a href="#usb-2030-protocol">USB 2.0/3.0+</a></td>
+      <td><a href="#cuda">CUDA</a></td>
+      <td><a href="#vivado-xilinx-fpga">Vivado</a></td>
+      <td><a href="#spi-uart-i2c-communication-protocols">SPI, UART, I2C</a></td>
     </tr>
   </table>
 </div>
@@ -59,3 +59,9 @@ redirect_from:
 ### AXI4 Stream/Memory-Mapped/Lite
 
 ### USB 2.0/3.0+ Protocol
+
+### Vivado (Xilinx FPGA)
+
+### SPI, UART, I2C Communication Protocols
+
+### CUDA
