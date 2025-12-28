@@ -24,9 +24,7 @@ Click on any of the job titles to be directed to its description:
 - [Arithmetic Four Function Calculator](#arithmetic-four-function-calculator)
 - [Reduced Latency Memory BIST Design](#reduced-latency-memory-bist-design)
 
-&nbsp;
-
-## IP Cores
+## IP Cores 📂
 
 ------------------------------- 
 

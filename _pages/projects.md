@@ -22,7 +22,7 @@ Click on any of the following project titles to be directed to its description:
   - [RoboChef: Recipe Identifying App](#robochef-recipe-identifying-app)
 - [College Projects](https://ycpoon.github.io/collegeprojects/)
   - Full List of College Projects: [https://ycpoon.github.io/collegeprojects/](https://ycpoon.github.io/collegeprojects/)
-- [Archived Projects](#archived-past-projects-️)
+- [Archived Past Projects](#archived-past-projects-️)
   - [Socius: Work Motivation App](#socius-work-motivation-app)
   - [Autonomous Quadcopter](#autonomous-quadcopter)
   - [Saunea 3000](#saunea-3000)

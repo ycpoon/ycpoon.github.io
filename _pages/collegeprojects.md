@@ -26,7 +26,7 @@ Click on any of the following project titles to be directed to its description:
 - [Euchre Card Game, Post Classifier Program, Seam-Carving Algorithm (EECS 280)](#euchre-card-game-post-classifier-program-seam-carving-algorithm-eecs-280)
 - [Custom Bash Shell, Pig-Latin Translation Program, Customized Python Library (EECS 201)](#custom-bash-shell-pig-latin-translation-program-customized-python-library-eecs-201)
 
-## College Projects
+## College Projects 🗄️
 
 -------------------------------
 
