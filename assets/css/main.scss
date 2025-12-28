@@ -115,19 +115,18 @@ h2, h3, h4 {
 }
 
 @media (max-width: 768px) {
-  .page__content .skill-table table,
-  .page__content .skill-table tbody,
-  .page__content .skill-table tr {
+  .page__content .skill-table table {
     display: block;
-    width: 100%;
   }
 
   .page__content .skill-table tr {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    display: flex;
+    flex-wrap: wrap;
   }
 
   .page__content .skill-table td {
+    width: 50%;
+    box-sizing: border-box;
     padding: 16px 8px;
   }
 }
