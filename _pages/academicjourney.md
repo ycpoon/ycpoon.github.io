@@ -86,7 +86,7 @@ Click on any of the course title to be directed to its description:
 **EECS 470: Computer Architecture**, Winter 2025
 - Advanced study of computer architecture including out-of-order execution, memory systems, branch predictors, multiprocessors, and more, with a SystemVerilog-based processor design project using industry tools (Synopsys VCS and Design Compiler)
 - *Projects Completed:* [MIPS R10K Style Out-of-Order Processor](/collegeprojects/#mips-r10k-style-out-of-order-processor-eecs-470)
-- *Skills Acquired:* CPU Design & Verification, Advanced Cache Design, SystemVerilog, SystemVerilog Assertions (SVA), Synopsys VCS & Design Compiler, Formal Verification, JasperGold
+- *Skills Acquired:* CPU Design & Verification, Advanced Cache Design, SystemVerilog, SystemVerilog Assertions (SVA), RISC-V Assembly, Tcl, Synopsys VCS & Design Compiler, Formal Verification, JasperGold
 
 &nbsp;
 
