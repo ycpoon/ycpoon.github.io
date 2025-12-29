@@ -35,7 +35,7 @@ redirect_from:
       <td><a href="#python-programming-and-scripting">Python</a></td>
       <td><a href="#cuda">CUDA</a></td>
       <td><a href="#vivado-xilinx-fpga">Vivado</a></td>
-      <td><a href="#spi-uart-i2c-communication-protocols">SPI, UART, I2C</a></td>
+      <td><a href="#spi-uart-i2c-communication-protocols">Serial Communication: SPI, UART, I2C</a></td>
     </tr>
   </table>
 </div>
