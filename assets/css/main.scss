@@ -81,6 +81,7 @@ h2, h3, h4 {
 .skill-table table {
   width: 100%;
   border-collapse: collapse;
+  border: 2px solid #333;
   table-layout: auto;
 }
 
@@ -88,6 +89,24 @@ h2, h3, h4 {
   padding: 12px 10px;
   text-align: center;
   vertical-align: middle;
+  border-left: 1px solid #999;  /* vertical lines */
+  border-right: 1px solid #999;
+}
+
+.skill-table tr:first-child td {
+  border-top: none;             /* optional, avoid double top border */
+}
+
+.skill-table tr:first-child {
+  border-bottom: 2px solid #333; /* thick line after header row */
+}
+
+.skill-table tr td:first-child {
+  border-left: none;             /* avoid double border on left */
+}
+
+.skill-table tr td:last-child {
+  border-right: none;            /* avoid double border on right */
 }
 
 .skill-table td,
