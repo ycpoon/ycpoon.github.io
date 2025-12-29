@@ -81,8 +81,14 @@ h2, h3, h4 {
 .skill-table table {
   width: 100%;
   border-collapse: collapse;
-  border: 2px solid #333;
+  border: 1px solid #333;
   table-layout: auto;
+}
+
+.skill-table table td,
+.skill-table table th {
+  width: 25%; /* equally divide 4 columns */
+  text-align: center; /* optional: center content */
 }
 
 .skill-table td {
@@ -98,7 +104,7 @@ h2, h3, h4 {
 }
 
 .skill-table tr:first-child {
-  border-bottom: 2px solid #333; /* thick line after header row */
+  border-bottom: 1px solid #333; /* thick line after header row */
 }
 
 .skill-table tr td:first-child {
