@@ -38,10 +38,10 @@ redirect_from:
       <td><a href="#spi-uart-i2c-communication-protocols">Serial Communication - SPI, UART, I2C</a></td>
     </tr>
     <tr>
-      <td>-----End-----</td>
-      <td>-----End-----</td>
-      <td>-----End-----</td>
-      <td>-----End-----</td>
+      <td>=====End=====</td>
+      <td>=====End=====</td>
+      <td>=====End=====</td>
+      <td>=====End=====</td>
     </tr>
   </table>
 </div>
