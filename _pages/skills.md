@@ -14,15 +14,15 @@ redirect_from:
 <div class="skill-table">
   <table>
     <tr>
-      <td>  Languages  </td>
-      <td>  Frameworks </td>
-      <td>    Tools    </td>
-      <td>  Protocols  </td>
+      <td>Languages</td>
+      <td>Frameworks</td>
+      <td>Tools</td>
+      <td>Protocols</td>
     </tr>
     <tr>
       <td><a href="#verilogsystemverilog">Verilog, SystemVerilog</a></td>
       <td><a href="#universal-verification-methodology-uvm">UVM</a></td>
-      <td><a href="#synopsys-vcs--design-compiler">Synopsys VCS & Design Compiler</a></td>
+      <td><a href="#synopsys-vcs--design-compiler">SynopsysVCSTe & Design Compiler</a></td>
       <td><a href="#axi4-streammemory-mappedlite">AXI4</a></td>
     </tr>
     <tr>
@@ -35,7 +35,7 @@ redirect_from:
       <td><a href="#python-programming-and-scripting">Python</a></td>
       <td><a href="#cuda">CUDA</a></td>
       <td><a href="#vivado-xilinx-fpga">Vivado</a></td>
-      <td><a href="#spi-uart-i2c-communication-protocols">Serial Comm: SPI, UART, I2C</a></td>
+      <td><a href="#spi-uart-i2c-communication-protocols">Serial Communication - SPI, UART, I2C</a></td>
     </tr>
   </table>
 </div>
