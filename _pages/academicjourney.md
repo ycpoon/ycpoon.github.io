@@ -110,7 +110,7 @@ Click on any of the course title to be directed to its description:
 **EECS 270: Digital Logic Design**, Fall 2023
 - Introductory study of digital logic design, covering topics in combinational & sequential digital circuits, Boolean algebra, FSM, RTL design, timing analysis, and logic/state optimization, supported by hands-on Verilog projects
 - *Projects Completed:* [Four Function Calculator, Traffic Light Controller, UpDown Counter](/collegeprojects/#four-function-calculator-traffic-light-controller-updown-counter-eecs-270)
-- *Skills Acquired:* Verilog, Verilog Testbenching, FSM, Static Timing Analysis, Adder/Subtractor, Booth Multiplier, Quotient Divisor, Carry Lookahead Structure
+- *Skills Acquired:* Verilog, Verilog Testbenching, ModelSim, Quartus, FSM, Static Timing Analysis, Adder/Subtractor, Booth Multiplier, Quotient Divisor, Carry Lookahead Structure
 
 &nbsp;
 
