@@ -20,7 +20,7 @@ redirect_from:
       <td>Protocols</td>
     </tr>
     <tr>
-      <td><a href="#verilogsystemverilog">Verilog/SystemVerilog</a></td>
+      <td><a href="#verilogsystemverilog">Verilog, SystemVerilog</a></td>
       <td><a href="#universal-verification-methodology-uvm">UVM</a></td>
       <td><a href="#synopsys-vcs--design-compiler">Synopsys VCS & Design Compiler</a></td>
       <td><a href="#axi4-streammemory-mappedlite">AXI4</a></td>
