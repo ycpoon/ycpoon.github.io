@@ -14,10 +14,10 @@ redirect_from:
 <div class="skill-table">
   <table>
     <tr>
-      <td>Languages</td>
-      <td>Frameworks</td>
-      <td>Tools</td>
-      <td>Protocols</td>
+      <td>  Languages  </td>
+      <td>  Frameworks </td>
+      <td>    Tools    </td>
+      <td>  Protocols  </td>
     </tr>
     <tr>
       <td><a href="#verilogsystemverilog">Verilog, SystemVerilog</a></td>
