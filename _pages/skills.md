@@ -86,7 +86,7 @@ redirect_from:
 
 ### Verilog/SystemVerilog
 - Strong proficiency in Verilog and SystemVerilog for designing, implementing and verifying RTL designs, with comprehensize internship and college/personal project experiences.
-- Skills Acquired from: ***Internships*** - [AMD](/experiences/#amd), [Efinix Inc.](/experiences/#efinix) ; ***Notable Classes*** - [EECS 470](/academicjourney/#eecs470), [EECS 270](/academicjourney/#eecs270) ; ***Notable Projects*** - [Out-of-Order Processor](/projects/#mips-r10k-style-out-of-order-processor), [IP Core Library](/projects/#systemverilog-ip-core-library), [A.U.R.A ML Accelerator](/collegeprojects/#attention-unit-for-resource-constrained-architectures-eecs-570), [SpecNN Accelerator for kNN](/collegeprojects/#specnn-hardware-accelerator-for-knn-eecs-573)
+- Skills Acquired from: *Internships* - [AMD](/experiences/#amd), [Efinix Inc.](/experiences/#efinix) ; *Notable Classes* - [EECS 470](/academicjourney/#eecs470), [EECS 270](/academicjourney/#eecs270) ; *Notable Projects* - [Out-of-Order Processor](/projects/#mips-r10k-style-out-of-order-processor), [IP Core Library](/projects/#systemverilog-ip-core-library), [A.U.R.A ML Accelerator](/collegeprojects/#attention-unit-for-resource-constrained-architectures-eecs-570), [SpecNN Accelerator for kNN](/collegeprojects/#specnn-hardware-accelerator-for-knn-eecs-573)
 
 &nbsp;
 &nbsp;
