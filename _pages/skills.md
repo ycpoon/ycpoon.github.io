@@ -85,7 +85,7 @@ redirect_from:
 &nbsp;
 
 ### Verilog/SystemVerilog
-- Strong proficiency in Verilog and SystemVerilog for designing, implementing and verifying RTL designs, with comprehensize internship and college/personal project experiences.
+- Strong proficiency in Verilog and SystemVerilog for designing, implementing and verifying RTL designs, with comprehensive internship and college/personal project experiences.
 - Skills Acquired From: 
   - *Internships* - [AMD](/experiences/#amd), [Efinix Inc.](/experiences/#efinix)
   - *Notable Classes* - [Computer Architecture](/academicjourney/#eecs470), [Digital Logic Design](/academicjourney/#eecs270)
@@ -95,6 +95,10 @@ redirect_from:
 &nbsp;
 
 ### C and C++ Programming
+- Strong proficiency in C and C++ programming across diverse applications, including performance-critical system design, embedded systems, hardware modeling, multithreading, socket programming, OS-level development, and more.
+- Skills Acquired From:
+  - *Notable Classes* - [Operating Systems](/academicjourney/#eecs482), [Data Structures & Algorithms](/academicjourney/#eecs281), [Computer Organization](/academicjourney/#eecs370), [Programming and Intro Data Structures](/academicjourney/#eecs280)
+  - *Notable Projects* [Thread Library, Pager, Multi-Threaded Network File Server](/collegeprojects/#thread-library-pager-multi-threaded-network-file-server-eecs-482), [Simple SQL Database, Words Morphing Algorithm, Optimal Route Finding Algorithm](/collegeprojects/#simple-sql-database-words-morphing-algorithm-optimal-route-finding-algorithm-eecs-281), [ML Hardware Accelerator Modeling](/collegeprojects/#attention-unit-for-resource-constrained-architectures-eecs-570)
 
 ### Python (Programming and Scripting)
 
