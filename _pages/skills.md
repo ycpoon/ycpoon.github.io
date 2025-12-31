@@ -87,7 +87,7 @@ redirect_from:
 ### Verilog/SystemVerilog
 - Strong proficiency in Verilog and SystemVerilog for designing, implementing and verifying RTL designs, with comprehensive internship and college/personal project experiences.
 - Skills Acquired From: 
-  - *Internships* - [Design Verification Intern at AMD](/experiences/#amd), [DFT and Post Silicon Validation Intern at Efinix Inc](/experiences/#efinix)
+  - *Notable Experiences* - [Design Verification at AMD](/experiences/#amd), [DFT & Post Silicon Validation at Efinix Inc](/experiences/#efinix)
   - *Notable Classes* - [Computer Architecture](/academicjourney/#eecs470), [Digital Logic Design](/academicjourney/#eecs270)
   - *Notable Projects* - [Out-of-Order Processor](/projects/#mips-r10k-style-out-of-order-processor), [IP Core Library](/projects/#systemverilog-ip-core-library), [A.U.R.A ML Accelerator](/collegeprojects/#attention-unit-for-resource-constrained-architectures-eecs-570), [SpecNN Accelerator for kNN](/collegeprojects/#specnn-hardware-accelerator-for-knn-eecs-573)
 
@@ -98,14 +98,17 @@ redirect_from:
 - Strong proficiency in C/C++ programming across diverse applications, including performance-critical system design, embedded systems, hardware modeling, multithreading, socket programming, and OS-level development.
 - Skills Acquired From:
   - *Notable Classes* - [Operating Systems](/academicjourney/#eecs482), [Data Structures & Algorithms](/academicjourney/#eecs281), [Computer Organization](/academicjourney/#eecs370), [Programming and Intro Data Structures](/academicjourney/#eecs280), [Parallel Programming](academicjourney/#eecs471)
-  - *Notable Projects* [Thread Library, Pager, Multi-Threaded Network File Server](/collegeprojects/#thread-library-pager-multi-threaded-network-file-server-eecs-482), [Simple SQL Database, Words Morphing Algorithm, Optimal Route Finding Algorithm](/collegeprojects/#simple-sql-database-words-morphing-algorithm-optimal-route-finding-algorithm-eecs-281), [ML Hardware Accelerator Modeling](/collegeprojects/#attention-unit-for-resource-constrained-architectures-eecs-570)
+  - *Notable Projects* - [Thread Library, Pager, Multi-Threaded Network File Server](/collegeprojects/#thread-library-pager-multi-threaded-network-file-server-eecs-482), [Simple SQL Database, Words Morphing Algorithm, Optimal Route Finding Algorithm](/collegeprojects/#simple-sql-database-words-morphing-algorithm-optimal-route-finding-algorithm-eecs-281), [ML Hardware Accelerator Modeling](/collegeprojects/#attention-unit-for-resource-constrained-architectures-eecs-570)
   - *Notable Experiences* - [Firmware Engineering at UMich Solar Car](/experiences/#solar-car), [Embedded Systems Team Lead at MHackers](/experiences/#mhackers)
   
 &nbsp;
 &nbsp;
 
 ### Python (Programming and Scripting)
-- Strong proficiency in Python for various system design, hardware modeling programming tasks and automation, flow-integration scripting tasks
+- Strong proficiency in Python for various system design, GUI development, hardware modeling, prompt engineering programming tasks and automation, flow-integration scripting tasks
+- Skills Acquired From:
+  - *Notable Experiences* - [USB Transaction GUI Debug Tool Development at AMD](/experiences/#amd), [Automation & Tool-Integration Scripting at Efinix](/experiences/#efinix)
+  - *Notable Projects* - [kNN Hardware Accelerator Cycle Accurate Modeling](/collegeprojects/#specnn-hardware-accelerator-for-knn-eecs-573), [Verification Flow-Integration Scripting for ML Hardware Accelerator](/collegeprojects/#attention-unit-for-resource-constrained-architectures-eecs-570), [Prompt Engineering for VSEE](/projects/#vsee-vcstartup-match-making-app)
 
 ### RISC-V and ARM Assembly
 
