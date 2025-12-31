@@ -110,6 +110,9 @@ redirect_from:
   - *Notable Experiences* - [USB Transaction GUI Debug Tool Development at AMD](/experiences/#amd), [Automation & Tool-Integration Scripting at Efinix](/experiences/#efinix)
   - *Notable Projects* - [kNN Hardware Accelerator Cycle Accurate Modeling](/collegeprojects/#specnn-hardware-accelerator-for-knn-eecs-573), [Verification Flow-Integration Scripting for ML Hardware Accelerator](/collegeprojects/#attention-unit-for-resource-constrained-architectures-eecs-570), [Prompt Engineering for VSEE](/projects/#vsee-vcstartup-match-making-app)
 
+&nbsp;
+&nbsp;
+
 ### RISC-V and ARM Assembly
 
 ### Universal Verification Methodology (UVM)

@@ -14,8 +14,8 @@ redirect_from:
 ------------------------------- 
 Click on any of the job titles to be directed to its description:
 - [Work Experiences](#work-experiences-)
-  - [Aug 2024 - Dec 2025: Logic Design Teaching Assistant at UMich CSE Dept.](#cse)
-  - [May 2025 - Aug 2025: Design Verification Intern at AMD](#amd)
+  - [UMich CSE Dept, Digital Logic Design Teaching Assistant](#cse), Aug 2024 - Dec 2025
+  - [AMD, Design Verification Intern](#amd), May 2025 - Aug 2025
   - [May 2024 - Aug 2024: Post Silicon Validation and DFT Engineering Intern at Efinix](#efinix)
   - [Aug 2023 - Aug 2024: Microsystems and Firmware Engineer at UMich Solar Car Team](#solar-car)
   - [Jan 2023 - Mar 2023: Tech Research Intern at Aerodyne Group](#aerodyne)
