@@ -21,15 +21,15 @@ Click on any of the job titles to be directed to its description:
   - [Aerodyne Group -  Tech Research Intern](#aerodyne), *Jan 2023 - Mar 2023*
   - [Taylor's University - Calculus 1 and Physics 1 Teaching Assistant](#taylors-university), *Jan 2022 to Dec 2022*
 - [Leadership Experiences](#leadership-experiences-)
-  - [Aug 2024 - Aug 2025: Embedded Systems Team Lead at Michigan Hackers](#mhackers)
-  - [Oct 2022 - Oct 2023: President at Agents of Tech, Taylor's University](#aot)
-  - [Sep 2022 - Sep 2023: National Executive Director (Malaysia) at ICMS](#icms)
-  - [Oct 2022 - Oct 2022: Director of Finance and Sponsorship at YME](#yme)
-  - [Nov 2021 - Sep 2022: Campus Welfare Committee Member at TUSC](#tusc)
+  - [Michigan Hackers - Embedded Systems Team Lead at Michigan Hackers](#mhackers), *Aug 2024  to Aug 2025*
+  - [Agents of Tech, Taylor's University - President](#aot), *Oct 2022 to Oct 2023*
+  - [ICMS - National Executive Director (Malaysia)](#icms), *Sep 2022 to Sep 2023*
+  - [YME - Director of Finance and Sponsorship](#yme), *Oct 2022 to Oct 2023*
+  - [TUSC - Campus Welfare Committee Member](#tusc), *Nov 2021 to Sep 2022*
 - [Professional Activities & Conferences Leadership](#professional-activities--conferences-leadership-)
-  - [Oct 2022: Executive Coordinator of Malaysian Students’ Technology Week](#mstw)
-  - [Aug 2021: Project Manager at Be Your Own Boss Entrepreneurship Event](#byob)
-  - [Aug 2021: Committee Affairs Associate at Taylor's Lakeside MUN](#tlmun)
+  - [Malaysian Students’ Technology Week - Executive Coordinator](#mstw), *Oct 2022*
+  - [Be Your Own Boss Entrepreneurship Event - Project Manager](#byob), *Aug 2021*
+  - [Taylor's Lakeside MUN - Committee Affairs Associate](#tlmun), *Aug 2021*
 
 ## Work Experiences 💼
 
