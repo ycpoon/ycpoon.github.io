@@ -98,7 +98,7 @@ redirect_from:
 - Strong proficiency in C/C++ programming across diverse applications, including performance-critical system design, embedded systems, hardware modeling, multithreading, socket programming, and OS-level development.
 - Skills Acquired From:
   - *Notable Classes* - [Operating Systems](/academicjourney/#eecs482), [Data Structures & Algorithms](/academicjourney/#eecs281), [Computer Organization](/academicjourney/#eecs370), [Programming and Intro Data Structures](/academicjourney/#eecs280), [Parallel Programming](academicjourney/#eecs471)
-  - *Notable Projects* - [Thread Library, Pager, Multi-Threaded Network File Server](/collegeprojects/#thread-library-pager-multi-threaded-network-file-server-eecs-482), [Simple SQL Database, Words Morphing Algorithm, Optimal Route Finding Algorithm](/collegeprojects/#simple-sql-database-words-morphing-algorithm-optimal-route-finding-algorithm-eecs-281), [ML Hardware Accelerator Modeling](/collegeprojects/#attention-unit-for-resource-constrained-architectures-eecs-570)
+  - *Notable Projects* - [Thread Library, Pager, Multi-Threaded Network File Server](/collegeprojects/#thread-library-pager-multi-threaded-network-file-server-eecs-482), [Simple SQL Database, Words Morphing & Optimal Route Finding Algorithm](/collegeprojects/#simple-sql-database-words-morphing-algorithm-optimal-route-finding-algorithm-eecs-281), [ML Hardware Accelerator Modeling](/collegeprojects/#attention-unit-for-resource-constrained-architectures-eecs-570), [Cycle Accurate Pipelined Processor and Cache Simulator](/collegeprojects/#lc2k-isa-assembler--linker-5-stage-pipelined-processor-simulator-cache-simulator-eecs-370)
   - *Notable Experiences* - [Firmware Engineering at UMich Solar Car](/experiences/#solar-car), [Embedded Systems Team Lead at MHackers](/experiences/#mhackers)
   
 &nbsp;
@@ -107,15 +107,23 @@ redirect_from:
 ### Python (Programming and Scripting)
 - Strong proficiency in Python for various system design, GUI development, hardware modeling, prompt engineering programming tasks and automation, flow-integration scripting tasks
 - Skills Acquired From:
-  - *Notable Experiences* - [USB Transaction GUI Debug Tool Development at AMD](/experiences/#amd), [Automation & Tool-Integration Scripting at Efinix](/experiences/#efinix)
+  - *Notable Experiences* - [USB Transaction Python Model and GUI Debug Tool Development at AMD](/experiences/#amd), [Automation and Tool-Integration Scripting at Efinix](/experiences/#efinix)
   - *Notable Projects* - [kNN Hardware Accelerator Cycle Accurate Modeling](/collegeprojects/#specnn-hardware-accelerator-for-knn-eecs-573), [Verification Flow-Integration Scripting for ML Hardware Accelerator](/collegeprojects/#attention-unit-for-resource-constrained-architectures-eecs-570), [Prompt Engineering for VSEE](/projects/#vsee-vcstartup-match-making-app)
 
 &nbsp;
 &nbsp;
 
 ### RISC-V and ARM Assembly
+- Proficient in the ISA and Assembly of RV32I subset in RISC-V, with experience designing assembler, linker, and the hardware processor for it. Baseline knowledge and understanding of the LEGv8 subset of ARM Assembly.
+- Skills Acquired From:
+  - *Notable Classes* - [Computer Organization](/academicjourney/#eecs370), [Computer Architecture](/academicjourney/#eecs470)
+  - *Notable Projects* - [Assembler & Linker](/collegeprojects/#lc2k-isa-assembler--linker-5-stage-pipelined-processor-simulator-cache-simulator-eecs-370), [RISC-V Out-of-Order Processor](/projects/#mips-r10k-style-out-of-order-processor), [RISC-V In-Order Pipelined Processor](/projects/#risc-v-5-stage-pipeline-processor)
+
+&nbsp;
+&nbsp;
 
 ### Universal Verification Methodology (UVM)
+- Working Knowledge of Universal Verification Methodology (UVM) gained from internship experiences and personal project experiences
 
 ### Synopsys VCS & Design Compiler
 
