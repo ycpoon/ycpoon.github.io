@@ -63,18 +63,18 @@ redirect_from:
     </tr>
     <tr>
       <td><a href="#perl">Perl</a></td>
-      <td>=============</td>
+      <td class="divider">=============</td>
       <td><a href="#altium-designer">Altium Designer</a></td>
-      <td>=============</td>
+      <td class="divider">=============</td>
     </tr>
     <tr>
       <td><a href="#vhdl">VHDL</a></td>
       <td></td>
-      <td>=============</td>
+      <td class="divider">=============</td>
       <td></td>
     </tr>
     <tr>
-      <td>=============</td>
+      <td class="divider">=============</td>
       <td></td>
       <td></td>
       <td></td>
