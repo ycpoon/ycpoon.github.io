@@ -14,12 +14,12 @@ redirect_from:
 ------------------------------- 
 Click on any of the job titles to be directed to its description:
 - [Work Experiences](#work-experiences-)
-  - [UMich CSE Dept - Digital Logic Design Teaching Assistant](#cse), *Aug 2024 - Dec 2025*
-  - [AMD - Design Verification Intern](#amd), *May 2025 - Aug 2025*
-  - [May 2024 - Aug 2024: Post Silicon Validation and DFT Engineering Intern at Efinix](#efinix)
-  - [Aug 2023 - Aug 2024: Microsystems and Firmware Engineer at UMich Solar Car Team](#solar-car)
-  - [Jan 2023 - Mar 2023: Tech Research Intern at Aerodyne Group](#aerodyne)
-  - [Jan 2022 - Dec 2022: Calculus 1 and Physics 1 Teaching Assistant at Taylor's University](#taylors-university)
+  - [UMich CSE Dept - Digital Logic Design Teaching Assistant](#cse), *Aug 2024 to Dec 2025*
+  - [Advanced Micro Devices (AMD) - Design Verification Intern](#amd), *May 2025 to Aug 2025*
+  - [Efinix Inc. - Post Silicon Validation and DFT Engineering Intern](#efinix), *May 2024 to Aug 2024*
+  - [UMich Solar Car Team - Microsystems and Firmware Engineer](#solar-car), *Aug 2023 to Aug 2024*
+  - [Aerodyne Group -  Tech Research Intern](#aerodyne), *Jan 2023 - Mar 2023*
+  - [Taylor's University - Calculus 1 and Physics 1 Teaching Assistant](#taylors-university), *Jan 2022 to Dec 2022*
 - [Leadership Experiences](#leadership-experiences-)
   - [Aug 2024 - Aug 2025: Embedded Systems Team Lead at Michigan Hackers](#mhackers)
   - [Oct 2022 - Oct 2023: President at Agents of Tech, Taylor's University](#aot)
