@@ -21,7 +21,7 @@ redirect_from:
     </tr>
     <tr>
       <td><a href="#verilogsystemverilog">Verilog, SystemVerilog</a></td>
-      <td><a href="#universal-verification-methodology-uvm">UVM</a></td>
+      <td><a href="#universal-verification-methodology-uvm">Universal Verification Methodology (UVM)</a></td>
       <td><a href="#synopsys-vcs-verdi-and-design-compiler">Synopsys VCS, Verdi, and Design Compiler</a></td>
       <td><a href="#axi4-streammemory-mappedlite">AXI4</a></td>
     </tr>
@@ -123,7 +123,7 @@ redirect_from:
 &nbsp;
 
 ### Universal Verification Methodology (UVM)
-- Working Knowledge of Universal Verification Methodology (UVM) gained from internship experiences and personal project experiences
+- Working Knowledge of the Universal Verification Methodology (UVM) verfication framework gained from internship experiences and personal project experiences
 - Skills Acquired From:
   - *Notable Experiences* - [UVM Log Debug Tool Development & UVM Test Sequence Library Refactoring at AMD](/experiences/#amd)
   - *Notable Projects* - [UVM Test Environment for ALU](/iplib/#simple-uvm-framework-on-alu)
@@ -142,14 +142,23 @@ redirect_from:
 &nbsp;
 
 ### ModelSim, Cadence Xcelium, and QuestaSim
-- Strong proficiency in RTL simulation and debugging with ModelSim, gained from college projects, while having basic familiarity with the usage of other simulation tools such as Xcelium and QuestaSim, both of which gained from internships
-- *Notable Projects with ModelSim Usage* - [Four Function Calculator, Traffic Light Controller, UpDown Counter](/collegeprojects/#four-function-calculator-traffic-light-controller-updown-counter-eecs-270)
-- *Notable Experiences* - [Worked with Cadence Xcelium and QuestaSim for RTL simulation at Efinix Inc](/experiences/#efinix)
+- Strong proficiency in RTL simulation and debugging with ModelSim, gained from college projects, while having basic familiarity with the usage of other simulation tools such as Xcelium and QuestaSim through internships
+- Skills Acquired From:
+  - *Notable Projects with ModelSim Usage* - [Four Function Calculator, Traffic Light Controller, UpDown Counter](/collegeprojects/#four-function-calculator-traffic-light-controller-updown-counter-eecs-270)
+  - *Notable Experiences* - [RTL simulation with Cadence Xcelium and QuestaSim at Efinix Inc](/experiences/#efinix)
+  - *Notable Classes* - [Digital Logic Design](/academicjourney/#eecs270)
 
 &nbsp;
 &nbsp;
 
 ### SystemVerilog Assertions (SVA)
+- Proficient in utilising SystemVerilog Assertions to build comprehensive verification testbenches/checkers, gained from college project and internship experiences
+- Skills Acquired From:
+  - *Notable Projects* - [SVA Verficiation Framework for RISC-V Out-of-Order Processor Design](/projects/#mips-r10k-style-out-of-order-processor)
+  - *Notable Experiences* - [SVA Checker Refining at AMD](/experiences/#amd)
+
+&nbsp;
+&nbsp;
 
 ### UNIX/Linux 
 
