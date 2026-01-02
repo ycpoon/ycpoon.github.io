@@ -118,7 +118,7 @@ Click on any of the following project titles to be directed to its description:
 ### LC2K ISA Assembler & Linker, 5-Stage Pipelined Processor Simulator, Cache Simulator (EECS 370)
 * Wrote a assembler program for converting LC2K assembly code to machine code object files
 * Wrote a linker program for linking object files and libraries to create executables for processors
-* Wrote a cycle-accurate LC2K Pipelined Processor simulator in C with data forwarding and Speculate & Squash mechanism 
+* Wrote a cycle-accurate LC2K 5-Stage Pipelined Processor simulator in C with hazard handling mechanism such as data forwarding and Speculate & Squash 
 * Wrote a write-back, write-allocate set-associative cache simulator in C with parameterizable cache, set size
 
 | ***LC2K Asembler & Linker*** | ***5-Stage Pipelined Processor Architecture*** | ***Cache Simulator Program*** | 

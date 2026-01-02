@@ -22,13 +22,13 @@ redirect_from:
     <tr>
       <td><a href="#verilogsystemverilog">Verilog, SystemVerilog</a></td>
       <td><a href="#universal-verification-methodology-uvm">UVM</a></td>
-      <td><a href="#synopsys-vcs--design-compiler">Synopsys VCS & Design Compiler</a></td>
+      <td><a href="#synopsys-vcs-verdi-and-design-compiler">Synopsys VCS, Verdi, and Design Compiler</a></td>
       <td><a href="#axi4-streammemory-mappedlite">AXI4</a></td>
     </tr>
     <tr>
       <td><a href="#c-and-c-programming">C, C++</a></td>
       <td><a href="#systemverilog-assertions-sva">SystemVerilog Assertions (SVA)</a></td>
-      <td><a href="#verdi-modelsim">Verdi, ModelSim</a></td>
+      <td><a href="#modelsim-cadence-xcelium-and-questasim">ModelSim, Cadence Xcelium, and QuestaSim</a></td>
       <td><a href="#usb-2030-protocol">USB 2.0/3.0+</a></td>
     </tr>
     <tr>
@@ -52,25 +52,25 @@ redirect_from:
     <tr>
       <td><a href="#matlab">MATLAB</a></td>
       <td><a href="#posixboost-threads">POSIX/Boost Threads</a></td>
-      <td><a href="#cadence-xcelium-questasim">Cadence Xcelium, QuestaSim</a></td>
+      <td><a href="#cadence-virtuoso">Cadence Virtuoso</a></td>
       <td><a href="#rgmii-gmii-mii">RGMII, GMII, MII</a></td>
     </tr>
     <tr>
       <td><a href="#tcl">Tcl</a></td>
       <td><a href="#osi-open-system-interconnection-model">OSI Model</a></td>
-      <td><a href="#cadence-virtuoso">Cadence Virtuoso</a></td>
+      <td><a href="#altium-designer">Altium Designer</a></td>
       <td><a href="#pcie">PCIe</a></td>
     </tr>
     <tr>
       <td><a href="#perl">Perl</a></td>
       <td class="divider">=============</td>
-      <td><a href="#altium-designer">Altium Designer</a></td>
+      <td class="divider">=============</td>
       <td class="divider">=============</td>
     </tr>
     <tr>
       <td><a href="#vhdl">VHDL</a></td>
       <td></td>
-      <td class="divider">=============</td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -88,7 +88,7 @@ redirect_from:
 - Strong proficiency in Verilog and SystemVerilog for designing, implementing and verifying RTL designs, with comprehensive internship and college/personal project experiences.
 - Skills Acquired From: 
   - *Notable Experiences* - [Design Verification at AMD](/experiences/#amd), [DFT & Post Silicon Validation at Efinix Inc](/experiences/#efinix)
-  - *Notable Classes* - [Computer Architecture](/academicjourney/#eecs470), [Digital Logic Design](/academicjourney/#eecs270)
+  - *Notable Classes* - [Computer Architecture](/academicjourney/#eecs470), [Digital Logic Design](/academicjourney/#eecs270), [Parallel Computer Architecture](/academicjourney/#eecs570), [MicroArchitecture](/academicjourney/#eecs573)
   - *Notable Projects* - [Out-of-Order Processor](/projects/#mips-r10k-style-out-of-order-processor), [IP Core Library](/projects/#systemverilog-ip-core-library), [A.U.R.A ML Accelerator](/collegeprojects/#attention-unit-for-resource-constrained-architectures-eecs-570), [SpecNN Accelerator for kNN](/collegeprojects/#specnn-hardware-accelerator-for-knn-eecs-573)
 
 &nbsp;
@@ -124,10 +124,30 @@ redirect_from:
 
 ### Universal Verification Methodology (UVM)
 - Working Knowledge of Universal Verification Methodology (UVM) gained from internship experiences and personal project experiences
+- Skills Acquired From:
+  - *Notable Experiences* - [UVM Log Debug Tool Development & UVM Test Sequence Library Refactoring at AMD](/experiences/#amd)
+  - *Notable Projects* - [UVM Test Environment for ALU](/iplib/#simple-uvm-framework-on-alu)
 
-### Synopsys VCS & Design Compiler
+&nbsp;
+&nbsp;
 
-### Verdi, ModelSim
+### Synopsys VCS, Verdi and Design Compiler
+- Proficient in the usage of Synopsys tools such as VCS, Verdi, and Design Compiler for RTL simulation, waveform debugging, and synthesis, with experience gained from internships and various college projects
+- Skills Acquired From:
+  - *Notable Experiences* - [Worked with various Synopsys tools for testcase simulation at AMD](/experiences/#amd)
+  - *Notable Projects with Synopsys Tools Usage* - [RISC-V Out-of-Order Processor](/collegeprojects/#mips-r10k-style-out-of-order-processor-eecs-470), [A.U.R.A ML Accelerator](/collegeprojects/#attention-unit-for-resource-constrained-architectures-eecs-570), [SpecNN Accelerator for kNN](/collegeprojects/#specnn-hardware-accelerator-for-knn-eecs-573)
+  - *Notable Classes* - [Computer Architecture](/academicjourney/#eecs470), [Parallel Computer Architecture](/academicjourney/#eecs570), [MicroArchitecture](/academicjourney/#eecs573)
+
+&nbsp;
+&nbsp;
+
+### ModelSim, Cadence Xcelium, and QuestaSim
+- Strong proficiency in RTL simulation and debugging with ModelSim, gained from college projects, while having basic familiarity with the usage of other simulation tools such as Xcelium and QuestaSim, both of which gained from internships
+- *Notable Projects with ModelSim Usage* - [Four Function Calculator, Traffic Light Controller, UpDown Counter](/collegeprojects/#four-function-calculator-traffic-light-controller-updown-counter-eecs-270)
+- *Notable Experiences* - [Worked with Cadence Xcelium and QuestaSim for RTL simulation at Efinix Inc](/experiences/#efinix)
+
+&nbsp;
+&nbsp;
 
 ### SystemVerilog Assertions (SVA)
 
