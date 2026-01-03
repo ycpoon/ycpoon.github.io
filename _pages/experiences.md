@@ -42,8 +42,7 @@ Click on any of the job titles to be directed to its description:
 - Responsible in leading weekly lab sessions, guiding students on RTL design projects in the course, and grading students' designs.
 - Supporting the development of the course's Autograder, mainly responsible for structuring test cases using UVM frameworks to verify students' digital designs more systematically and provide students with automated and accurate feedback on buggy designs.
 - Wrote several bash scripts automating RTL design testing and grading for 200+ students. 
-
-***Skills Associated:*** Teaching, Verilog, RTL Design, Bash
+- ***Skills Associated:*** Teaching, Verilog, RTL Design, Bash
 
 *References:*  
 *Saquib Razak, Professor of CSE UMich, razak@umich.edu;  Karem Sakallah, Professor of CSE UMich, karem@umich.edu*
@@ -83,6 +82,8 @@ Click on any of the job titles to be directed to its description:
 - Gained hands-on experience in JTAG-based debugging, scan insertions, ATPG, & fault simulation using Synopsys TetraMax diagnostic tools
 - Collaborated with Design Verification in the testing and verification of Efinix’s RISC-V Core and Triple Speed Ethernet MAC Core, assisted in refining UVM testbenches for Efinix’s EdgeVision image processing module and speed verification of Ethernet IP.
 
+***Skills Associated:*** Post Silicon Validation, DFT, BIST, Python, Perl, SystemVerilog
+
 *References: Nen Wei Ng, Engineering & Operations Director at Efinix Inc., nwng@efinixinc.com*
 
 |  ![EF_self](/images/efinix_selfie.jpeg){: width="400px"} |  ![EF_proto](/images/efinix_prototyping.jpeg){: width="350px"}|  ![EF_team](/images/efinix_team.jpeg){: width="350px"}  | 
@@ -102,6 +103,8 @@ Click on any of the job titles to be directed to its description:
 - Analyzed and rewrote the firmware code for the car’s light and brake system to increase the response rate by ~120%
 - Developed a RTOS-based firmware that handles interrupts and schedules tasks for the MCU based on specific priorities.  
 
+***Skills Associated:*** Firmware, STM32Cube, C++, RTOS, Altium Designer, PCB Design
+
 *References: Jeffrey Yang, UMSCT Microsystems Lead, yangje@umich.edu*
 
 |  ![myself](/images/myself.JPG){: width="200px"} |  ![Altium](/images/altium.jpg){: width="200px"}|  ![Firmware](/images/firmware.jpg){: width="200px"}  | ![STM](/images/stm.jpg){: width="200px"} |
@@ -120,6 +123,8 @@ Click on any of the job titles to be directed to its description:
 - Assisted in implementing infra-red, LiDAR sensors to drones by using Arduino and Embedded C programming.
 - Performed research & analysis into emerging drone and chip technologies to fit clients’ needs. 
 
+***Skills Associated:*** Tech Research, PCB Design, LiDAR, Embedded C, Software Prototyping
+
 *References: Jamie Barker, Future Tech Research Analyst, jamie.barker@aerodyne.ai*
   
 |  ![3D](/images/3dmodel.jpg){: width="300px"} |  ![Meeting](/images/meeting.jpeg){: width="300px"}|  ![Group](/images/group.jpg){: width="300px"}  |
@@ -136,6 +141,8 @@ Click on any of the job titles to be directed to its description:
 - Assisted professors in planning course contents/schedules, designing homework, and grading students’ works.   
 - Implemented tailored academic support strategies resulting in the transformation of 8 students from initial ‘Fail’ grade to ‘A’.
 - Certificates: [Calculus 1](/files/Cal1.pdf) and [Physics 1](/files/Physics1.pdf) 
+
+***Skills Associated:*** Teaching, Maths, Physics
 
 *References:*  
 *Dr. Ng Eng Hui, Senior Lecturer I, enghui.ng@taylors.edu.my*  

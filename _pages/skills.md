@@ -84,6 +84,8 @@ redirect_from:
 
 &nbsp;
 
+***Other Unclassified Technical Skills:*** BIST, RTOS, 
+
 ### Verilog/SystemVerilog
 - Strong proficiency in Verilog and SystemVerilog for designing, implementing and verifying RTL designs, with comprehensive internship and college/personal project experiences.
 - Skills Acquired From: 
