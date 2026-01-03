@@ -43,6 +43,8 @@ Click on any of the job titles to be directed to its description:
 - Supporting the development of the course's Autograder, mainly responsible for structuring test cases using UVM frameworks to verify students' digital designs more systematically and provide students with automated and accurate feedback on buggy designs.
 - Wrote several bash scripts automating RTL design testing and grading for 200+ students. 
 
+**Skills Associated:** Verilog, RTL Design, Bash, Teaching
+
 *References:*  
 *Saquib Razak, Professor of CSE UMich, razak@umich.edu;  Karem Sakallah, Professor of CSE UMich, karem@umich.edu*
 

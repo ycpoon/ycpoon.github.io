@@ -178,9 +178,9 @@ Click on any of the following project titles to be directed to its description:
 &nbsp;
 
 ### Custom Bash Shell, Pig-Latin Translation Program, Customized Python Library (EECS 201)
-  * Built and customized my own bash shell
-  * Engineered a Pig-Latin Translation Program
-  * Created my own python library
+  * Built and customized my own bash shell for color coded and working directory displaying shell prompts; Added functionalities such as command for adding date to filename, a combined command for git add, commit, push, and a command for file reorganization
+  * Engineered a English to Pig-Latin Translation Program using advanced regex and shell scripting
+  * Created a dynamically-linked Python library supporting plugin functionalities
 
 | ***Customized Shell*** | ***Customized Shell Functions*** | ***Pig-Latinfy Program*** | 
 |:-----------------------:|:-----------------------:|:-----------------------:|

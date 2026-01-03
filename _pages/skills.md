@@ -161,12 +161,41 @@ redirect_from:
 &nbsp;
 
 ### UNIX/Linux 
+- Strong proficiency working in UNIX/Linux environments, with comprehensive experiences from college, personal projects, and internships
+- Skills Acquired From:
+  - *Notable Experiences with Day-to-Day UNIX/Linux Usage* - [Design Verification Intern at AMD](/experiences/#amd), [DFT & Post-Silicon Validation Intern at Efinix](/experiences/#efinix)
+  - *Notable Projects developed on UNIX/Linux Environments* - [RISC-V Out-of-Order Processor Design](/projects/#mips-r10k-style-out-of-order-processor)
+  - *Notable Classes* - [Computer Science Pragmatics](/academicjourney/#eecs201)
+
+&nbsp;
+&nbsp;
 
 ### Git Version Control
+- Proficient in the utilisation of version control tools such as Git, with experiences using it for practically all collaborated and personal projects
+- Skills Acquired From:
+  - *Notable Experiences* - [RISC-V Out-of-Order Processor Design](/projects/#mips-r10k-style-out-of-order-processor), [A.U.R.A ML Accelerator](/collegeprojects/#attention-unit-for-resource-constrained-architectures-eecs-570)
+  - *Notable Classes* - [Computer Science Pragmatics](/academicjourney/#eecs201)
+  
+&nbsp;
+&nbsp;
 
 ### Shell Scripting
+- Proficient in shell scripting (particularly in Bash) for various purpose including build/compile/test automation, tool integration, flow integration, log extraction, and comparison
+- Skills Acquired From:
+  - *Notable Projects* - [Customized Bash Shell for Better Shell Prompts and Added Functionality](/collegeprojects/#custom-bash-shell-pig-latin-translation-program-customized-python-library-eecs-201), [English to Pig-Latin Translation Shell Script](/collegeprojects/#custom-bash-shell-pig-latin-translation-program-customized-python-library-eecs-201), [Build, Compile, & Compare Automation Scripting for Processor Design Verification](/projects/#mips-r10k-style-out-of-order-processor)
+  - *Notable Experiences* - [Compilation & Test Automation Script Development for Auto-Grading 200+ students' RTL Design](/experiences/#cse)
+
+&nbsp;
+&nbsp;
 
 ### AXI4 Stream/Memory-Mapped/Lite
+- Basic familiarity with the AXI4 protocol including the stream, memory-mapped, and lite version, gained from my internship and personal project experiences
+- Skills Acquired From:
+  - *Notable Experiences* - [Centralized Tracker Tool Development (which involves monitoring AXI interfaces of the DMA) at AMD](/experiences/#amd)
+  - *Notable Projects* - [AXI4-Stream Interconnect FIFO](/iplib/#axi4-stream-interconnect-fifo)
+
+&nbsp;
+&nbsp;
 
 ### USB 2.0/3.0+ Protocol
 
@@ -179,8 +208,6 @@ redirect_from:
 ### TCP/IP Protocol
 
 ### CUDA
-
-### Cadence Xcelium, QuestaSim
 
 ### POSIX/Boost Threads
 
