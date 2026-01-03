@@ -43,7 +43,7 @@ Click on any of the job titles to be directed to its description:
 - Supporting the development of the course's Autograder, mainly responsible for structuring test cases using UVM frameworks to verify students' digital designs more systematically and provide students with automated and accurate feedback on buggy designs.
 - Wrote several bash scripts automating RTL design testing and grading for 200+ students. 
 
-*Skills Associated:* Verilog, RTL Design, Bash, Teaching
+***Skills Associated:*** Teaching, Verilog, RTL Design, Bash
 
 *References:*  
 *Saquib Razak, Professor of CSE UMich, razak@umich.edu;  Karem Sakallah, Professor of CSE UMich, karem@umich.edu*
@@ -63,7 +63,7 @@ Click on any of the job titles to be directed to its description:
 -	Developed a Python script for parsing post-simulation UVM logs and generating an interactive GUI centralized tracker for USB transactions, comprising of transfers queued in system memory, AXI interfacing, DMA reads/writes, protocol-level packet exchanges, and more. 
 - Refactored 1000+ lines of xHCI test sequence library by reorganizing general sequence classes to testcase-specific sequence classes and reconfiguring internal build scripts to support the new structure, improving test clarity and scalability for easier future debugging.
 
-**Skills Associated:** Verilog, RTL Design, Bash, Teaching
+***Skills Associated:*** Design Verification, Universal Verification Methodology (UVM), Verdi, USB, Python, SystemVerilog
 
 *References: Chi Chiet Woo, Senior Manager of Silicon Design Engineering, ChiChiet.Woo@amd.com*
 
